@@ -4,17 +4,17 @@
 
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
+  --background-start-rgb: 255, 255, 255;
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
+/*@media (prefers-color-scheme: dark) {*/
+/*  :root {*/
+/*    --foreground-rgb: 255, 255, 255;*/
+/*    --background-start-rgb: 0, 0, 0;*/
+/*    --background-end-rgb: 0, 0, 0;*/
+/*  }*/
+/*}*/
 
 body {
   color: rgb(var(--foreground-rgb));
@@ -24,4 +24,49 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+.vert {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+}
+
+.weekend-red {
+  background-color: #ffcfda;
+}
+
+.daily-green {
+  background-color: #d0e6c0;
+}
+
+.weekend-red-hover:hover {
+  background-color: #dfafba;
+}
+
+.daily-green-hover:hover {
+  background-color: #b0c6a0;
+}
+
+.doug-grey {
+  background-color: #535353;
+  color: #ffffff;
+}
+
+table {
+  /*font-family: 'Noto Sans JP', sans-serif;*/
+  /*font-size: 1em;*/
+}
+
+th {
+  font-weight: normal;
+}
+
+td {
+  text-align: center;
+}
+
+.heading-font {
+  /*font-family: 'BIZ UDGothic', sans-serif;*/
+  /*noinspection CssUnresolvedCustomProperty*/
+  font-family: var(--font-bizudGothic);
 }

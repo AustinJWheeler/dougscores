@@ -1,113 +1,236 @@
 import Image from 'next/image'
+import {dougScores} from '../doug_scores'
+import Filters from "@/components/filters";
 
-export default function Home() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">app/page.js</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
+
+export default function Home({searchParams}) {
+
+    const makes = searchParams.make && searchParams.make.split(',')
+    const {sort, rev} = searchParams
+
+    const filtered_list = makes ? dougScores.filter(x => makes.some(y => y === x.make)) : dougScores
+
+    const sorted_list = sort ? filtered_list.sort((a,b) => (b[sort] - a[sort]) * (rev ? -1 : 1)) : filtered_list
+
+    return (
+        <div className="">
+            <div className="bg-white sticky mt-0 w-full top-0 z-20 heading-font h-20 flex items-center justify-center">
+                <div className="container mx-auto flex flex-row items-center justify-between max-w-screen-lg">
+                    <a className="text-green-600 no-underline hover:text-green-700 hover:no-underline" href="#">
+                        <span className="text-2xl">DOUG</span><span className="text-2xl pl-4">SCORE</span>
+                    </a>
+
+                    <Filters/>
+
+                    <ul className="flex items-center">
+                        <li className="mr-3">
+                            <a className="inline-block py-2 px-4 text-green-600 no-underline" href="#">SCORES</a>
+                        </li>
+                        <li className="">
+                            <a className="inline-block text-green-700 no-underline hover:text-green-600 py-2 px-4"
+                               href="#">ABOUT</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div className="bg-white sticky mt-8 top-20 z-10 flex flex-col justify-start items-center">
+                <table className="">
+                    <thead>
+                    <tr>
+                        <th className="w-96" rowSpan="2"></th>
+                        <th className="weekend-red" colSpan="5">WEEKEND</th>
+                        <th className="w-1.5"></th>
+                        <th className="w-12 weekend-red"></th>
+                        <th className="w-1.5"></th>
+                        <th className="daily-green" colSpan="5">DAILY</th>
+                        <th className="w-1.5"></th>
+                        <th className="w-12 daily-green"></th>
+                        <th className="w-1.5"></th>
+                        <th className="w-32 doug-grey" rowSpan="2">
+                            <div className="flex justify-center items-center">
+                                <p className="rotate-45 transform origin-center">
+                                    DOUGSCORE
+                                </p>
+                            </div>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th className="w-9 weekend-red">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Styling
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 weekend-red">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Accel
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 weekend-red">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Handling
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 weekend-red">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Fun Factor
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 weekend-red">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Cool Factor
+                                </p>
+                            </div>
+                        </th>
+                        <th className=""></th>
+                        <th className="weekend-red">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    TOTAL
+                                </p>
+                            </div>
+                        </th>
+                        <th className=""></th>
+                        <th className="w-9 daily-green">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Features
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 daily-green">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Comfort
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 daily-green">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Quality
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 daily-green">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Practical
+                                </p>
+                            </div>
+                        </th>
+                        <th className="w-9 daily-green">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    Value
+                                </p>
+                            </div>
+                        </th>
+                        <th className=""></th>
+                        <th className="daily-green">
+                            <div className="flex justify-center items-center">
+                                <p className="vert rotate-180 transform origin-center">
+                                    TOTAL
+                                </p>
+                            </div>
+                        </th>
+                        <th className=""></th>
+                        <th className="w-3"></th>
+                        <th className="w-24 p-0">
+                            <div className="flex justify-center items-end h-28">
+
+                                <div className="flex justify-center items-center h-14 doug-grey w-full">
+                                    <p className="">
+                                        Vehicle From
+                                    </p>
+                                </div>
+                            </div>
+                        </th>
+                        <th className="w-16 p-0">
+                            <div className="flex justify-center items-end h-28">
+                                <div className="flex justify-center items-center h-14 doug-grey w-full">
+                                    <p className="">
+                                        Video
+                                    </p>
+                                </div>
+                            </div>
+                        </th>
+                    </tr>
+                    </thead>
+                </table>
+            </div>
+
+            <div className="min-h-screen flex flex-col justify-start items-center">
+                <div>
+                    <table className="">
+                        <tbody>
+                        {sorted_list.map(x => (
+                            <tr key={x.key} className={`car${x.key}`}>
+                                <td className="w-96 h-7 text-white" style={{
+                                    backgroundColor: x.bg_color,
+                                    color: x.text_color
+                                }}>{`${x.year} ${x.make} ${x.model}`}</td>
+                                <td className="weekend-red w-9">{x.styling}</td>
+                                <td className="weekend-red w-9">{x.accel}</td>
+                                <td className="weekend-red w-9">{x.handling}</td>
+                                <td className="weekend-red w-9">{x.fun}</td>
+                                <td className="weekend-red w-9">{x.cool}</td>
+                                <td className="w-1.5"></td>
+                                <td className="weekend-red w-12">{x.weekend}</td>
+                                <td className="w-1.5"></td>
+                                <td className="daily-green w-9">{x.features}</td>
+                                <td className="daily-green w-9">{x.comfort}</td>
+                                <td className="daily-green w-9">{x.quality}</td>
+                                <td className="daily-green w-9">{x.practical}</td>
+                                <td className="daily-green w-9">{x.value}</td>
+                                <td className="w-1.5"></td>
+                                <td className="daily-green w-12">{x.daily}</td>
+                                <td className="w-1.5"></td>
+                                <td className="doug-grey w-32">{x.doug}</td>
+                                <td className="w-3"></td>
+                                <td className="w-24 bg-neutral-200">{x.vehicle_country}</td>
+                                <td className="w-16 bg-neutral-200">
+                                    <a href={x.video} target="_blank">
+                                        <span className="[&>svg]:h-6 flex justify-center items-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+                                                 viewBox="0 0 576 512">
+                                                <path
+                                                    d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/>
+                                            </svg>
+                                        </span>
+                                    </a>
+                                </td>
+                            </tr>
+                        ))}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <hr className="border-t border-gray-200 mt-4 mb-4 w-[60rem]"/>
+
+            <div>
+                <footer className="text-gray-800 bg-white px-6 pt-4 pb-8">
+                    <div className="container mx-auto flex flex-wrap justify-between items-center w-[45rem]">
+                        <div className="w-full md:w-auto mb-4 md:mb-0 text-center md:text-left">
+                            <a href="#" className="no-underline hover:underline text-2xl">Your Logo</a>
+                        </div>
+                        <div className="w-full md:w-auto mb-4 md:mb-0 text-center md:text-left">
+                            <a href="#" className="no-underline hover:underline mr-4">Terms of Service</a>
+                            <a href="#" className="no-underline hover:underline">Privacy Policy</a>
+                        </div>
+                    </div>
+                </footer>
+            </div>
         </div>
-      </div>
-
-      <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px]">
-        <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Docs{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Learn{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Templates{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore the Next.js 13 playground.
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-  )
+    )
 }
