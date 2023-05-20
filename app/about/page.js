@@ -10,11 +10,11 @@ export default function Home() {
             <div className='w-full'>
                 <div className="bg-white sticky mt-0 w-full top-0 z-20 heading-font h-20 flex items-center justify-center">
                     <div className="container mx-auto flex flex-row items-center justify-between max-w-screen-lg">
-                        <Link className="ml-4 text-green-600 no-underline hover:text-green-700 hover:no-underline" href="/">
+                        <Link className="ml-24 text-green-600 no-underline hover:text-green-700 hover:no-underline" href="/">
                             <span className="text-2xl">DOUG</span><span className="text-2xl pl-4">SCORE</span>
                         </Link>
 
-                        <Link href='/about' className='mr-4'>
+                        <Link href='/about' className='mr-24'>
                             <p className="inline-block py-2 text-green-600 no-underline hover:text-green-700">ABOUT</p>
                         </Link>
                     </div>
@@ -23,10 +23,10 @@ export default function Home() {
 
             <div className='text-lg text-gray-700 w-[48rem] text-center'>
                 <p className='pb-8'>
-                    Welcome to DougScore.net, the unofficial Doug Score browsing site. I created this site to make it easy for you to navigate Doug DeMuro's unique scoring system. I'm a fan of Doug's car reviews, and I wanted to create a place where fellow enthusiasts could easily explore the world of Doug Scores.
+                    Welcome to DougScore.net, the unofficial Doug Score browsing site. I created this site to make it easy for you to navigate Doug DeMuro&apos;s unique scoring system.
                 </p>
                 <p>
-                    This site is not officially affiliated with Doug DeMuro. This site gets it's data from the official doug score page <a href='http://www.dougdemuro.com/dougscore' target='_blank' className='text-blue-600 underline'>here</a>.
+                    This site is not officially affiliated with Doug DeMuro. This site gets it&apos;s data from the official doug score page <a href='http://www.dougdemuro.com/dougscore' target='_blank' className='text-blue-600 underline'>here</a>.
                 </p>
             </div>
 

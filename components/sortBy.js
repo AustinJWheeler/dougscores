@@ -132,7 +132,8 @@ export default function SortBy() {
                     {
                         buttons.map(x => {
                             return (
-                                <button onClick={() => setSort(x.match)}
+                                <button key={x.match}
+                                        onClick={() => setSort(x.match)}
                                         className={`${x.className} w-full text-left block px-4 py-2 text-sm text-gray-700 hover:text-gray-900`}
                                         role="menuitem">{x.text}</button>
                             )

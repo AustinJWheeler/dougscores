@@ -40,7 +40,7 @@ export default function FilterMake() {
                      aria-labelledby="options-menu">
                     {makes.map(x => {
                         return (
-                            <p href="#"
+                            <p key={x}
                                onClick={() => toggleMake(x)}
                                className="flex flex-row block px-1 py-1 text-sm text-gray-700 hover:bg-gray-200 hover:text-gray-900"
                                role="menuitem">
