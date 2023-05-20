@@ -26,6 +26,13 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.disable-selection {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 .vert {
   writing-mode: vertical-rl;
   transform: rotate(180deg);

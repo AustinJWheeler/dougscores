@@ -99,7 +99,7 @@ export default function SortBy() {
     }
 
     const setSort = (sort) => {
-        params.set(params.sort === sort && !params.rev ?
+        params.set((params.sort || 'doug') === sort && !params.rev ?
             {rev: '1'} :
             {sort, rev: ''})
         setVisible(false)
@@ -108,15 +108,14 @@ export default function SortBy() {
     return (
         <div className="relative inline-block">
             {
-                params.sort ? (
-                    <button
+                <button
                         className=" py-2 pl-4 pr-2 text-white no-underline hover:bg-green-900 flex flex-row"
                         onClick={onClick}>
                         SORT BY
                         <p className="bg-white flex flex-row px-1 ml-3 text-green-700">
                             {params.rev ?
-                                buttons.find(x => x.match === params.sort).rev :
-                                buttons.find(x => x.match === params.sort).text}
+                                buttons.find(x => x.match === (params.sort || 'doug')).rev :
+                                buttons.find(x => x.match === (params.sort || 'doug')).text}
 
                             <svg className="w-4 ml-2" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
                                  viewBox="0 0 448 512">
@@ -125,17 +124,6 @@ export default function SortBy() {
                             </svg>
                         </p>
                     </button>
-                ) : (
-                    <button className="py-2 px-4 text-white no-underline hover:bg-green-900 flex flex-row"
-                            onClick={onClick}>
-                        SORT BY
-                        <svg className="w-4 ml-2" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                             viewBox="0 0 448 512">
-                            <path
-                                d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/>
-                        </svg>
-                    </button>
-                )
             }
             <div
                 className={`${visible ? '' : 'hidden'} z-50 origin-top-right absolute right-0 mt-1 border-4 border-green-700 bg-white text-center`}>
