@@ -39,7 +39,7 @@ export default function ScoresTable() {
                     <td className="w-1.5"></td>
                     <td className="doug-grey w-32">{x.doug}</td>
                     <td className="w-3"></td>
-                    <td className="w-12 bg-white">
+                    <td className="w-12 bg-white dark:bg-black dark:text-white">
                         <a href={x.video} target="_blank">
                                         <span className="[&>svg]:h-6 flex justify-center items-center">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor"

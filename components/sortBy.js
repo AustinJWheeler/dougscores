@@ -9,7 +9,7 @@ const buttons = [
         text: 'DOUGSCORE',
         rev: "WORST DOUGSCORE",
         match: 'doug',
-        className: 'hover:bg-gray-200',
+        className: 'hover:bg-gray-200 dark:bg-neutral-600 dark:text-white dark:hover:bg-neutral-700 dark:hover:text-neutral-100',
     },
     {
         text: 'WEEKEND',
@@ -126,7 +126,7 @@ export default function SortBy() {
                     </button>
             }
             <div
-                className={`${visible ? '' : 'hidden'} z-50 origin-top-right absolute right-0 mt-1 border-4 border-green-700 bg-white text-center`}>
+                className={`${visible ? '' : 'hidden'} z-50 origin-top-right absolute right-0 mt-1 border-4 border-green-700 bg-white dark:bg-black text-center`}>
                 <div className="p-1 overflow-scroll h-96 text-left" role="menu" aria-orientation="vertical"
                      aria-labelledby="options-menu">
                     {

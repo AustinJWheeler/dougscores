@@ -8,20 +8,20 @@ export default function Home() {
     return (
         <div className="min-h-screen flex flex-col justify-between items-center">
             <div className='w-full'>
-                <div className="bg-white sticky mt-0 w-full top-0 z-20 heading-font h-20 flex items-center justify-center">
+                <div className="bg-white dark:bg-black sticky mt-0 w-full top-0 z-20 heading-font h-20 flex items-center justify-center">
                     <div className="container mx-auto flex flex-row items-center justify-between max-w-screen-lg">
-                        <Link className="ml-24 text-green-600 no-underline hover:text-green-700 hover:no-underline" href="/">
+                        <Link className="ml-24 text-green-600 no-underline hover:text-green-700 hover:no-underline dark:text-green-500 dark:hover:text-green-600" href="/">
                             <span className="text-2xl">DOUG</span><span className="text-2xl pl-4">SCORE</span>
                         </Link>
 
                         <Link href='/about' className='mr-24'>
-                            <p className="inline-block py-2 text-green-600 no-underline hover:text-green-700">ABOUT</p>
+                            <p className="inline-block py-2 text-green-600 no-underline hover:text-green-700 dark:text-green-500 dark:hover:text-green-600">ABOUT</p>
                         </Link>
                     </div>
                 </div>
             </div>
 
-            <div className='text-lg text-gray-700 w-[48rem] text-center'>
+            <div className='text-lg text-gray-700 dark:text-gray-300 w-[48rem] text-center'>
                 <p className='pb-8'>
                     Welcome to DougScore.net, the unofficial Doug Score browsing site. I created this site to make it easy for you to navigate Doug DeMuro&apos;s unique scoring system.
                 </p>

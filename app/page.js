@@ -10,23 +10,23 @@ export default function Home() {
         <div className="h-screen flex flex-col justify-between overflow-scroll">
             <div className='flex flex-col items-center min-w-[65.75rem]'>
                 <div
-                    className="min-w-[65.75rem] bg-white sticky mt-0 w-full top-0 z-20 heading-font h-20 flex items-center justify-center">
+                    className="min-w-[65.75rem] bg-white dark:bg-black sticky mt-0 w-full top-0 z-20 heading-font h-20 flex items-center justify-center">
                     <div className="container mx-auto flex flex-row items-center justify-between max-w-screen-lg">
-                        <Link className="ml-24 text-green-600 no-underline hover:text-green-700 hover:no-underline" href="/">
+                        <Link className="ml-24 text-green-600 no-underline hover:text-green-700 dark:text-green-500 dark:hover:text-green-600 hover:no-underline" href="/">
                             <span className="text-2xl">DOUG</span><span className="text-2xl pl-4">SCORE</span>
                         </Link>
 
                         <Filters/>
 
                         <Link href='/about' className='mr-24'>
-                            <p className="inline-block py-2 text-green-600 no-underline hover:text-green-700">ABOUT</p>
+                            <p className="inline-block py-2 text-green-600 no-underline hover:text-green-700 dark:text-green-500 dark:hover:text-green-600">ABOUT</p>
                         </Link>
                     </div>
                 </div>
 
-                <div className='w-[65.75rem] flex flex-col'>
+                <div className='w-[65.75rem] flex flex-col text-black'>
 
-                    <div className="bg-white sticky mt-8 top-20 z-10 flex flex-col justify-start items-center">
+                    <div className="bg-white dark:bg-black sticky mt-8 top-20 z-10 flex flex-col justify-start items-center">
                         <Header/>
                     </div>
 
