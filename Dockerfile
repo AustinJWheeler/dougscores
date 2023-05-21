@@ -10,6 +10,7 @@ COPY . /app
 RUN rm -rf /app/.git
 
 # Install dependencies and build
+RUN yarn install
 RUN yarn build
 
 # Set entrypoint
