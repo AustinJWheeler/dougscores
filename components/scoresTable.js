@@ -8,8 +8,10 @@ export default function ScoresTable() {
     const makes = searchParams.make && searchParams.make.split(',')
     const {sort, rev} = searchParams
 
+
+
     const filtered_list = makes ? dougScores.filter(x => makes.some(y => y === x.make)) : dougScores
-    const sorted_list = sort ? filtered_list.sort((a, b) => (b[sort || 'doug'] - a[sort || 'doug'])) : filtered_list
+    const sorted_list = filtered_list.sort((a, b) => (b[sort || 'doug'] - a[sort || 'doug']))
     const reversed_list = rev ? sorted_list.reverse() : sorted_list
 
     return (
