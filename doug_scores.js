@@ -20,7 +20,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 74,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_UKBxM7m7qo&sa=D&source=editors&ust=1684360665270309&usg=AOvVaw0-1K7FMgoNpxd9E5QTPZl6",
+    "video": "https://www.youtube.com/watch?v=_UKBxM7m7qo",
     "filming_city": "Columbus",
     "filming_state": "Ohio",
     "vehicle_country": "UK"
@@ -45,7 +45,7 @@ export const dougScores =
     "value": 10,
     "daily": 27,
     "doug": 74,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEkYVXIWAPnc&sa=D&source=editors&ust=1684360665270692&usg=AOvVaw2JNEpMlgddDEkQ_BWWZqcK",
+    "video": "https://www.youtube.com/watch?v=EkYVXIWAPnc",
     "filming_city": "Burbank",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -70,7 +70,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtRUvz1QPueA&sa=D&source=editors&ust=1684360665271078&usg=AOvVaw188Y3xTuguUn7XV2SwUvvl",
+    "video": "https://www.youtube.com/watch?v=tRUvz1QPueA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -95,7 +95,7 @@ export const dougScores =
     "value": 7,
     "daily": 39,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGKOWsU2F2Vc%26t%3D33s&sa=D&source=editors&ust=1684360665271388&usg=AOvVaw1g90aXck5oMnqVDK8XILzT",
+    "video": "https://www.youtube.com/watch?v=GKOWsU2F2Vc",
     "filming_city": "Detroit",
     "filming_state": "Michigan",
     "vehicle_country": "USA"
@@ -120,7 +120,7 @@ export const dougScores =
     "value": 8,
     "daily": 36,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCYrunRy8hmw%26t%3D49s&sa=D&source=editors&ust=1684360665271690&usg=AOvVaw3mXFC4Ric_Xa2aER0rhFlG",
+    "video": "https://www.youtube.com/watch?v=CYrunRy8hmw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -145,7 +145,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dqen0ZlZM0ZA%26t%3D5s&sa=D&source=editors&ust=1684360665272001&usg=AOvVaw1L5-XO0Xkzqg7vHmE8JG1T",
+    "video": "https://www.youtube.com/watch?v=qen0ZlZM0ZA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -170,7 +170,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLAWt2yrGq98%26t%3D2s&sa=D&source=editors&ust=1684360665272288&usg=AOvVaw0iBuPr13Z_hKYo1RC0UNuH",
+    "video": "https://www.youtube.com/watch?v=LAWt2yrGq98",
     "filming_city": "Palm Beach",
     "filming_state": "Florida",
     "vehicle_country": "France"
@@ -195,7 +195,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0FWyynApqp8%26t%3D484s&sa=D&source=editors&ust=1684360665272598&usg=AOvVaw0q-yNukOuEpubVx4eg2RrQ",
+    "video": "https://www.youtube.com/watch?v=0FWyynApqp8",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "France"
@@ -220,7 +220,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 73,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DkcmWknKtJkk&sa=D&source=editors&ust=1684360665272999&usg=AOvVaw1Y30tEW0MT_tHTIGRXZ2kG",
+    "video": "https://www.youtube.com/watch?v=kcmWknKtJkk",
     "filming_city": "Toronto",
     "filming_state": "Ontario",
     "vehicle_country": "France"
@@ -245,7 +245,7 @@ export const dougScores =
     "value": 7,
     "daily": 23,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjkWLyw2DTmI&sa=D&source=editors&ust=1684360665273292&usg=AOvVaw0gKX_bmQK5K8tF9hlgf_Ly",
+    "video": "https://www.youtube.com/watch?v=jkWLyw2DTmI",
     "filming_city": "Thermal",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -270,7 +270,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D27UiWQIe5no&sa=D&source=editors&ust=1684360665273584&usg=AOvVaw2tjmO8ulybEJQoJSdCM3w-",
+    "video": "https://www.youtube.com/watch?v=27UiWQIe5no",
     "filming_city": "Sacramento",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -295,7 +295,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1Hgs3hEZnDQ%26t%3D1s&sa=D&source=editors&ust=1684360665273876&usg=AOvVaw3WMCl-Bs3bzxmdX18SBvrT",
+    "video": "https://www.youtube.com/watch?v=1Hgs3hEZnDQ",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Croatia"
@@ -320,7 +320,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfmPwMGmg-h4%26t%3D1s&sa=D&source=editors&ust=1684360665274225&usg=AOvVaw3rtoGpmphK9IF2O6LaAeZ_",
+    "video": "https://www.youtube.com/watch?v=fmPwMGmg-h4",
     "filming_city": "Columbus",
     "filming_state": "Ohio",
     "vehicle_country": "Sweden"
@@ -345,7 +345,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DcsLj4JSegy4&sa=D&source=editors&ust=1684360665274538&usg=AOvVaw2Eh1kIp7vwKk34kglD561_",
+    "video": "https://www.youtube.com/watch?v=csLj4JSegy4",
     "filming_city": "Columbus",
     "filming_state": "Ohio",
     "vehicle_country": "UK"
@@ -370,7 +370,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1voRy666WEE%26t%3D1523s&sa=D&source=editors&ust=1684360665275015&usg=AOvVaw3CrsVIUX5V2AEGfbg-B2Vv",
+    "video": "https://www.youtube.com/watch?v=1voRy666WEE",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -395,7 +395,7 @@ export const dougScores =
     "value": 5,
     "daily": 37,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DANhXW6Qq9_0%26t%3D142s&sa=D&source=editors&ust=1684360665275327&usg=AOvVaw1fS2B15YEX1Tjijq88Qglp",
+    "video": "https://www.youtube.com/watch?v=ANhXW6Qq9_0",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -420,7 +420,7 @@ export const dougScores =
     "value": 5,
     "daily": 33,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0vq6KEOIiMg%26t%3D88s&sa=D&source=editors&ust=1684360665275625&usg=AOvVaw1L3TNq-1x0lbBlHFYm0lNL",
+    "video": "https://www.youtube.com/watch?v=0vq6KEOIiMg",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -445,7 +445,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DngLQfhJZ7Rs&sa=D&source=editors&ust=1684360665276126&usg=AOvVaw1TfgcEo_TY8Ojb6LqJeiFJ",
+    "video": "https://www.youtube.com/watch?v=ngLQfhJZ7Rs",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -470,7 +470,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZhYHUyG9h30&sa=D&source=editors&ust=1684360665276457&usg=AOvVaw0-SjYlNb4LmQfzB5WnpYz3",
+    "video": "https://www.youtube.com/watch?v=ZhYHUyG9h30",
     "filming_city": "Newport Coast",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -495,7 +495,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_eXcPKdarLQ&sa=D&source=editors&ust=1684360665276768&usg=AOvVaw3_76TwjvfEHqHvAQi7iTLV",
+    "video": "https://www.youtube.com/watch?v=_eXcPKdarLQ",
     "filming_city": "Calabasas",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -520,7 +520,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5IXKTWX4MUo&sa=D&source=editors&ust=1684360665277208&usg=AOvVaw3EKMG7uQip8ZFRxgwhuYmy",
+    "video": "https://www.youtube.com/watch?v=5IXKTWX4MUo",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -545,7 +545,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt_q95Ty7aTo&sa=D&source=editors&ust=1684360665277671&usg=AOvVaw1dh1bG9PK-AMaoHEVP3ALB",
+    "video": "https://www.youtube.com/watch?v=t_q95Ty7aTo",
     "filming_city": "Hunt Valley",
     "filming_state": "Maryland",
     "vehicle_country": "Germany"
@@ -570,7 +570,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 72,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjiKPTadNbPc&sa=D&source=editors&ust=1684360665278016&usg=AOvVaw368XgBTJpn5GEsAJgLXXHb",
+    "video": "https://www.youtube.com/watch?v=jiKPTadNbPc",
     "filming_city": "Franklin",
     "filming_state": "Tennessee",
     "vehicle_country": "Germany"
@@ -595,7 +595,7 @@ export const dougScores =
     "value": 7,
     "daily": 38,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DG4FToV2F4Ys%26t%3D1s&sa=D&source=editors&ust=1684360665278409&usg=AOvVaw1tvWgJ_mZgJsS8f8Mp6dJH",
+    "video": "https://www.youtube.com/watch?v=G4FToV2F4Ys",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -620,7 +620,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DD8xlkgHmC8k&sa=D&source=editors&ust=1684360665278891&usg=AOvVaw3G4jjMRugi40cQ8x-S5jbc",
+    "video": "https://www.youtube.com/watch?v=D8xlkgHmC8k",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -645,7 +645,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmNpEdKgoUK8%26t%3D146s&sa=D&source=editors&ust=1684360665279274&usg=AOvVaw19BL1Zw8EpnF1U0M7JlZaj",
+    "video": "https://www.youtube.com/watch?v=mNpEdKgoUK8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -670,7 +670,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKqbRRqaMYMA%26t%3D1s&sa=D&source=editors&ust=1684360665279594&usg=AOvVaw3tM5mmKsLV-N-rtJMZWiBp",
+    "video": "https://www.youtube.com/watch?v=KqbRRqaMYMA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -695,7 +695,7 @@ export const dougScores =
     "value": 5,
     "daily": 26,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DC1wNQtPcQUw%26t%3D34s&sa=D&source=editors&ust=1684360665279898&usg=AOvVaw1frmwQ-jTV8z7t1zQB2c1H",
+    "video": "https://www.youtube.com/watch?v=C1wNQtPcQUw",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -720,7 +720,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dr5K49HczLvM&sa=D&source=editors&ust=1684360665280195&usg=AOvVaw1OGmNbGuNHZx8etk38AOrn",
+    "video": "https://www.youtube.com/watch?v=r5K49HczLvM",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -745,7 +745,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfSSj2QUtgsQ&sa=D&source=editors&ust=1684360665280517&usg=AOvVaw3vA8JY-8CZ0nPfm_X3qqWL",
+    "video": "https://www.youtube.com/watch?v=fSSj2QUtgsQ",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -770,7 +770,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2uY62E1KLUI&sa=D&source=editors&ust=1684360665280808&usg=AOvVaw37r7hHM1pZZqku76FYsiIC",
+    "video": "https://www.youtube.com/watch?v=2uY62E1KLUI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -795,7 +795,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dog-cW8zMGBc%26t%3D231s&sa=D&source=editors&ust=1684360665281229&usg=AOvVaw00R7037OnjtwrHvXQZ9akt",
+    "video": "https://www.youtube.com/watch?v=og-cW8zMGBc",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -820,7 +820,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWpq4Y57K1eU%26t%3D120s&sa=D&source=editors&ust=1684360665281538&usg=AOvVaw0CJBrrv5J3KoYf_bozWqcv",
+    "video": "https://www.youtube.com/watch?v=Wpq4Y57K1eU",
     "filming_city": "Boerne",
     "filming_state": "Texas",
     "vehicle_country": "UK"
@@ -845,7 +845,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DX5ZHl3GERI0&sa=D&source=editors&ust=1684360665281839&usg=AOvVaw3ScdZk6MPfSq5CHnOB_44Z",
+    "video": "https://www.youtube.com/watch?v=X5ZHl3GERI0",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -870,7 +870,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dujl0NYeDJoI&sa=D&source=editors&ust=1684360665282131&usg=AOvVaw0d6SCr4nQ7AajMnAPWcpmV",
+    "video": "https://www.youtube.com/watch?v=ujl0NYeDJoI",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -895,7 +895,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DC3N61UZ6Z84&sa=D&source=editors&ust=1684360665282427&usg=AOvVaw0qiHoaYjHMst7lQPHdBQGF",
+    "video": "https://www.youtube.com/watch?v=C3N61UZ6Z84",
     "filming_city": "Redwood City",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -920,7 +920,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DD65RF_9CX-E&sa=D&source=editors&ust=1684360665282731&usg=AOvVaw0q4BUSuz9pxLnJrxUEhsC3",
+    "video": "https://www.youtube.com/watch?v=D65RF_9CX-E",
     "filming_city": "Alpharetta",
     "filming_state": "Georgia",
     "vehicle_country": "Italy"
@@ -945,7 +945,7 @@ export const dougScores =
     "value": 7,
     "daily": 23,
     "doug": 71,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-ByuqStqUPQ&sa=D&source=editors&ust=1684360665283037&usg=AOvVaw2FnQt8AbLByaWKobjupZzo",
+    "video": "https://www.youtube.com/watch?v=-ByuqStqUPQ",
     "filming_city": "Beachwood",
     "filming_state": "Ohio",
     "vehicle_country": "Germany"
@@ -970,7 +970,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0LIv2FgQFlE&sa=D&source=editors&ust=1684360665283404&usg=AOvVaw1ebc2viGfsxsP7Gg5XywYj",
+    "video": "https://www.youtube.com/watch?v=0LIv2FgQFlE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -995,7 +995,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dfcjz-1BIgq4&sa=D&source=editors&ust=1684360665283727&usg=AOvVaw1oVFQMX0BnQHK_v-GHtpNz",
+    "video": "https://www.youtube.com/watch?v=fcjz-1BIgq4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1020,7 +1020,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKSHyG7ltAiA&sa=D&source=editors&ust=1684360665284104&usg=AOvVaw3WWlPCZQnovd7gyO4_CieU",
+    "video": "https://www.youtube.com/watch?v=KSHyG7ltAiA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1045,7 +1045,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DE_FqSJg5DPc&sa=D&source=editors&ust=1684360665284538&usg=AOvVaw1LS6MoZMlVO8UeK21-4o9Q",
+    "video": "https://www.youtube.com/watch?v=E_FqSJg5DPc",
     "filming_city": "Orange County",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1070,7 +1070,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLKH6Wh5TXSU%26t%3D17s&sa=D&source=editors&ust=1684360665284840&usg=AOvVaw3C3epE-Itn6KZGEX9HtrDE",
+    "video": "https://www.youtube.com/watch?v=LKH6Wh5TXSU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -1095,7 +1095,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1ZQOHL9Ty4k%26t%3D87s&sa=D&source=editors&ust=1684360665285262&usg=AOvVaw0vL6lo0ESnjLROsrMUdQ5_",
+    "video": "https://www.youtube.com/watch?v=1ZQOHL9Ty4k",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -1120,7 +1120,7 @@ export const dougScores =
     "value": 5,
     "daily": 35,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DN60ms3j2cjw%26t%3D18s&sa=D&source=editors&ust=1684360665285588&usg=AOvVaw3shuYhQKpuwMe_q4SyPv2A",
+    "video": "https://www.youtube.com/watch?v=N60ms3j2cjw",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1145,7 +1145,7 @@ export const dougScores =
     "value": 5,
     "daily": 22,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWXRFYiMlMLs&sa=D&source=editors&ust=1684360665285988&usg=AOvVaw2I3HoAvY1diJpZGBANvDUt",
+    "video": "https://www.youtube.com/watch?v=WXRFYiMlMLs",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1170,7 +1170,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGf4AMgKM28E&sa=D&source=editors&ust=1684360665286338&usg=AOvVaw1wh7lNgYixmKWnyxpqXheG",
+    "video": "https://www.youtube.com/watch?v=Gf4AMgKM28E",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1195,7 +1195,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Do7aDXuZWeVc%26t%3D305s&sa=D&source=editors&ust=1684360665286664&usg=AOvVaw3-IOXP6X1Hz3nu9ncEJ2Du",
+    "video": "https://www.youtube.com/watch?v=o7aDXuZWeVc",
     "filming_city": "Huntington Beach",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -1220,7 +1220,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DW9CvaI8FXgs&sa=D&source=editors&ust=1684360665287107&usg=AOvVaw095IwOYRwq9qInm-247F5F",
+    "video": "https://www.youtube.com/watch?v=W9CvaI8FXgs",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -1245,7 +1245,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiqxIu1cyRfk%26t%3D1s&sa=D&source=editors&ust=1684360665287432&usg=AOvVaw2qP6R9aQndVmaQ3YR6Oips",
+    "video": "https://www.youtube.com/watch?v=iqxIu1cyRfk",
     "filming_city": "Colts Neck",
     "filming_state": "New Jersey",
     "vehicle_country": "Italy"
@@ -1270,7 +1270,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvmLOdP1DhX8&sa=D&source=editors&ust=1684360665287762&usg=AOvVaw1-ujohBhkzAXce6RnLXTfj",
+    "video": "https://www.youtube.com/watch?v=vmLOdP1DhX8",
     "filming_city": "Newport Coast",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1295,7 +1295,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 70,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DaB-qzVue3xw&sa=D&source=editors&ust=1684360665288106&usg=AOvVaw1pMiOZibx1A-1eRK8RAtvG",
+    "video": "https://www.youtube.com/watch?v=aB-qzVue3xw",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1320,7 +1320,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSx2hfymNarI&sa=D&source=editors&ust=1684360665288545&usg=AOvVaw2X1G-c1OBR2cd7U9uksvdP",
+    "video": "https://www.youtube.com/watch?v=Sx2hfymNarI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1345,7 +1345,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxGBqwZ9iBOQ&sa=D&source=editors&ust=1684360665288936&usg=AOvVaw15MTSpAsosAZKC0ljZ3VYZ",
+    "video": "https://www.youtube.com/watch?v=xGBqwZ9iBOQ",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1370,7 +1370,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZg_bLK5XChA&sa=D&source=editors&ust=1684360665289257&usg=AOvVaw3CCgQ5e4mrCuEoHcqBII3K",
+    "video": "https://www.youtube.com/watch?v=Zg_bLK5XChA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1395,7 +1395,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DkBeNR58BH-Q&sa=D&source=editors&ust=1684360665289716&usg=AOvVaw2e6vlCMIidB-CHQ9Eb-mCv",
+    "video": "https://www.youtube.com/watch?v=kBeNR58BH-Q",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1420,7 +1420,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnXDbQznrG7o&sa=D&source=editors&ust=1684360665290139&usg=AOvVaw2_gAeGBxOgq1rbvCfC24rw",
+    "video": "https://www.youtube.com/watch?v=nXDbQznrG7o",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1445,7 +1445,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTd2iuMkH85o&sa=D&source=editors&ust=1684360665290507&usg=AOvVaw32ksPVEk55v9arIQ8RgbJo",
+    "video": "https://www.youtube.com/watch?v=Td2iuMkH85o",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1470,7 +1470,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWnyPtKQKP3Y&sa=D&source=editors&ust=1684360665290813&usg=AOvVaw0WHwAPR0UUGrgUx7snuaQT",
+    "video": "https://www.youtube.com/watch?v=WnyPtKQKP3Y",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1495,7 +1495,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9E0uPfIujgU&sa=D&source=editors&ust=1684360665291165&usg=AOvVaw3QhjrT5CQKtsHSvIz-qnKL",
+    "video": "https://www.youtube.com/watch?v=9E0uPfIujgU",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -1520,7 +1520,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2-AYvKres_w&sa=D&source=editors&ust=1684360665291492&usg=AOvVaw2gKByHyGcLyP7gKfuMf3jx",
+    "video": "https://www.youtube.com/watch?v=2-AYvKres_w",
     "filming_city": "Long Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1545,7 +1545,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dizle7V1URGQ&sa=D&source=editors&ust=1684360665291795&usg=AOvVaw1toXQ5G1bPrLB2FcAiR4W4",
+    "video": "https://www.youtube.com/watch?v=izle7V1URGQ",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -1570,7 +1570,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEoDf3aUI5dw&sa=D&source=editors&ust=1684360665292109&usg=AOvVaw0siPmob-sjKu5zfmfe8LtU",
+    "video": "https://www.youtube.com/watch?v=EoDf3aUI5dw",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -1595,7 +1595,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dqjsc8it2CEo%26t%3D233s&sa=D&source=editors&ust=1684360665292652&usg=AOvVaw06rG205cLt9iPZjq15bPLf",
+    "video": "https://www.youtube.com/watch?v=qjsc8it2CEo",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -1620,7 +1620,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmhTQ22cHrYQ&sa=D&source=editors&ust=1684360665293043&usg=AOvVaw1pYUiwmpB6X3wjRDC7moV0",
+    "video": "https://www.youtube.com/watch?v=mhTQ22cHrYQ",
     "filming_city": "West Chester",
     "filming_state": "Pennsylvania",
     "vehicle_country": "UK"
@@ -1645,7 +1645,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dfg5S3cFwzKI&sa=D&source=editors&ust=1684360665293343&usg=AOvVaw3x4IgCEJpQfNihJyWX90zT",
+    "video": "https://www.youtube.com/watch?v=fg5S3cFwzKI",
     "filming_city": "Devon",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -1670,7 +1670,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 69,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dytk34Cl_cY8&sa=D&source=editors&ust=1684360665293744&usg=AOvVaw0nfoeMyORP3IWcBn23bUUr",
+    "video": "https://www.youtube.com/watch?v=ytk34Cl_cY8",
     "filming_city": "Bridgewater",
     "filming_state": "New Jersey",
     "vehicle_country": "Germany"
@@ -1695,7 +1695,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOpnkA0bGjTM&sa=D&source=editors&ust=1684360665294069&usg=AOvVaw0iUeuSKI-h5OlOUQlPpTAR",
+    "video": "https://www.youtube.com/watch?v=OpnkA0bGjTM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -1720,7 +1720,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtS-Bnl7SKbg%26t%3D527s&sa=D&source=editors&ust=1684360665294379&usg=AOvVaw1OMoLi-Nlv3mlZSYtbzePM",
+    "video": "https://www.youtube.com/watch?v=tS-Bnl7SKbg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -1745,7 +1745,7 @@ export const dougScores =
     "value": 7,
     "daily": 33,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DG0eYIuTCEuA%26t%3D1s&sa=D&source=editors&ust=1684360665294709&usg=AOvVaw3K8yGzBRe2VgTQVgvx-Kt1",
+    "video": "https://www.youtube.com/watch?v=G0eYIuTCEuA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -1770,7 +1770,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dpboh2HTlPjg&sa=D&source=editors&ust=1684360665295025&usg=AOvVaw1XPGDfN4aQtj0Si1pmESu9",
+    "video": "https://www.youtube.com/watch?v=pboh2HTlPjg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1795,7 +1795,7 @@ export const dougScores =
     "value": 5,
     "daily": 39,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dkh3UmoLAVOw%26t%3D1232s&sa=D&source=editors&ust=1684360665295371&usg=AOvVaw2si9WFTiHw5q7TqmLXhlHC",
+    "video": "https://www.youtube.com/watch?v=kh3UmoLAVOw",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1820,7 +1820,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dwfu07Eq6pSc&sa=D&source=editors&ust=1684360665295689&usg=AOvVaw0-A720AjYLHS13CZPIzf60",
+    "video": "https://www.youtube.com/watch?v=wfu07Eq6pSc",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1845,7 +1845,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhucRrlWhWaU%26t%3D2s&sa=D&source=editors&ust=1684360665295998&usg=AOvVaw1H_PY-Oo9fRLcIv5cn4I0s",
+    "video": "https://www.youtube.com/watch?v=hucRrlWhWaU",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1870,7 +1870,7 @@ export const dougScores =
     "value": 8,
     "daily": 35,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DsZUzdaQg7JM&sa=D&source=editors&ust=1684360665296304&usg=AOvVaw2NVQpimvhci78GkcqGx7Yi",
+    "video": "https://www.youtube.com/watch?v=sZUzdaQg7JM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -1895,7 +1895,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSINyunKIqfI&sa=D&source=editors&ust=1684360665296604&usg=AOvVaw3IWvpegHwdmiyX-Jj88bpN",
+    "video": "https://www.youtube.com/watch?v=SINyunKIqfI",
     "filming_city": "Palm Beach",
     "filming_state": "Florida",
     "vehicle_country": "France"
@@ -1920,7 +1920,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlTBP1FdnhBU&sa=D&source=editors&ust=1684360665296896&usg=AOvVaw1rW37Cbyq1lVbdkknvWR_D",
+    "video": "https://www.youtube.com/watch?v=lTBP1FdnhBU",
     "filming_city": "King of Prussia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -1945,7 +1945,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFImmFwcXpb4%26t%3D1s&sa=D&source=editors&ust=1684360665297201&usg=AOvVaw3x4IxDXtGDCDR2Nru-yyTI",
+    "video": "https://www.youtube.com/watch?v=FImmFwcXpb4",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -1970,7 +1970,7 @@ export const dougScores =
     "value": 6,
     "daily": 39,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzDG0zNQIC_M%26t%3D64s&sa=D&source=editors&ust=1684360665297511&usg=AOvVaw2dcMMV88oTnaQCJiLXtn7z",
+    "video": "https://www.youtube.com/watch?v=zDG0zNQIC_M",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -1995,7 +1995,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYSjaugLaP2E&sa=D&source=editors&ust=1684360665297902&usg=AOvVaw3IR-irlkGQTYjADQH2tnFq",
+    "video": "https://www.youtube.com/watch?v=YSjaugLaP2E",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2020,7 +2020,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxAXDcTH6hPw&sa=D&source=editors&ust=1684360665298225&usg=AOvVaw2Lqp1GV_SJxKQt-5uOOqaw",
+    "video": "https://www.youtube.com/watch?v=xAXDcTH6hPw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -2045,7 +2045,7 @@ export const dougScores =
     "value": 5,
     "daily": 40,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBfITC_DcbJE&sa=D&source=editors&ust=1684360665298627&usg=AOvVaw2jPh59VJuvvVH_MqncOFWi",
+    "video": "https://www.youtube.com/watch?v=BfITC_DcbJE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2070,7 +2070,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA8Az8mlYYmk&sa=D&source=editors&ust=1684360665298986&usg=AOvVaw2-nDi8LSdSREjMIkaOW1e6",
+    "video": "https://www.youtube.com/watch?v=A8Az8mlYYmk",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2095,7 +2095,7 @@ export const dougScores =
     "value": 5,
     "daily": 40,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPLNq8WBuOXU&sa=D&source=editors&ust=1684360665299406&usg=AOvVaw2Ex1Q7XjKKJJXCMDpv1wNG",
+    "video": "https://www.youtube.com/watch?v=PLNq8WBuOXU",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2120,7 +2120,7 @@ export const dougScores =
     "value": 6,
     "daily": 20,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7AZLu45nl5A&sa=D&source=editors&ust=1684360665299780&usg=AOvVaw1PZS81ASo1GnhlbR31g8OE",
+    "video": "https://www.youtube.com/watch?v=7AZLu45nl5A",
     "filming_city": "Tooele",
     "filming_state": "Utah",
     "vehicle_country": "USA"
@@ -2145,7 +2145,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DsvYy0rWeyzc&sa=D&source=editors&ust=1684360665300084&usg=AOvVaw3MAIlI9Y9ysjEA5PmDZhRQ",
+    "video": "https://www.youtube.com/watch?v=svYy0rWeyzc",
     "filming_city": "Warrington",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -2170,7 +2170,7 @@ export const dougScores =
     "value": 5,
     "daily": 38,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTBIkJSpqcFs&sa=D&source=editors&ust=1684360665300394&usg=AOvVaw3foZUFZYeTd3H5sB4hWh2o",
+    "video": "https://www.youtube.com/watch?v=TBIkJSpqcFs",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2195,7 +2195,7 @@ export const dougScores =
     "value": 5,
     "daily": 27,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLLMIH9NJ5_o%26t%3D1152s&sa=D&source=editors&ust=1684360665300695&usg=AOvVaw26oj4NNDe2zgzEhpS61Qmt",
+    "video": "https://www.youtube.com/watch?v=LLMIH9NJ5_o",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2220,7 +2220,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 68,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DS_Bd6zK4V9M&sa=D&source=editors&ust=1684360665301036&usg=AOvVaw0b9qyhVoRQNxkR7Mzm3rux",
+    "video": "https://www.youtube.com/watch?v=S_Bd6zK4V9M",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2245,7 +2245,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXiWh01ZTA_0%26t%3D1s&sa=D&source=editors&ust=1684360665301409&usg=AOvVaw27iSBOmjAKiwkAjuz1bQ3U",
+    "video": "https://www.youtube.com/watch?v=XiWh01ZTA_0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2270,7 +2270,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZER-dw8f4gQ&sa=D&source=editors&ust=1684360665301715&usg=AOvVaw2zHpJtRFU1GTQ-7YGbgK5m",
+    "video": "https://www.youtube.com/watch?v=ZER-dw8f4gQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2295,7 +2295,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DN_zjDP3D5x0%26t%3D3s&sa=D&source=editors&ust=1684360665302022&usg=AOvVaw1mXTu_8ffHGg29YMWmQPXk",
+    "video": "https://www.youtube.com/watch?v=N_zjDP3D5x0",
     "filming_city": "Temecula",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2320,7 +2320,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYqvOHgBhnBU&sa=D&source=editors&ust=1684360665302393&usg=AOvVaw0B1Obasp93pWkGAAc6FV4i",
+    "video": "https://www.youtube.com/watch?v=YqvOHgBhnBU",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2345,7 +2345,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBfYjpJuFl1s%26t%3D318s&sa=D&source=editors&ust=1684360665302723&usg=AOvVaw1mlo1BVYzYxefAGTMuYJ-V",
+    "video": "https://www.youtube.com/watch?v=BfYjpJuFl1s",
     "filming_city": "Charlotte",
     "filming_state": "North Carolina",
     "vehicle_country": "USA"
@@ -2370,7 +2370,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzTcDeVYW-Mo&sa=D&source=editors&ust=1684360665303064&usg=AOvVaw3Z7resd36LMiWZ49yftPCb",
+    "video": "https://www.youtube.com/watch?v=zTcDeVYW-Mo",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "UK"
@@ -2395,7 +2395,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Drl6CBgwomfU&sa=D&source=editors&ust=1684360665303458&usg=AOvVaw1pdTVuhAFg1gCBJvjJ5Lqo",
+    "video": "https://www.youtube.com/watch?v=rl6CBgwomfU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2420,7 +2420,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgCMQS3UDabo&sa=D&source=editors&ust=1684360665303773&usg=AOvVaw3qoULwV3gw9dLX2w90Dc68",
+    "video": "https://www.youtube.com/watch?v=gCMQS3UDabo",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2445,7 +2445,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DaYiZolpcOow&sa=D&source=editors&ust=1684360665304076&usg=AOvVaw2E6sSjDtFvn2wq5sC_MOvG",
+    "video": "https://www.youtube.com/watch?v=aYiZolpcOow",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -2470,7 +2470,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2tT-zKgJEM8%26t%3D3s&sa=D&source=editors&ust=1684360665304440&usg=AOvVaw22O1Im4TooJ26yLpZRq7Vu",
+    "video": "https://www.youtube.com/watch?v=2tT-zKgJEM8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2495,7 +2495,7 @@ export const dougScores =
     "value": 8,
     "daily": 36,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYvsnIL0AIAk%26t%3D18s&sa=D&source=editors&ust=1684360665304758&usg=AOvVaw2wXqKpN7qRpxOTsiz82CKD",
+    "video": "https://www.youtube.com/watch?v=YvsnIL0AIAk",
     "filming_city": "",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -2520,7 +2520,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHvM_pEjGiuQ%26t%3D43s&sa=D&source=editors&ust=1684360665305054&usg=AOvVaw0W94TeJZQuv2qdPUDNK6Rc",
+    "video": "https://www.youtube.com/watch?v=HvM_pEjGiuQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2545,7 +2545,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwYLMKAIJRd8%26t%3D151s&sa=D&source=editors&ust=1684360665305350&usg=AOvVaw2Kq1Y3RH-DZoWhggJvGjwO",
+    "video": "https://www.youtube.com/watch?v=wYLMKAIJRd8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2570,7 +2570,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnxPNRiFMbL8&sa=D&source=editors&ust=1684360665305648&usg=AOvVaw2qUW-xprJWq-P0jAsVTXZr",
+    "video": "https://www.youtube.com/watch?v=nxPNRiFMbL8",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "France"
@@ -2595,7 +2595,7 @@ export const dougScores =
     "value": 5,
     "daily": 29,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNI5j6lIOX2M&sa=D&source=editors&ust=1684360665306063&usg=AOvVaw2XKpsZG89iHIaRZlqXP0qx",
+    "video": "https://www.youtube.com/watch?v=NI5j6lIOX2M",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2620,7 +2620,7 @@ export const dougScores =
     "value": 8,
     "daily": 28,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DuUbg4F1Eci0&sa=D&source=editors&ust=1684360665306428&usg=AOvVaw3_pME9SqTouOk4zkCrSOk7",
+    "video": "https://www.youtube.com/watch?v=uUbg4F1Eci0",
     "filming_city": "San Francisco",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2645,7 +2645,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZjMYFcFXUs4&sa=D&source=editors&ust=1684360665306787&usg=AOvVaw0hKkw1lBHXGqMdJM_RMapD",
+    "video": "https://www.youtube.com/watch?v=ZjMYFcFXUs4",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2670,7 +2670,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Doy4f0y5tC0k&sa=D&source=editors&ust=1684360665307379&usg=AOvVaw2xdgICgjifayKPzy5V-vkf",
+    "video": "https://www.youtube.com/watch?v=oy4f0y5tC0k",
     "filming_city": "Colts Neck",
     "filming_state": "New Jersey",
     "vehicle_country": "Italy"
@@ -2695,7 +2695,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DY2j_IQVRiiU&sa=D&source=editors&ust=1684360665308002&usg=AOvVaw1I0jGPYbnDYxbpTWye7P07",
+    "video": "https://www.youtube.com/watch?v=Y2j_IQVRiiU",
     "filming_city": "West Chester",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -2720,7 +2720,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUI1dXwcJec4&sa=D&source=editors&ust=1684360665308614&usg=AOvVaw2PTGrC3SRLuo49kGrmTS5v",
+    "video": "https://www.youtube.com/watch?v=UI1dXwcJec4",
     "filming_city": "Brampton",
     "filming_state": "Ontario",
     "vehicle_country": "USA"
@@ -2745,7 +2745,7 @@ export const dougScores =
     "value": 5,
     "daily": 23,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzbeBtjntISs&sa=D&source=editors&ust=1684360665309250&usg=AOvVaw1GGX3nQ0AhN-Z8ZWC18SoB",
+    "video": "https://www.youtube.com/watch?v=zbeBtjntISs",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "Italy"
@@ -2770,7 +2770,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWlk5OB9tYs0&sa=D&source=editors&ust=1684360665309905&usg=AOvVaw1QuICs5XTyGjyOfSHd1SKN",
+    "video": "https://www.youtube.com/watch?v=Wlk5OB9tYs0",
     "filming_city": "Warrington",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -2795,7 +2795,7 @@ export const dougScores =
     "value": 5,
     "daily": 37,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCkavWDFhDw4&sa=D&source=editors&ust=1684360665310523&usg=AOvVaw0kQqk9MBnpginl6RFTkMHT",
+    "video": "https://www.youtube.com/watch?v=CkavWDFhDw4",
     "filming_city": "Golden Valley",
     "filming_state": "Minnesota",
     "vehicle_country": "UK"
@@ -2820,7 +2820,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 67,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUcSyy-xUjvw&sa=D&source=editors&ust=1684360665311115&usg=AOvVaw2ANLZ9jd2lBxwHYWWszVod",
+    "video": "https://www.youtube.com/watch?v=UcSyy-xUjvw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2845,7 +2845,7 @@ export const dougScores =
     "value": 5,
     "daily": 37,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6rTlqIkhng4&sa=D&source=editors&ust=1684360665311746&usg=AOvVaw1wZYzM_RKiSdETOhw1eAjl",
+    "video": "https://www.youtube.com/watch?v=6rTlqIkhng4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2870,7 +2870,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DusGnLmBYcjw%26t%3D93s&sa=D&source=editors&ust=1684360665312415&usg=AOvVaw3ydmEtTQ5VDsUiYmbVnoA7",
+    "video": "https://www.youtube.com/watch?v=usGnLmBYcjw",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -2895,7 +2895,7 @@ export const dougScores =
     "value": 8,
     "daily": 31,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5U6LazomndQ%26t%3D19s&sa=D&source=editors&ust=1684360665313070&usg=AOvVaw1iuX2Iq-wDbI8BO--xweJC",
+    "video": "https://www.youtube.com/watch?v=5U6LazomndQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -2920,7 +2920,7 @@ export const dougScores =
     "value": 5,
     "daily": 31,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DibNs12W2hUk&sa=D&source=editors&ust=1684360665313682&usg=AOvVaw3bleNRHOJ7XvTCjx8sPHUO",
+    "video": "https://www.youtube.com/watch?v=ibNs12W2hUk",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -2945,7 +2945,7 @@ export const dougScores =
     "value": 4,
     "daily": 28,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXUmjYkODF3Y&sa=D&source=editors&ust=1684360665314400&usg=AOvVaw1d1u_-6EBuZ9ArboIEGqkO",
+    "video": "https://www.youtube.com/watch?v=XUmjYkODF3Y",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -2970,7 +2970,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpTb_cOYQctc&sa=D&source=editors&ust=1684360665315014&usg=AOvVaw0CSX7Z8HeOTJhoWFBofDwh",
+    "video": "https://www.youtube.com/watch?v=pTb_cOYQctc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -2995,7 +2995,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DN4fHEYKVyuE&sa=D&source=editors&ust=1684360665315637&usg=AOvVaw17DEKGK4l75O40-0HKnv3t",
+    "video": "https://www.youtube.com/watch?v=N4fHEYKVyuE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3020,7 +3020,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-lU5E29cCiM&sa=D&source=editors&ust=1684360665315964&usg=AOvVaw3buNFWavM_0OVMkLWDazV-",
+    "video": "https://www.youtube.com/watch?v=-lU5E29cCiM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3045,7 +3045,7 @@ export const dougScores =
     "value": 5,
     "daily": 31,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfFfXIAcqhLE&sa=D&source=editors&ust=1684360665316299&usg=AOvVaw3N5oSvNi8lSYyRFjfOsxnL",
+    "video": "https://www.youtube.com/watch?v=fFfXIAcqhLE",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3070,7 +3070,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dj-phAYcnNpE%26t%3D95s&sa=D&source=editors&ust=1684360665316640&usg=AOvVaw1phbHdbN4hmu0Kq5yu-mrd",
+    "video": "https://www.youtube.com/watch?v=j-phAYcnNpE",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3095,7 +3095,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKfdrS_HbB6c&sa=D&source=editors&ust=1684360665316951&usg=AOvVaw3W5Op31OmIwM7CulRGPRO5",
+    "video": "https://www.youtube.com/watch?v=KfdrS_HbB6c",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3120,7 +3120,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMuqMjucmMqk&sa=D&source=editors&ust=1684360665317245&usg=AOvVaw396RWf-2_C6k-u3WkxZUHP",
+    "video": "https://www.youtube.com/watch?v=MuqMjucmMqk",
     "filming_city": "Tustin",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -3145,7 +3145,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmA0PpOxnU7w&sa=D&source=editors&ust=1684360665317543&usg=AOvVaw0lVCBmItq4Bu37u7apsrc8",
+    "video": "https://www.youtube.com/watch?v=mA0PpOxnU7w",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3170,7 +3170,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNDeTFbI_fkM&sa=D&source=editors&ust=1684360665317874&usg=AOvVaw3MhwCDxpbPfOQEWzYHQ7GC",
+    "video": "https://www.youtube.com/watch?v=NDeTFbI_fkM",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3195,7 +3195,7 @@ export const dougScores =
     "value": 4,
     "daily": 35,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiwPDC5Luyg&sa=D&source=editors&ust=1684360665318308&usg=AOvVaw2u0t9RpeGbTAipj9mnEPOe",
+    "video": "https://www.youtube.com/watch?v=fiwPDC5Luyg",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3220,7 +3220,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3u1r-1dL5OM%26t%3D720s&sa=D&source=editors&ust=1684360665318754&usg=AOvVaw3hpuGxtD3f3EOWN9NCYCrb",
+    "video": "https://www.youtube.com/watch?v=3u1r-1dL5OM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -3245,7 +3245,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzwaAfpo9cvs&sa=D&source=editors&ust=1684360665319178&usg=AOvVaw3731RTXg9E2huAcK7Ez3os",
+    "video": "https://www.youtube.com/watch?v=zwaAfpo9cvs",
     "filming_city": "Bethesda",
     "filming_state": "Maryland",
     "vehicle_country": "Italy"
@@ -3270,7 +3270,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQi6UF2KfNac&sa=D&source=editors&ust=1684360665319532&usg=AOvVaw1e_5zFukJkR4SoEJ5a9j1j",
+    "video": "https://www.youtube.com/watch?v=Qi6UF2KfNac",
     "filming_city": "Montclair",
     "filming_state": "New Jersey",
     "vehicle_country": "Japan"
@@ -3295,7 +3295,7 @@ export const dougScores =
     "value": 5,
     "daily": 29,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzN8DGSswGDo%26t%3D3s&sa=D&source=editors&ust=1684360665319846&usg=AOvVaw1Jyv_KJmewIiUkn4DF6SO2",
+    "video": "https://www.youtube.com/watch?v=zN8DGSswGDo",
     "filming_city": "Summit",
     "filming_state": "New Jersey",
     "vehicle_country": "UK"
@@ -3320,7 +3320,7 @@ export const dougScores =
     "value": 8,
     "daily": 28,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxZAV8Fy98Is&sa=D&source=editors&ust=1684360665320187&usg=AOvVaw1D54lP5-CCHzvrxLe47nyp",
+    "video": "https://www.youtube.com/watch?v=xZAV8Fy98Is",
     "filming_city": "Birmingham",
     "filming_state": "Michigan",
     "vehicle_country": "Germany"
@@ -3345,7 +3345,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dek_aZC4KIQM&sa=D&source=editors&ust=1684360665320780&usg=AOvVaw0NsXAYBrFU1CKALrt2xI1x",
+    "video": "https://www.youtube.com/watch?v=ek_aZC4KIQM",
     "filming_city": "Annapolis",
     "filming_state": "Maryland",
     "vehicle_country": "USA"
@@ -3370,7 +3370,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgiIP0XdT7SA%26t%3D5s&sa=D&source=editors&ust=1684360665321271&usg=AOvVaw2r5EpAHW-PC3BtrOxadaX1",
+    "video": "https://www.youtube.com/watch?v=giIP0XdT7SA",
     "filming_city": "East Haven",
     "filming_state": "Connecticut",
     "vehicle_country": "Japan"
@@ -3395,7 +3395,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 66,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKFMkE6wK2iA&sa=D&source=editors&ust=1684360665321607&usg=AOvVaw24mnwz0pABkTVhHIzAFm9u",
+    "video": "https://www.youtube.com/watch?v=KFMkE6wK2iA",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3420,7 +3420,7 @@ export const dougScores =
     "value": 7,
     "daily": 38,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBq5EwFRab6Q&sa=D&source=editors&ust=1684360665322060&usg=AOvVaw2OXSx-sMIFGO1GOF1HGeuj",
+    "video": "https://www.youtube.com/watch?v=Bq5EwFRab6Q",
     "filming_city": "San Antonio",
     "filming_state": "Texas",
     "vehicle_country": "USA"
@@ -3445,7 +3445,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtHzSK-wEkQQ%26t%3D451s&sa=D&source=editors&ust=1684360665322478&usg=AOvVaw0yUgc-uYs0exbpabvT9X9c",
+    "video": "https://www.youtube.com/watch?v=tHzSK-wEkQQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3470,7 +3470,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4JW7a9PgTpU&sa=D&source=editors&ust=1684360665322804&usg=AOvVaw0q3xvq8mbplFXGxwnJimLW",
+    "video": "https://www.youtube.com/watch?v=4JW7a9PgTpU",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3495,7 +3495,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBReRIxqO_Lg&sa=D&source=editors&ust=1684360665323273&usg=AOvVaw34-7qGtlUt34NC_1mafmeI",
+    "video": "https://www.youtube.com/watch?v=BReRIxqO_Lg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -3520,7 +3520,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dqmqm5FrRN8A&sa=D&source=editors&ust=1684360665323611&usg=AOvVaw15g2WEaU636p0WNm6C9CLR",
+    "video": "https://www.youtube.com/watch?v=qmqm5FrRN8A",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3545,7 +3545,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOuWmTXphMCo%26t%3D1s&sa=D&source=editors&ust=1684360665323960&usg=AOvVaw2Gb_zw9AXu1_HEtpULb2Ea",
+    "video": "https://www.youtube.com/watch?v=OuWmTXphMCo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3570,7 +3570,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrfRAWBpH9W0&sa=D&source=editors&ust=1684360665324499&usg=AOvVaw3-fXV67cyJDKh09xDTEyhc",
+    "video": "https://www.youtube.com/watch?v=rfRAWBpH9W0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -3595,7 +3595,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvUUPPzPxVEM&sa=D&source=editors&ust=1684360665324937&usg=AOvVaw07s__iW2jp-1JOsaf2IlBo",
+    "video": "https://www.youtube.com/watch?v=vUUPPzPxVEM",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -3620,7 +3620,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2jsYzCtdR2E&sa=D&source=editors&ust=1684360665325270&usg=AOvVaw00ROl5ed5PvsegBtxg6_ys",
+    "video": "https://www.youtube.com/watch?v=2jsYzCtdR2E",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3645,7 +3645,7 @@ export const dougScores =
     "value": 5,
     "daily": 39,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxTm6b6mQTIQ&sa=D&source=editors&ust=1684360665325719&usg=AOvVaw35fpPbt_qq0cnPjdG3kxzT",
+    "video": "https://www.youtube.com/watch?v=xTm6b6mQTIQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3670,7 +3670,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DsrtWMLmA5bs%26t%3D385s&sa=D&source=editors&ust=1684360665326221&usg=AOvVaw27_j5z1YLnlHt0UGV4RCsO",
+    "video": "https://www.youtube.com/watch?v=srtWMLmA5bs",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3695,7 +3695,7 @@ export const dougScores =
     "value": 5,
     "daily": 21,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtCmLphLR2vg&sa=D&source=editors&ust=1684360665326811&usg=AOvVaw0kX9MO0VJJH7lfVE77U6HU",
+    "video": "https://www.youtube.com/watch?v=tCmLphLR2vg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3720,7 +3720,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dc4n5iPqxpaw%26t%3D2s&sa=D&source=editors&ust=1684360665327130&usg=AOvVaw1MBMFtXumSisGI634YROLc",
+    "video": "https://www.youtube.com/watch?v=c4n5iPqxpaw",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -3745,7 +3745,7 @@ export const dougScores =
     "value": 5,
     "daily": 26,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3GxemG-fkc4&sa=D&source=editors&ust=1684360665327465&usg=AOvVaw1BzJjj0iLGo-oMRZWvS_W_",
+    "video": "https://www.youtube.com/watch?v=3GxemG-fkc4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3770,7 +3770,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DezpvGqjur_o&sa=D&source=editors&ust=1684360665327826&usg=AOvVaw0aMJOQnS42qt2XfPArUHFI",
+    "video": "https://www.youtube.com/watch?v=ezpvGqjur_o",
     "filming_city": "Temecula",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3795,7 +3795,7 @@ export const dougScores =
     "value": 5,
     "daily": 29,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dj04LfXCgBfo%26t%3D209s&sa=D&source=editors&ust=1684360665328185&usg=AOvVaw34eJrkSwaNQfZgOc1hXIYZ",
+    "video": "https://www.youtube.com/watch?v=j04LfXCgBfo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -3820,7 +3820,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQP9-9A5_GqU%26t%3D153s&sa=D&source=editors&ust=1684360665328608&usg=AOvVaw3DYAj1adBJIfzJqMytpMKJ",
+    "video": "https://www.youtube.com/watch?v=QP9-9A5_GqU",
     "filming_city": "Ontario",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -3845,7 +3845,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPDEt6z0pQg0&sa=D&source=editors&ust=1684360665329026&usg=AOvVaw1M_x88CAc1K5sCiSXc_yKD",
+    "video": "https://www.youtube.com/watch?v=PDEt6z0pQg0",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3870,7 +3870,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQWU9YsxXPqw&sa=D&source=editors&ust=1684360665329396&usg=AOvVaw10TFKnY-6qFOefMN0ViKLa",
+    "video": "https://www.youtube.com/watch?v=QWU9YsxXPqw",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -3895,7 +3895,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGxBzTVoFHXQ&sa=D&source=editors&ust=1684360665329736&usg=AOvVaw1VIiDgcTsBGZlPcLx2wxBS",
+    "video": "https://www.youtube.com/watch?v=GxBzTVoFHXQ",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3920,7 +3920,7 @@ export const dougScores =
     "value": 5,
     "daily": 23,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDB0bkI5arCk&sa=D&source=editors&ust=1684360665330075&usg=AOvVaw08yigz5vcLKx4_ZowkvAvZ",
+    "video": "https://www.youtube.com/watch?v=DB0bkI5arCk",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -3945,7 +3945,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6B0uUg0GKTg&sa=D&source=editors&ust=1684360665330387&usg=AOvVaw0E7HdEaA-L6shyqtojRnXE",
+    "video": "https://www.youtube.com/watch?v=6B0uUg0GKTg",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "Germany"
@@ -3970,7 +3970,7 @@ export const dougScores =
     "value": 3,
     "daily": 24,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFCbsubFEUxQ&sa=D&source=editors&ust=1684360665330782&usg=AOvVaw2Eeu6CNi0bHa46YaWIAVMU",
+    "video": "https://www.youtube.com/watch?v=FCbsubFEUxQ",
     "filming_city": "Birmingham",
     "filming_state": "Michigan",
     "vehicle_country": "Germany"
@@ -3995,7 +3995,7 @@ export const dougScores =
     "value": 8,
     "daily": 25,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlGD551Gwqj8&sa=D&source=editors&ust=1684360665331096&usg=AOvVaw1u3dkxG--4HgYYrXEKpDQH",
+    "video": "https://www.youtube.com/watch?v=lGD551Gwqj8",
     "filming_city": "West Chester",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -4020,7 +4020,7 @@ export const dougScores =
     "value": 8,
     "daily": 26,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFHu8iWUaXDE&sa=D&source=editors&ust=1684360665331409&usg=AOvVaw1j7fFLlLKnk2WPRcezHv31",
+    "video": "https://www.youtube.com/watch?v=FHu8iWUaXDE",
     "filming_city": "Annapolis",
     "filming_state": "Maryland",
     "vehicle_country": "USA"
@@ -4045,7 +4045,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dj9z86NZafL0&sa=D&source=editors&ust=1684360665331787&usg=AOvVaw24DdVBW0ZT5wmoA9fXb0Vn",
+    "video": "https://www.youtube.com/watch?v=j9z86NZafL0",
     "filming_city": "Gaithersburg",
     "filming_state": "Maryland",
     "vehicle_country": "USA"
@@ -4070,7 +4070,7 @@ export const dougScores =
     "value": 5,
     "daily": 27,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1YH9G_hrKbQ&sa=D&source=editors&ust=1684360665332208&usg=AOvVaw1lBOPg9Gn7GIdQOF3c4DHx",
+    "video": "https://www.youtube.com/watch?v=1YH9G_hrKbQ",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "UK"
@@ -4095,7 +4095,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzCp-kE9sqxw&sa=D&source=editors&ust=1684360665332607&usg=AOvVaw33_ccbnFSN2pLfZeskp6x6",
+    "video": "https://www.youtube.com/watch?v=zCp-kE9sqxw",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -4120,7 +4120,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DeAW8taenIPQ&sa=D&source=editors&ust=1684360665332918&usg=AOvVaw2OUwO_0GQ8awHVksMBTFsf",
+    "video": "https://www.youtube.com/watch?v=eAW8taenIPQ",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -4145,7 +4145,7 @@ export const dougScores =
     "value": 4,
     "daily": 35,
     "doug": 65,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0z3iVyjr6Ek&sa=D&source=editors&ust=1684360665333213&usg=AOvVaw03BM8-Aw3V7yDNLHYs7jym",
+    "video": "https://www.youtube.com/watch?v=0z3iVyjr6Ek",
     "filming_city": "Lansdale",
     "filming_state": "Pennsylvania",
     "vehicle_country": "UK"
@@ -4170,7 +4170,7 @@ export const dougScores =
     "value": 7,
     "daily": 39,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8MwPl7fjVVo%26t%3D3s&sa=D&source=editors&ust=1684360665333565&usg=AOvVaw31uFskovzkwLCFKnf1rxwx",
+    "video": "https://www.youtube.com/watch?v=8MwPl7fjVVo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4195,7 +4195,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDZ0TLmaa_6I&sa=D&source=editors&ust=1684360665334156&usg=AOvVaw3jME9rfvTD3llrR4vNmXfg",
+    "video": "https://www.youtube.com/watch?v=DZ0TLmaa_6I",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -4220,7 +4220,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqG3B-c7MlYc&sa=D&source=editors&ust=1684360665334754&usg=AOvVaw0aXJ8SSELIA0kt4gUOtgTE",
+    "video": "https://www.youtube.com/watch?v=qG3B-c7MlYc",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4245,7 +4245,7 @@ export const dougScores =
     "value": 6,
     "daily": 16,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZgUvD5m0q2Y%26t%3D1763s&sa=D&source=editors&ust=1684360665335392&usg=AOvVaw2apsrhO2jwAjcZ6bzkxIOx",
+    "video": "https://www.youtube.com/watch?v=ZgUvD5m0q2Y",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -4270,7 +4270,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlItIyxGZUZQ%26t%3D8s&sa=D&source=editors&ust=1684360665336106&usg=AOvVaw018bd_GIJWv7l9QvIbAWiZ",
+    "video": "https://www.youtube.com/watch?v=lItIyxGZUZQ",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -4295,7 +4295,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEDosKpreT5g&sa=D&source=editors&ust=1684360665336716&usg=AOvVaw34B3hFJ0f785jbgHvYjiml",
+    "video": "https://www.youtube.com/watch?v=EDosKpreT5g",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -4320,7 +4320,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpgguJ-XYkXY&sa=D&source=editors&ust=1684360665337318&usg=AOvVaw0H6U1v0VNJnOlOXHsmqXzB",
+    "video": "https://www.youtube.com/watch?v=pgguJ-XYkXY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -4345,7 +4345,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWjTpkAXXM7c&sa=D&source=editors&ust=1684360665337912&usg=AOvVaw3ahIBLWiIs_RctlXsXzCVN",
+    "video": "https://www.youtube.com/watch?v=WjTpkAXXM7c",
     "filming_city": "Las Vegas",
     "filming_state": "Nevada",
     "vehicle_country": "USA"
@@ -4370,7 +4370,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXU4-7e1iiYc%26t%3D5s&sa=D&source=editors&ust=1684360665338512&usg=AOvVaw1H3uyN2iCAPCm9h7-DVB7x",
+    "video": "https://www.youtube.com/watch?v=XU4-7e1iiYc",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4395,7 +4395,7 @@ export const dougScores =
     "value": 8,
     "daily": 25,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqJKOhmc-EMg&sa=D&source=editors&ust=1684360665339019&usg=AOvVaw0YpAArxZUnVj4VuHgb0F6g",
+    "video": "https://www.youtube.com/watch?v=qJKOhmc-EMg",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -4420,7 +4420,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dae5SgV8Mt_c&sa=D&source=editors&ust=1684360665339620&usg=AOvVaw0A5gVC0CI3htvm0or4uJh5",
+    "video": "https://www.youtube.com/watch?v=ae5SgV8Mt_c",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4445,7 +4445,7 @@ export const dougScores =
     "value": 8,
     "daily": 26,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgqaLzGcz354&sa=D&source=editors&ust=1684360665340211&usg=AOvVaw38Hdk71Cce2P12ocDEs_9W",
+    "video": "https://www.youtube.com/watch?v=gqaLzGcz354",
     "filming_city": "Summit",
     "filming_state": "New Jersey",
     "vehicle_country": "UK"
@@ -4470,7 +4470,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9s3y2msBAdg&sa=D&source=editors&ust=1684360665340809&usg=AOvVaw0fepOjimtXUQyTjuA4ELTR",
+    "video": "https://www.youtube.com/watch?v=9s3y2msBAdg",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "Germany"
@@ -4495,7 +4495,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dccz8drePBuA&sa=D&source=editors&ust=1684360665341362&usg=AOvVaw0yzyHTZpHkeMPO6KP8DfdH",
+    "video": "https://www.youtube.com/watch?v=ccz8drePBuA",
     "filming_city": "Montvale",
     "filming_state": "New Jersey",
     "vehicle_country": "Germany"
@@ -4520,7 +4520,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxsMViWFPv_U&sa=D&source=editors&ust=1684360665341969&usg=AOvVaw3EAOlceMkb7L1h0pmBi_VR",
+    "video": "https://www.youtube.com/watch?v=xsMViWFPv_U",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "UK"
@@ -4545,7 +4545,7 @@ export const dougScores =
     "value": 4,
     "daily": 25,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPopzpO-Iu94&sa=D&source=editors&ust=1684360665342571&usg=AOvVaw1BjPLHkTvBrW7vSpT-ksto",
+    "video": "https://www.youtube.com/watch?v=PopzpO-Iu94",
     "filming_city": "Bridgewater",
     "filming_state": "New Jersey",
     "vehicle_country": "Japan"
@@ -4570,7 +4570,7 @@ export const dougScores =
     "value": 4,
     "daily": 29,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DM537NTCaems&sa=D&source=editors&ust=1684360665343153&usg=AOvVaw1xmmp5TuT5eZvIiTpjVM9B",
+    "video": "https://www.youtube.com/watch?v=M537NTCaems",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Italy"
@@ -4595,7 +4595,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrvDrQFGhJA0&sa=D&source=editors&ust=1684360665343756&usg=AOvVaw3IqWB_imw4nQ-hKf-jP5bK",
+    "video": "https://www.youtube.com/watch?v=rvDrQFGhJA0",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "UK"
@@ -4620,7 +4620,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZBiYn0l47XQ&sa=D&source=editors&ust=1684360665344344&usg=AOvVaw2LJvHjhZRLGfr-hV-fwQAT",
+    "video": "https://www.youtube.com/watch?v=ZBiYn0l47XQ",
     "filming_city": "Baltimore",
     "filming_state": "Maryland",
     "vehicle_country": "Germany"
@@ -4645,7 +4645,7 @@ export const dougScores =
     "value": 6,
     "daily": 39,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfuNNIBK_mN0&sa=D&source=editors&ust=1684360665344942&usg=AOvVaw12E4DNZewCFDMHI4uX1vTE",
+    "video": "https://www.youtube.com/watch?v=fuNNIBK_mN0",
     "filming_city": "Lynwood",
     "filming_state": "Washington",
     "vehicle_country": "Japan"
@@ -4670,7 +4670,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dyq9IvgfLFgk&sa=D&source=editors&ust=1684360665345578&usg=AOvVaw3XTEhCHNeI9-TXflzKyC5a",
+    "video": "https://www.youtube.com/watch?v=yq9IvgfLFgk",
     "filming_city": "Melbourne",
     "filming_state": "Australia",
     "vehicle_country": "Germany"
@@ -4695,7 +4695,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnA2PD6NQavw&sa=D&source=editors&ust=1684360665346175&usg=AOvVaw3M6FMZDRtJNw_kP9A4E3Hs",
+    "video": "https://www.youtube.com/watch?v=nA2PD6NQavw",
     "filming_city": "Cherry Hill",
     "filming_state": "New Jersey",
     "vehicle_country": "Germany"
@@ -4720,7 +4720,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DeGrDmnP8jPg&sa=D&source=editors&ust=1684360665346591&usg=AOvVaw20V3EI2QDHArP-Bz1hidMK",
+    "video": "https://www.youtube.com/watch?v=eGrDmnP8jPg",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -4745,7 +4745,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DblY69sLgK6o&sa=D&source=editors&ust=1684360665346909&usg=AOvVaw1U2sYksAqGIvxdg6DW-_VE",
+    "video": "https://www.youtube.com/watch?v=blY69sLgK6o",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4770,7 +4770,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 64,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyZT3hyhao-o&sa=D&source=editors&ust=1684360665347237&usg=AOvVaw3PWu2ziIbdbFUvI9NKEL_n",
+    "video": "https://www.youtube.com/watch?v=yZT3hyhao-o",
     "filming_city": "Las Vegas",
     "filming_state": "Nevada",
     "vehicle_country": "USA"
@@ -4795,7 +4795,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVU_vGXAewoE&sa=D&source=editors&ust=1684360665347615&usg=AOvVaw17dZH6PQpRaV13E7iFasCB",
+    "video": "https://www.youtube.com/watch?v=VU_vGXAewoE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -4820,7 +4820,7 @@ export const dougScores =
     "value": 5,
     "daily": 38,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9vk9vGO9g2A%26t%3D21s&sa=D&source=editors&ust=1684360665347954&usg=AOvVaw3ZT1xmyXSfJON0duo5fb8l",
+    "video": "https://www.youtube.com/watch?v=9vk9vGO9g2A",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4845,7 +4845,7 @@ export const dougScores =
     "value": 5,
     "daily": 35,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3V3MJ96GMa4&sa=D&source=editors&ust=1684360665348401&usg=AOvVaw2cY75XDaBW69cbs0rTgZBs",
+    "video": "https://www.youtube.com/watch?v=3V3MJ96GMa4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -4870,7 +4870,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZubmEjpXQoI&sa=D&source=editors&ust=1684360665348817&usg=AOvVaw0YoxIVVJsNU3LzpRiiT3uW",
+    "video": "https://www.youtube.com/watch?v=ZubmEjpXQoI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -4895,7 +4895,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmhF0EELKynY%26t%3D3s&sa=D&source=editors&ust=1684360665349156&usg=AOvVaw2Q2OhIiIW2wNjW2LUQrFUM",
+    "video": "https://www.youtube.com/watch?v=mhF0EELKynY",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4920,7 +4920,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZoEHGjT7gc4%26t%3D136s&sa=D&source=editors&ust=1684360665349518&usg=AOvVaw35R3PrwYraiCJ8bZs_abvY",
+    "video": "https://www.youtube.com/watch?v=ZoEHGjT7gc4",
     "filming_city": "Boerne",
     "filming_state": "Texas",
     "vehicle_country": "Italy"
@@ -4945,7 +4945,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DS6YYun90S8g&sa=D&source=editors&ust=1684360665349914&usg=AOvVaw2wwfz6HyD8uoYYZtiVdBP-",
+    "video": "https://www.youtube.com/watch?v=S6YYun90S8g",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "UK"
@@ -4970,7 +4970,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKiYuRe7a7x8&sa=D&source=editors&ust=1684360665350270&usg=AOvVaw1gNtRcfXbITXlhheTdDdg8",
+    "video": "https://www.youtube.com/watch?v=KiYuRe7a7x8",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -4995,7 +4995,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmeSVfbFEwH8&sa=D&source=editors&ust=1684360665350596&usg=AOvVaw1ua2-VZAwLLXkF6W89EdDU",
+    "video": "https://www.youtube.com/watch?v=meSVfbFEwH8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5020,7 +5020,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0DS7ddQQZ6A&sa=D&source=editors&ust=1684360665350912&usg=AOvVaw1tNH3CqKDBBRliZYuCX32l",
+    "video": "https://www.youtube.com/watch?v=0DS7ddQQZ6A",
     "filming_city": "Toronto",
     "filming_state": "Ontario",
     "vehicle_country": "UK"
@@ -5045,7 +5045,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQaTn3gaCQYk&sa=D&source=editors&ust=1684360665351223&usg=AOvVaw2dS5SL2b0sWHUnFfx3xrRg",
+    "video": "https://www.youtube.com/watch?v=QaTn3gaCQYk",
     "filming_city": "Bethesda",
     "filming_state": "Maryland",
     "vehicle_country": "Italy"
@@ -5070,7 +5070,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJLNZfkSc19E&sa=D&source=editors&ust=1684360665351611&usg=AOvVaw2vc_JVSZuJbQwBSDwUi2Co",
+    "video": "https://www.youtube.com/watch?v=JLNZfkSc19E",
     "filming_city": "Alpharetta",
     "filming_state": "Georgia",
     "vehicle_country": "Italy"
@@ -5095,7 +5095,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTgyAPbw0_7M&sa=D&source=editors&ust=1684360665351962&usg=AOvVaw14FOpDBpUVQOzq8WyIbwY0",
+    "video": "https://www.youtube.com/watch?v=TgyAPbw0_7M",
     "filming_city": "Scarsdale",
     "filming_state": "New York",
     "vehicle_country": "USA"
@@ -5120,7 +5120,7 @@ export const dougScores =
     "value": 7,
     "daily": 20,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3rpbyf7dBU0&sa=D&source=editors&ust=1684360665352296&usg=AOvVaw3qHrJUscbMB52Ium1E4KwQ",
+    "video": "https://www.youtube.com/watch?v=3rpbyf7dBU0",
     "filming_city": "Birmingham",
     "filming_state": "Michigan",
     "vehicle_country": "Italy"
@@ -5145,7 +5145,7 @@ export const dougScores =
     "value": 5,
     "daily": 24,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhjzfHp3TNL8&sa=D&source=editors&ust=1684360665352695&usg=AOvVaw1Gei5rVi4-8PNReU9YlOyE",
+    "video": "https://www.youtube.com/watch?v=hjzfHp3TNL8",
     "filming_city": "Franklin",
     "filming_state": "Tennessee",
     "vehicle_country": "Germany"
@@ -5170,7 +5170,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 63,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXP6fdBHSdi0%26t%3D1s&sa=D&source=editors&ust=1684360665353119&usg=AOvVaw1s8X-fNyeZPfUYzyAW2g0K",
+    "video": "https://www.youtube.com/watch?v=XP6fdBHSdi0",
     "filming_city": "Highlands",
     "filming_state": "New Jersey",
     "vehicle_country": "USA"
@@ -5195,7 +5195,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DY5D-4JyG2dA&sa=D&source=editors&ust=1684360665353439&usg=AOvVaw0Ve1tnQWlUyzb_pgV5ahIr",
+    "video": "https://www.youtube.com/watch?v=Y5D-4JyG2dA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -5220,7 +5220,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6ByPWhpelwk&sa=D&source=editors&ust=1684360665353790&usg=AOvVaw2H5Ni4WoJOxXVl9F7dNF-x",
+    "video": "https://www.youtube.com/watch?v=6ByPWhpelwk",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -5245,7 +5245,7 @@ export const dougScores =
     "value": 5,
     "daily": 35,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXP6fdBHSdi0%26t%3D1s&sa=D&source=editors&ust=1684360665354180&usg=AOvVaw1NC6HaPsohD987CzXdtVF2",
+    "video": "https://www.youtube.com/watch?v=XP6fdBHSdi0",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -5270,7 +5270,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq8sQP2GTkJU&sa=D&source=editors&ust=1684360665354485&usg=AOvVaw2jlm6hzCj16tzUAX3eTdHh",
+    "video": "https://www.youtube.com/watch?v=q8sQP2GTkJU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -5295,7 +5295,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ds3FLr4FkjA4%26t%3D3s&sa=D&source=editors&ust=1684360665354848&usg=AOvVaw3mi5OUKUkn7YMDdGuoZl0e",
+    "video": "https://www.youtube.com/watch?v=s3FLr4FkjA4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -5320,7 +5320,7 @@ export const dougScores =
     "value": 6,
     "daily": 16,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DcFBMKk_tnp0&sa=D&source=editors&ust=1684360665355181&usg=AOvVaw3cvrnemHN2FAjwnrxeTXEf",
+    "video": "https://www.youtube.com/watch?v=cFBMKk_tnp0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -5345,7 +5345,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DX4jvKXPyNh8%26t%3D2s&sa=D&source=editors&ust=1684360665355520&usg=AOvVaw2-9idCMVj5IEcQ9X33yMZq",
+    "video": "https://www.youtube.com/watch?v=X4jvKXPyNh8",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -5370,7 +5370,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFDjWBrK6lo0%26t%3D4s&sa=D&source=editors&ust=1684360665355842&usg=AOvVaw0td8oZkvlItbfl6jKOhfIn",
+    "video": "https://www.youtube.com/watch?v=FDjWBrK6lo0",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -5395,7 +5395,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DM6RTHn-71z0%26t%3D3s&sa=D&source=editors&ust=1684360665356318&usg=AOvVaw3g_YeGmAwlpWGhaat-di8U",
+    "video": "https://www.youtube.com/watch?v=M6RTHn-71z0",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5420,7 +5420,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSYtWrHMjG20&sa=D&source=editors&ust=1684360665356676&usg=AOvVaw3cyMmdrA81pd2jbDsXansV",
+    "video": "https://www.youtube.com/watch?v=SYtWrHMjG20",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -5445,7 +5445,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DESEYv86NNvw&sa=D&source=editors&ust=1684360665357046&usg=AOvVaw39b7XlXEbtYsOlptpyV5OU",
+    "video": "https://www.youtube.com/watch?v=ESEYv86NNvw",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5470,7 +5470,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dl9777M1Wmzo&sa=D&source=editors&ust=1684360665357453&usg=AOvVaw1ZvKnVvvZLySoCYtFlMhbc",
+    "video": "https://www.youtube.com/watch?v=l9777M1Wmzo",
     "filming_city": "San Francisco",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5495,7 +5495,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNwO9wvmr7Fs&sa=D&source=editors&ust=1684360665357897&usg=AOvVaw00yS8vzCSenAGtEdIj30RM",
+    "video": "https://www.youtube.com/watch?v=NwO9wvmr7Fs",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5545,7 +5545,7 @@ export const dougScores =
     "value": 5,
     "daily": 32,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dpnrov9akHZY&sa=D&source=editors&ust=1684360665359089&usg=AOvVaw0OnLNPnepiNmm7TdQkX0Fi",
+    "video": "https://www.youtube.com/watch?v=pnrov9akHZY",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -5570,7 +5570,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9I1rgSxKsaM&sa=D&source=editors&ust=1684360665359711&usg=AOvVaw06o_N26uZeKFaU_RNehf5G",
+    "video": "https://www.youtube.com/watch?v=9I1rgSxKsaM",
     "filming_city": "Fort Worth",
     "filming_state": "Texas",
     "vehicle_country": "Germany"
@@ -5595,7 +5595,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4VQIjYBbawE&sa=D&source=editors&ust=1684360665360300&usg=AOvVaw2pXnPQfZmLBEaiAJDbYJjF",
+    "video": "https://www.youtube.com/watch?v=4VQIjYBbawE",
     "filming_city": "Burbank",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -5620,7 +5620,7 @@ export const dougScores =
     "value": 8,
     "daily": 26,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2fFMeWn0a8o&sa=D&source=editors&ust=1684360665360910&usg=AOvVaw2cXNl0jYOVjJiiUG_QhDGo",
+    "video": "https://www.youtube.com/watch?v=2fFMeWn0a8o",
     "filming_city": "Marana",
     "filming_state": "Arizona",
     "vehicle_country": "USA"
@@ -5645,7 +5645,7 @@ export const dougScores =
     "value": 8,
     "daily": 34,
     "doug": 62,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZDVbx1ZEs5E&sa=D&source=editors&ust=1684360665361524&usg=AOvVaw0dYzZ-gDTRmtECDFpXHvsB",
+    "video": "https://www.youtube.com/watch?v=ZDVbx1ZEs5E",
     "filming_city": "Cerritos",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -5670,7 +5670,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJmIVKOkj1AA&sa=D&source=editors&ust=1684360665362124&usg=AOvVaw3GYab6AlY0qBx0Gsoiip1p",
+    "video": "https://www.youtube.com/watch?v=JmIVKOkj1AA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5695,7 +5695,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DC4P6SJ6PCx8%26t%3D1s&sa=D&source=editors&ust=1684360665362595&usg=AOvVaw0jg1LwCmCtrx46M0jt3VX3",
+    "video": "https://www.youtube.com/watch?v=C4P6SJ6PCx8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5720,7 +5720,7 @@ export const dougScores =
     "value": 6,
     "daily": 40,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-ZIbGCrgf1M%26t%3D2s&sa=D&source=editors&ust=1684360665362900&usg=AOvVaw2axDkXB5KSnbPd8JUsZncF",
+    "video": "https://www.youtube.com/watch?v=-ZIbGCrgf1M",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -5745,7 +5745,7 @@ export const dougScores =
     "value": 8,
     "daily": 28,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3QM38BFOZ7M%26t%3D1s&sa=D&source=editors&ust=1684360665363276&usg=AOvVaw344E5GXvhKmd9VvSA1T6gW",
+    "video": "https://www.youtube.com/watch?v=3QM38BFOZ7M",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -5770,7 +5770,7 @@ export const dougScores =
     "value": 6,
     "daily": 40,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dm1fNZSYXNaw&sa=D&source=editors&ust=1684360665363631&usg=AOvVaw3zuP-9f7sljYcML8WBGefp",
+    "video": "https://www.youtube.com/watch?v=m1fNZSYXNaw",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5795,7 +5795,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUGEcF8_tK9Q%26t%3D1s&sa=D&source=editors&ust=1684360665363929&usg=AOvVaw0cKiOis7Wg8wAl11wLLGv5",
+    "video": "https://www.youtube.com/watch?v=UGEcF8_tK9Q",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -5820,7 +5820,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzBGbFjTBBZQ&sa=D&source=editors&ust=1684360665364295&usg=AOvVaw2pRq5_qhkJk2yUnYILafLt",
+    "video": "https://www.youtube.com/watch?v=zBGbFjTBBZQ",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5845,7 +5845,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DaP7of0p-GGU%26t%3D74s&sa=D&source=editors&ust=1684360665364663&usg=AOvVaw3Eb4ZpANNjW7-FDq7YJJoj",
+    "video": "https://www.youtube.com/watch?v=aP7of0p-GGU",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5870,7 +5870,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCGXEv06QOyQ&sa=D&source=editors&ust=1684360665364957&usg=AOvVaw1EEz75VQ2eYeMDIdFHzmAS",
+    "video": "https://www.youtube.com/watch?v=CGXEv06QOyQ",
     "filming_city": "Fort Worth",
     "filming_state": "Texas",
     "vehicle_country": "UK"
@@ -5895,7 +5895,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPOaSGHf5ZtQ%26t%3D130s&sa=D&source=editors&ust=1684360665365301&usg=AOvVaw2AKEaHRKlDe753ybcLB-nM",
+    "video": "https://www.youtube.com/watch?v=POaSGHf5ZtQ",
     "filming_city": "Long Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5920,7 +5920,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNtDj3W6GAn4%26t%3D2s&sa=D&source=editors&ust=1684360665365598&usg=AOvVaw3y1HLOx_AAW10Cki8KEcQQ",
+    "video": "https://www.youtube.com/watch?v=NtDj3W6GAn4",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -5945,7 +5945,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DoeArHpu1jxc%26t%3D2s&sa=D&source=editors&ust=1684360665365936&usg=AOvVaw3-bq9RnVpmxMlKXChZIt7T",
+    "video": "https://www.youtube.com/watch?v=oeArHpu1jxc",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -5970,7 +5970,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5YvMlIwSYWo%26t%3D111s&sa=D&source=editors&ust=1684360665366296&usg=AOvVaw1PXwOVQIUJ2JiZm8oKPs4b",
+    "video": "https://www.youtube.com/watch?v=5YvMlIwSYWo",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -5995,7 +5995,7 @@ export const dougScores =
     "value": 10,
     "daily": 35,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKBcNfIwnJK4&sa=D&source=editors&ust=1684360665366636&usg=AOvVaw22Ge9gySdTZ5RzXSnDZsUD",
+    "video": "https://www.youtube.com/watch?v=KBcNfIwnJK4",
     "filming_city": "Sacramento",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6020,7 +6020,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQhE64beLG0Q&sa=D&source=editors&ust=1684360665367004&usg=AOvVaw3HdOIW5XDQ19uXKSWjC5WL",
+    "video": "https://www.youtube.com/watch?v=QhE64beLG0Q",
     "filming_city": "Rancho Santa Fe",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -6045,7 +6045,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dl5zT005oGbA&sa=D&source=editors&ust=1684360665367331&usg=AOvVaw1PSql5VOcmfIRK-Y2yOmTE",
+    "video": "https://www.youtube.com/watch?v=l5zT005oGbA",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -6070,7 +6070,7 @@ export const dougScores =
     "value": 7,
     "daily": 19,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt0zOKlVEYSk&sa=D&source=editors&ust=1684360665367696&usg=AOvVaw3Hl2Aud3Cps7GeS7QKrlLA",
+    "video": "https://www.youtube.com/watch?v=t0zOKlVEYSk",
     "filming_city": "Lansdale",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Italy"
@@ -6095,7 +6095,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFyj1fcJbaWc&sa=D&source=editors&ust=1684360665368246&usg=AOvVaw3i76YC3RU8zUCekY5yOX1m",
+    "video": "https://www.youtube.com/watch?v=Fyj1fcJbaWc",
     "filming_city": "Fairfax",
     "filming_state": "Virginia",
     "vehicle_country": "Germany"
@@ -6120,7 +6120,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DK8h-hZouHZk&sa=D&source=editors&ust=1684360665368751&usg=AOvVaw3B4LsCT8LKxM7JPo9Cvtk4",
+    "video": "https://www.youtube.com/watch?v=K8h-hZouHZk",
     "filming_city": "Huntingdon Valley",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -6145,7 +6145,7 @@ export const dougScores =
     "value": 9,
     "daily": 32,
     "doug": 61,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQfJjH4oZDTA&sa=D&source=editors&ust=1684360665369265&usg=AOvVaw0P6ZC5FFYvz1izNYZj7vTe",
+    "video": "https://www.youtube.com/watch?v=QfJjH4oZDTA",
     "filming_city": "Fort Lee",
     "filming_state": "New Jersey",
     "vehicle_country": "USA"
@@ -6170,7 +6170,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4oC8cvUb0kI%26t%3D216s&sa=D&source=editors&ust=1684360665369742&usg=AOvVaw0O5wa-trxhmCJ1NSDyrTVf",
+    "video": "https://www.youtube.com/watch?v=4oC8cvUb0kI",
     "filming_city": "Summit Point",
     "filming_state": "West Virginia",
     "vehicle_country": "Japan"
@@ -6195,7 +6195,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCcHork6WL1w%26t%3D119s&sa=D&source=editors&ust=1684360665370242&usg=AOvVaw3psUOkMJs5i71A9XxGJM45",
+    "video": "https://www.youtube.com/watch?v=CcHork6WL1w",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6220,7 +6220,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO_wPT592t2c%26t%3D43s&sa=D&source=editors&ust=1684360665370560&usg=AOvVaw150QytY_U-xmwKpudUL0EM",
+    "video": "https://www.youtube.com/watch?v=O_wPT592t2c",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -6245,7 +6245,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D78WU0m7SaYU%26t%3D10s&sa=D&source=editors&ust=1684360665370903&usg=AOvVaw0qnm6tfJMcoOaiOJQWy_lX",
+    "video": "https://www.youtube.com/watch?v=78WU0m7SaYU",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -6270,7 +6270,7 @@ export const dougScores =
     "value": 7,
     "daily": 33,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3-IfCbKou28&sa=D&source=editors&ust=1684360665371325&usg=AOvVaw3kKzcWh6xIGqryg_7KFlpM",
+    "video": "https://www.youtube.com/watch?v=3-IfCbKou28",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -6295,7 +6295,7 @@ export const dougScores =
     "value": 6,
     "daily": 16,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDSE6-kr8Uoc&sa=D&source=editors&ust=1684360665371707&usg=AOvVaw3WE7J5NbZse1RrjDkj95E0",
+    "video": "https://www.youtube.com/watch?v=DSE6-kr8Uoc",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -6320,7 +6320,7 @@ export const dougScores =
     "value": 8,
     "daily": 26,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2OFuYRe1NLQ&sa=D&source=editors&ust=1684360665372183&usg=AOvVaw30Txd6-oMWUPZcbUY22h7m",
+    "video": "https://www.youtube.com/watch?v=2OFuYRe1NLQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6345,7 +6345,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DaH3bA0vn6Tg&sa=D&source=editors&ust=1684360665372579&usg=AOvVaw3Uq-yWH1NvTzIHUyK_xWd0",
+    "video": "https://www.youtube.com/watch?v=aH3bA0vn6Tg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -6370,7 +6370,7 @@ export const dougScores =
     "value": 5,
     "daily": 16,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbFKy0DOYchs&sa=D&source=editors&ust=1684360665372970&usg=AOvVaw39vXizavNutZ1DFIFIy5Yo",
+    "video": "https://www.youtube.com/watch?v=bFKy0DOYchs",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -6395,7 +6395,7 @@ export const dougScores =
     "value": 8,
     "daily": 34,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEAezax2ugQU&sa=D&source=editors&ust=1684360665373341&usg=AOvVaw2OkDNFBWEwTt6aD_WY82FH",
+    "video": "https://www.youtube.com/watch?v=EAezax2ugQU",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6420,7 +6420,7 @@ export const dougScores =
     "value": 4,
     "daily": 31,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dvh_Z7zpLjhA&sa=D&source=editors&ust=1684360665373650&usg=AOvVaw1niTwjnobuJ6Nud6VhMgyK",
+    "video": "https://www.youtube.com/watch?v=vh_Z7zpLjhA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -6445,7 +6445,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Do8b5EnnbRLw%26t%3D2s&sa=D&source=editors&ust=1684360665374091&usg=AOvVaw0PXo-Y3EehaOwjeK4o7LAX",
+    "video": "https://www.youtube.com/watch?v=o8b5EnnbRLw",
     "filming_city": "Annapolis",
     "filming_state": "Maryland",
     "vehicle_country": "South Korea"
@@ -6470,7 +6470,7 @@ export const dougScores =
     "value": 6,
     "daily": 39,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGOREqfzgN9M%26t%3D219s&sa=D&source=editors&ust=1684360665374451&usg=AOvVaw2T2ezes69-U4n-x6s6jH3O",
+    "video": "https://www.youtube.com/watch?v=GOREqfzgN9M",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6495,7 +6495,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNJ6jHgZIEPs&sa=D&source=editors&ust=1684360665374770&usg=AOvVaw0ZDzLytOVELPXoIzBVfzrJ",
+    "video": "https://www.youtube.com/watch?v=NJ6jHgZIEPs",
     "filming_city": "Tustin",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6520,7 +6520,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3P-cNnBFbGc&sa=D&source=editors&ust=1684360665375090&usg=AOvVaw0ennccK-HcG9BYx2c5Q7-M",
+    "video": "https://www.youtube.com/watch?v=3P-cNnBFbGc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6545,7 +6545,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9rkJaZ5-2o0&sa=D&source=editors&ust=1684360665375475&usg=AOvVaw0XsD45vrnjvOQb3-QWpZp9",
+    "video": "https://www.youtube.com/watch?v=9rkJaZ5-2o0",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6570,7 +6570,7 @@ export const dougScores =
     "value": 7,
     "daily": 13,
     "doug": 60,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7mZdkfEeJH4&sa=D&source=editors&ust=1684360665376004&usg=AOvVaw1JFpboBjOcReRUBzyqy_3f",
+    "video": "https://www.youtube.com/watch?v=7mZdkfEeJH4",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Italy"
@@ -6595,7 +6595,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJTQy3jGrTzA&sa=D&source=editors&ust=1684360665376405&usg=AOvVaw2K02dHevL01GbgDozuxXwh",
+    "video": "https://www.youtube.com/watch?v=JTQy3jGrTzA",
     "filming_city": "Palm Desert",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6620,7 +6620,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLy2YGKp4AKc%26t%3D5s&sa=D&source=editors&ust=1684360665376749&usg=AOvVaw1K57npZ6bn3dhscNPIYiSo",
+    "video": "https://www.youtube.com/watch?v=Ly2YGKp4AKc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6645,7 +6645,7 @@ export const dougScores =
     "value": 6,
     "daily": 39,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfaSX3-ObA2A&sa=D&source=editors&ust=1684360665377071&usg=AOvVaw0rT5Pzi_yT7xC7Ct64zMKl",
+    "video": "https://www.youtube.com/watch?v=faSX3-ObA2A",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6670,7 +6670,7 @@ export const dougScores =
     "value": 6,
     "daily": 39,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmUSv8b-V5I4&sa=D&source=editors&ust=1684360665377419&usg=AOvVaw1qiuwajWWoEXvahtz2voym",
+    "video": "https://www.youtube.com/watch?v=mUSv8b-V5I4",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6720,7 +6720,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3SCy0NqFPfw%26t%3D8s&sa=D&source=editors&ust=1684360665378011&usg=AOvVaw1bZlYHIpQ68FkZGZSXakkx",
+    "video": "https://www.youtube.com/watch?v=3SCy0NqFPfw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6745,7 +6745,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DM5mJXUzhnk0&sa=D&source=editors&ust=1684360665378309&usg=AOvVaw2mw3EwzUIGUTcAuvESxscz",
+    "video": "https://www.youtube.com/watch?v=M5mJXUzhnk0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6770,7 +6770,7 @@ export const dougScores =
     "value": 5,
     "daily": 35,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DM5mJXUzhnk0&sa=D&source=editors&ust=1684360665378614&usg=AOvVaw3DEHzXrwDEbyCXM-PvHzsi",
+    "video": "https://www.youtube.com/watch?v=M5mJXUzhnk0",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6795,7 +6795,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRWuwKzef-LE&sa=D&source=editors&ust=1684360665378950&usg=AOvVaw36m4S1IDIDzz3iZkHf-7T3",
+    "video": "https://www.youtube.com/watch?v=RWuwKzef-LE",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6820,7 +6820,7 @@ export const dougScores =
     "value": 4,
     "daily": 28,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzrESlrGCALM%26t%3D1610s&sa=D&source=editors&ust=1684360665379512&usg=AOvVaw1iGJPVMQUtSGCkOjCwc_Qf",
+    "video": "https://www.youtube.com/watch?v=zrESlrGCALM",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6845,7 +6845,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dte6VqldjTT8&sa=D&source=editors&ust=1684360665379911&usg=AOvVaw1V-eN1RK-t5IbAjbAg_V3-",
+    "video": "https://www.youtube.com/watch?v=te6VqldjTT8",
     "filming_city": "San Jose",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6870,7 +6870,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUTURtQvSvHI&sa=D&source=editors&ust=1684360665380285&usg=AOvVaw1bSEGG3WA4c6-ZXaNHNK1Y",
+    "video": "https://www.youtube.com/watch?v=UTURtQvSvHI",
     "filming_city": "Mirabel",
     "filming_state": "Quebec",
     "vehicle_country": "Japan"
@@ -6895,7 +6895,7 @@ export const dougScores =
     "value": 5,
     "daily": 21,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQxZOFLIrdtk&sa=D&source=editors&ust=1684360665380595&usg=AOvVaw0Du39fc1zNlJFTI7Q8adco",
+    "video": "https://www.youtube.com/watch?v=QxZOFLIrdtk",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -6920,7 +6920,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5JXrvulTg5M&sa=D&source=editors&ust=1684360665380927&usg=AOvVaw1JtwGyqNzBOUdsVBoTnEUP",
+    "video": "https://www.youtube.com/watch?v=5JXrvulTg5M",
     "filming_city": "Morristown",
     "filming_state": "New Jersey",
     "vehicle_country": "Germany"
@@ -6945,7 +6945,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 59,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Do8b5EnnbRLw&sa=D&source=editors&ust=1684360665381259&usg=AOvVaw3mfCdzuFEgWat3GVOc37vL",
+    "video": "https://www.youtube.com/watch?v=o8b5EnnbRLw",
     "filming_city": "Annapolis",
     "filming_state": "Maryland",
     "vehicle_country": "South Korea"
@@ -6970,7 +6970,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwLvJd6V7HTo%26t%3D4s&sa=D&source=editors&ust=1684360665381572&usg=AOvVaw0bE11AAowKDKjVn7kByKGi",
+    "video": "https://www.youtube.com/watch?v=wLvJd6V7HTo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -6995,7 +6995,7 @@ export const dougScores =
     "value": 8,
     "daily": 29,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiqFOWynWWpI%26t%3D2s&sa=D&source=editors&ust=1684360665381954&usg=AOvVaw2Cjxcaq1o_tmvHoXdNfp04",
+    "video": "https://www.youtube.com/watch?v=iqFOWynWWpI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -7045,7 +7045,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmyCJXRSkmYM&sa=D&source=editors&ust=1684360665382556&usg=AOvVaw1cUkBu2LBw7ahU490QsBl1",
+    "video": "https://www.youtube.com/watch?v=myCJXRSkmYM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -7070,7 +7070,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjkOW5FcRGtY&sa=D&source=editors&ust=1684360665382889&usg=AOvVaw3UWeC6ZdYWzY3ZCjlkZAPn",
+    "video": "https://www.youtube.com/watch?v=jkOW5FcRGtY",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -7095,7 +7095,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxxE4FV0TqVQ&sa=D&source=editors&ust=1684360665383305&usg=AOvVaw33Ld56Ehb6amyD6m6x3IiA",
+    "video": "https://www.youtube.com/watch?v=xxE4FV0TqVQ",
     "filming_city": "New Orleans",
     "filming_state": " Louisiana",
     "vehicle_country": "Germany"
@@ -7120,7 +7120,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRPQWsXtWY_k&sa=D&source=editors&ust=1684360665383633&usg=AOvVaw245jS0M40rGPTjA8kcKNfa",
+    "video": "https://www.youtube.com/watch?v=RPQWsXtWY_k",
     "filming_city": "Tustin",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7145,7 +7145,7 @@ export const dougScores =
     "value": 5,
     "daily": 32,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKVQzEKHI2Tw%26t%3D856s&sa=D&source=editors&ust=1684360665383941&usg=AOvVaw2YXg3XjOEYe4FetqkM3Aju",
+    "video": "https://www.youtube.com/watch?v=KVQzEKHI2Tw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -7170,7 +7170,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7AHJaYGes5w%26t%3D175s&sa=D&source=editors&ust=1684360665384307&usg=AOvVaw1Y2vPozfmG9Y_5IUCFVERa",
+    "video": "https://www.youtube.com/watch?v=7AHJaYGes5w",
     "filming_city": "Boerne",
     "filming_state": "Texas",
     "vehicle_country": "Italy"
@@ -7195,7 +7195,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0fs1qmx0vZk&sa=D&source=editors&ust=1684360665384853&usg=AOvVaw3GLIgODOgdDa5LXAR_eGQB",
+    "video": "https://www.youtube.com/watch?v=0fs1qmx0vZk",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -7220,7 +7220,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-xNNEXLit0A&sa=D&source=editors&ust=1684360665385233&usg=AOvVaw2QSPlUr0MIiT8gEUIm3xCN",
+    "video": "https://www.youtube.com/watch?v=-xNNEXLit0A",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7245,7 +7245,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDcriSRdaSDY&sa=D&source=editors&ust=1684360665385643&usg=AOvVaw2qhcoSMCbEVAA-yxsNsXLA",
+    "video": "https://www.youtube.com/watch?v=DcriSRdaSDY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -7270,7 +7270,7 @@ export const dougScores =
     "value": 4,
     "daily": 29,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHPalT13VIzk&sa=D&source=editors&ust=1684360665386028&usg=AOvVaw1JGoCQE-AWoXIq1nrFVZw6",
+    "video": "https://www.youtube.com/watch?v=HPalT13VIzk",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7295,7 +7295,7 @@ export const dougScores =
     "value": 6,
     "daily": 35,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYB0QQfU1K1M&sa=D&source=editors&ust=1684360665386342&usg=AOvVaw1LXj-3J3S6raEMdxn4t73U",
+    "video": "https://www.youtube.com/watch?v=YB0QQfU1K1M",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -7320,7 +7320,7 @@ export const dougScores =
     "value": 10,
     "daily": 27,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRr2dzAZEhk4&sa=D&source=editors&ust=1684360665386666&usg=AOvVaw35KfOIHcuDRslp4HukcW6N",
+    "video": "https://www.youtube.com/watch?v=Rr2dzAZEhk4",
     "filming_city": "Nashville",
     "filming_state": "Tennessee",
     "vehicle_country": "Germany"
@@ -7345,7 +7345,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQdXziTLSO18%26t%3D157s&sa=D&source=editors&ust=1684360665387015&usg=AOvVaw2xCLBTMdTueUzaqQKkVZjK",
+    "video": "https://www.youtube.com/watch?v=QdXziTLSO18",
     "filming_city": "Baltimore",
     "filming_state": "Maryland",
     "vehicle_country": "Italy"
@@ -7370,7 +7370,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 58,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DytfoYf5sjsA&sa=D&source=editors&ust=1684360665387405&usg=AOvVaw2qxnz5uHorhPtxMmoMVvRH",
+    "video": "https://www.youtube.com/watch?v=ytfoYf5sjsA",
     "filming_city": "Willows",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -7395,7 +7395,7 @@ export const dougScores =
     "value": 5,
     "daily": 39,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHpTISIsS9qA&sa=D&source=editors&ust=1684360665387855&usg=AOvVaw0LOd-GTNhDf-jO5GkHxlbX",
+    "video": "https://www.youtube.com/watch?v=HpTISIsS9qA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -7420,7 +7420,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1F0ryJApP0A&sa=D&source=editors&ust=1684360665388311&usg=AOvVaw1fp1hBHZGsvva4Ey5kO0Vf",
+    "video": "https://www.youtube.com/watch?v=1F0ryJApP0A",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7445,7 +7445,7 @@ export const dougScores =
     "value": 5,
     "daily": 32,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DadUHK8PybDI&sa=D&source=editors&ust=1684360665388663&usg=AOvVaw1pYybChyyIAye3vXbO7TpQ",
+    "video": "https://www.youtube.com/watch?v=adUHK8PybDI",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -7470,7 +7470,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6M80VVh-zSI&sa=D&source=editors&ust=1684360665389018&usg=AOvVaw17Z3s6jo-osRN02C0WWsmh",
+    "video": "https://www.youtube.com/watch?v=6M80VVh-zSI",
     "filming_city": "Nantucket",
     "filming_state": "Massachusetts",
     "vehicle_country": "Japan"
@@ -7495,7 +7495,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiwIp_lEafEI&sa=D&source=editors&ust=1684360665389355&usg=AOvVaw2WUOECoUGVyd9DtxxQiI7a",
+    "video": "https://www.youtube.com/watch?v=iwIp_lEafEI",
     "filming_city": "Napa",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -7520,7 +7520,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DoV0aOGq2t0s%26t%3D75s&sa=D&source=editors&ust=1684360665389727&usg=AOvVaw2dtprNk95UxjJMp2_BnvTD",
+    "video": "https://www.youtube.com/watch?v=oV0aOGq2t0s",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7545,7 +7545,7 @@ export const dougScores =
     "value": 8,
     "daily": 33,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlgkOSB7Fyis&sa=D&source=editors&ust=1684360665390129&usg=AOvVaw0uvk_ZKRRDocUdFd9r4EDl",
+    "video": "https://www.youtube.com/watch?v=lgkOSB7Fyis",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -7570,7 +7570,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtB9xfK1vWUM&sa=D&source=editors&ust=1684360665390575&usg=AOvVaw1v0lcc0fgrCz3cLTe2kVyv",
+    "video": "https://www.youtube.com/watch?v=tB9xfK1vWUM",
     "filming_city": "Denver",
     "filming_state": "Colorado",
     "vehicle_country": "Germany"
@@ -7595,7 +7595,7 @@ export const dougScores =
     "value": 5,
     "daily": 28,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPyBYrW5Uc1E&sa=D&source=editors&ust=1684360665390981&usg=AOvVaw1xj1KJBZf1ny7KqQV7d_bU",
+    "video": "https://www.youtube.com/watch?v=PyBYrW5Uc1E",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -7620,7 +7620,7 @@ export const dougScores =
     "value": 7,
     "daily": 16,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3WEhsS9ybwk&sa=D&source=editors&ust=1684360665391324&usg=AOvVaw1X9s_MMnJGd-IwelQcWotC",
+    "video": "https://www.youtube.com/watch?v=3WEhsS9ybwk",
     "filming_city": "Somerset County",
     "filming_state": "New Jersey",
     "vehicle_country": "USA"
@@ -7645,7 +7645,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfGDNzMLfSBY&sa=D&source=editors&ust=1684360665391706&usg=AOvVaw314XoyBpXUlTEV1fIUQ-yr",
+    "video": "https://www.youtube.com/watch?v=fGDNzMLfSBY",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7670,7 +7670,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFrdpDEXGB48%26t%3D29s&sa=D&source=editors&ust=1684360665392044&usg=AOvVaw2tLhDuRykGlvzTt09JZR1O",
+    "video": "https://www.youtube.com/watch?v=FrdpDEXGB48",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -7695,7 +7695,7 @@ export const dougScores =
     "value": 6,
     "daily": 15,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnhQFW0fyuLU&sa=D&source=editors&ust=1684360665392345&usg=AOvVaw0CfktXDhFTrlaiylN8AR2x",
+    "video": "https://www.youtube.com/watch?v=nhQFW0fyuLU",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -7720,7 +7720,7 @@ export const dougScores =
     "value": 7,
     "daily": 18,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYPrJYNFURKU%26t%3D8s&sa=D&source=editors&ust=1684360665392659&usg=AOvVaw04YRmXG6KAT6FxcWEvtpsu",
+    "video": "https://www.youtube.com/watch?v=YPrJYNFURKU",
     "filming_city": "Long Island",
     "filming_state": "New York",
     "vehicle_country": "UK"
@@ -7745,7 +7745,7 @@ export const dougScores =
     "value": 10,
     "daily": 24,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNcCszG4yNIU%26t%3D896s&sa=D&source=editors&ust=1684360665392992&usg=AOvVaw3Y55CdCASto0cS3KKEt6Pk",
+    "video": "https://www.youtube.com/watch?v=NcCszG4yNIU",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -7770,7 +7770,7 @@ export const dougScores =
     "value": 6,
     "daily": 37,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFWRORb9bpxY&sa=D&source=editors&ust=1684360665393374&usg=AOvVaw0PBO4irfLr2gLBgnyeAFsv",
+    "video": "https://www.youtube.com/watch?v=FWRORb9bpxY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -7795,7 +7795,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DcwKAS9vQq90&sa=D&source=editors&ust=1684360665393787&usg=AOvVaw1IjmYF8ZxHtBspm3CXiUQx",
+    "video": "https://www.youtube.com/watch?v=cwKAS9vQq90",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -7820,7 +7820,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGad0TXRVblk&sa=D&source=editors&ust=1684360665394101&usg=AOvVaw2b_m7Z5qQa1y5LlEaK-kap",
+    "video": "https://www.youtube.com/watch?v=Gad0TXRVblk",
     "filming_city": "Escondido",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -7845,7 +7845,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrDwyhK7jPyM&sa=D&source=editors&ust=1684360665394444&usg=AOvVaw1I_k1_b5tBHSCUZrpUMw_4",
+    "video": "https://www.youtube.com/watch?v=rDwyhK7jPyM",
     "filming_city": "Cherry Hill",
     "filming_state": "New Jersey",
     "vehicle_country": "Germany"
@@ -7870,7 +7870,7 @@ export const dougScores =
     "value": 7,
     "daily": 23,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNKin_i1pcFA&sa=D&source=editors&ust=1684360665394754&usg=AOvVaw0yjhZJ-v2NmhA-bSsANg0I",
+    "video": "https://www.youtube.com/watch?v=NKin_i1pcFA",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "Netherlands"
@@ -7895,7 +7895,7 @@ export const dougScores =
     "value": 4,
     "daily": 31,
     "doug": 57,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRdunXzNNfqk&sa=D&source=editors&ust=1684360665395116&usg=AOvVaw1WSlG5djH0XUbeTGUE_cK0",
+    "video": "https://www.youtube.com/watch?v=RdunXzNNfqk",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -7920,7 +7920,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2yaUjzrGLNo%26t%3D3s&sa=D&source=editors&ust=1684360665395439&usg=AOvVaw3qEu5cLRDsLoUsz53zdLpL",
+    "video": "https://www.youtube.com/watch?v=2yaUjzrGLNo",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -7945,7 +7945,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzDW6EZuPIjA&sa=D&source=editors&ust=1684360665395739&usg=AOvVaw0WwZQQu3MBBy1DIzEPtPWv",
+    "video": "https://www.youtube.com/watch?v=zDW6EZuPIjA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -7970,7 +7970,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dnn2-7jMkSGs&sa=D&source=editors&ust=1684360665396212&usg=AOvVaw0I-u_KLgocp5j28x9O0eIW",
+    "video": "https://www.youtube.com/watch?v=nn2-7jMkSGs",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -7995,7 +7995,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBzj4IQhYhAg&sa=D&source=editors&ust=1684360665396531&usg=AOvVaw2RieoSbyoo9i9bwmpfqVUc",
+    "video": "https://www.youtube.com/watch?v=Bzj4IQhYhAg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8020,7 +8020,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_2-DYAMhtps%26t%3D6s&sa=D&source=editors&ust=1684360665396950&usg=AOvVaw2fzlKWtUfMvE3LGgqEd5Zw",
+    "video": "https://www.youtube.com/watch?v=_2-DYAMhtps",
     "filming_city": "Chantilly",
     "filming_state": "Virginia",
     "vehicle_country": "Japan"
@@ -8045,7 +8045,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlYV3TwIkqC8&sa=D&source=editors&ust=1684360665397363&usg=AOvVaw1G5HpMS_vAC9nPKqHwn-tt",
+    "video": "https://www.youtube.com/watch?v=lYV3TwIkqC8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8070,7 +8070,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg7wCnbLFQXw&sa=D&source=editors&ust=1684360665397686&usg=AOvVaw3wDSi_flMpaSJ6ogPy7btg",
+    "video": "https://www.youtube.com/watch?v=g7wCnbLFQXw",
     "filming_city": "Vista",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -8095,7 +8095,7 @@ export const dougScores =
     "value": 7,
     "daily": 38,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVMoA_FdC8Wc&sa=D&source=editors&ust=1684360665397994&usg=AOvVaw1dPOD5edm852ZP0J3qd7Jn",
+    "video": "https://www.youtube.com/watch?v=VMoA_FdC8Wc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -8120,7 +8120,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_nf8GV0AvtI&sa=D&source=editors&ust=1684360665398295&usg=AOvVaw2BHknIXh_BDNRZ0YbXwq8z",
+    "video": "https://www.youtube.com/watch?v=_nf8GV0AvtI",
     "filming_city": "Sacramento",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -8145,7 +8145,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_wARosR-ry8&sa=D&source=editors&ust=1684360665398612&usg=AOvVaw1oLvRra6GBoTujR63UtDp-",
+    "video": "https://www.youtube.com/watch?v=_wARosR-ry8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -8195,7 +8195,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqfFSWpwMi70%26t%3D2s&sa=D&source=editors&ust=1684360665399294&usg=AOvVaw1RxAAtHpfhikB4Cho17noy",
+    "video": "https://www.youtube.com/watch?v=qfFSWpwMi70",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -8220,7 +8220,7 @@ export const dougScores =
     "value": 8,
     "daily": 30,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYcch83Bfa0s%26t%3D1183s&sa=D&source=editors&ust=1684360665399672&usg=AOvVaw3HKUQoUx5wkI8F643qwYe3",
+    "video": "https://www.youtube.com/watch?v=Ycch83Bfa0s",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -8245,7 +8245,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8-AtWmJYoGE%26t%3D4s&sa=D&source=editors&ust=1684360665399999&usg=AOvVaw0LPZikRiJunJ7uzjNdQSfb",
+    "video": "https://www.youtube.com/watch?v=8-AtWmJYoGE",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -8270,7 +8270,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEfs-maBiEFw&sa=D&source=editors&ust=1684360665400296&usg=AOvVaw3Iq8q5jB9yMhUkxnUT4z45",
+    "video": "https://www.youtube.com/watch?v=Efs-maBiEFw",
     "filming_city": "Cypress",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8295,7 +8295,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D71OUMB6qOcE%26t%3D334s&sa=D&source=editors&ust=1684360665400644&usg=AOvVaw0pmFZoA67huUCF3uo71vRR",
+    "video": "https://www.youtube.com/watch?v=71OUMB6qOcE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -8320,7 +8320,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4dtCiruErIQ&sa=D&source=editors&ust=1684360665401028&usg=AOvVaw3Jf4e-3DKZuK-Ag7yweYNv",
+    "video": "https://www.youtube.com/watch?v=4dtCiruErIQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -8345,7 +8345,7 @@ export const dougScores =
     "value": 5,
     "daily": 27,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzO7GPur3wMM&sa=D&source=editors&ust=1684360665401422&usg=AOvVaw37QY8kESSGWBZTsWZi95Z7",
+    "video": "https://www.youtube.com/watch?v=zO7GPur3wMM",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -8370,7 +8370,7 @@ export const dougScores =
     "value": 5,
     "daily": 36,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIvcz1U4q830&sa=D&source=editors&ust=1684360665401853&usg=AOvVaw3RG_QTx31ScaUV1CsXst20",
+    "video": "https://www.youtube.com/watch?v=Ivcz1U4q830",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -8395,7 +8395,7 @@ export const dougScores =
     "value": 7,
     "daily": 17,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ddd6n5CN29NQ&sa=D&source=editors&ust=1684360665402189&usg=AOvVaw2-rrbqRvdnUp-Bao2gj0Zv",
+    "video": "https://www.youtube.com/watch?v=dd6n5CN29NQ",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -8420,7 +8420,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGZyv7PhGqJM%26t%3D14s&sa=D&source=editors&ust=1684360665402549&usg=AOvVaw2l90CX2BysxaOJN5JCSarc",
+    "video": "https://www.youtube.com/watch?v=GZyv7PhGqJM",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -8445,7 +8445,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPDoXjhEIglw%26t%3D16s&sa=D&source=editors&ust=1684360665402847&usg=AOvVaw2JW6tWlAAkQsBvCp2LQ4qv",
+    "video": "https://www.youtube.com/watch?v=PDoXjhEIglw",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -8470,7 +8470,7 @@ export const dougScores =
     "value": 6,
     "daily": 20,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dz7MpJcIuGVk&sa=D&source=editors&ust=1684360665403328&usg=AOvVaw01eIZ0rLwHwyGKG8eixJQw",
+    "video": "https://www.youtube.com/watch?v=z7MpJcIuGVk",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Japan"
@@ -8495,7 +8495,7 @@ export const dougScores =
     "value": 6,
     "daily": 17,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFs7uOea9d1A&sa=D&source=editors&ust=1684360665403742&usg=AOvVaw2Smd4IMN2rYyD-oECGzIfo",
+    "video": "https://www.youtube.com/watch?v=Fs7uOea9d1A",
     "filming_city": "Peapack",
     "filming_state": "New Jersey",
     "vehicle_country": "Italy"
@@ -8520,7 +8520,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 56,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DeLj9D4vo56Q&sa=D&source=editors&ust=1684360665404109&usg=AOvVaw0iahp3Q254AT1migQpj_Fd",
+    "video": "https://www.youtube.com/watch?v=eLj9D4vo56Q",
     "filming_city": "Marana",
     "filming_state": "Arizona",
     "vehicle_country": "USA"
@@ -8545,7 +8545,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9G3lTz0G1co%26t%3D1222s&sa=D&source=editors&ust=1684360665404447&usg=AOvVaw3jt78KAU9_j8-A0W1ZY0Dx",
+    "video": "https://www.youtube.com/watch?v=9G3lTz0G1co",
     "filming_city": "Corona",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -8570,7 +8570,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLv7vMSxlKUw%26t%3D1s&sa=D&source=editors&ust=1684360665404753&usg=AOvVaw3Qqitjir73q2fAaszeLyQq",
+    "video": "https://www.youtube.com/watch?v=Lv7vMSxlKUw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8595,7 +8595,7 @@ export const dougScores =
     "value": 7,
     "daily": 23,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB4iz-VVap1w&sa=D&source=editors&ust=1684360665405059&usg=AOvVaw17m8RLm5fh7bB_cv0asTDm",
+    "video": "https://www.youtube.com/watch?v=B4iz-VVap1w",
     "filming_city": "Shakopee",
     "filming_state": "Minnesota",
     "vehicle_country": "Japan"
@@ -8620,7 +8620,7 @@ export const dougScores =
     "value": 7,
     "daily": 33,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVRYTEFT8UYY%26t%3D71s&sa=D&source=editors&ust=1684360665405380&usg=AOvVaw0Yc6iRhK9XrFznsNeIITS_",
+    "video": "https://www.youtube.com/watch?v=VRYTEFT8UYY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -8645,7 +8645,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQPmh810F8TU&sa=D&source=editors&ust=1684360665405714&usg=AOvVaw19OWxxUWRqco3OhWJku27w",
+    "video": "https://www.youtube.com/watch?v=QPmh810F8TU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8670,7 +8670,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Df95Qv3aqNM4&sa=D&source=editors&ust=1684360665406083&usg=AOvVaw0YXEXJ4f41OW0iNVof5cEO",
+    "video": "https://www.youtube.com/watch?v=f95Qv3aqNM4",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8695,7 +8695,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpJddtAyz4As&sa=D&source=editors&ust=1684360665406436&usg=AOvVaw3siBUvagByJK0BvMbjVTD6",
+    "video": "https://www.youtube.com/watch?v=pJddtAyz4As",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -8720,7 +8720,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DozwqsSecTPw%26t%3D9s&sa=D&source=editors&ust=1684360665406767&usg=AOvVaw3hCMGtssqb_P0R_DgxX1CG",
+    "video": "https://www.youtube.com/watch?v=ozwqsSecTPw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8745,7 +8745,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWvuqvqJuc6w%26t%3D562s&sa=D&source=editors&ust=1684360665407059&usg=AOvVaw2kqjzW3GI09-Wb1TbAWtdi",
+    "video": "https://www.youtube.com/watch?v=WvuqvqJuc6w",
     "filming_city": "Jacksonville",
     "filming_state": "Florida",
     "vehicle_country": "Japan"
@@ -8770,7 +8770,7 @@ export const dougScores =
     "value": 8,
     "daily": 37,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA3AuT-wxvmg%26t%3D2s&sa=D&source=editors&ust=1684360665407401&usg=AOvVaw1Ua4lG6CqPyuHWZM3RCq0v",
+    "video": "https://www.youtube.com/watch?v=A3AuT-wxvmg",
     "filming_city": "Yucaipa",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8795,7 +8795,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZj0XQsuAdgw&sa=D&source=editors&ust=1684360665407733&usg=AOvVaw2Wo_UiYOHe4Es3XivkS1jh",
+    "video": "https://www.youtube.com/watch?v=Zj0XQsuAdgw",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -8820,7 +8820,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhJUltR6UYSo&sa=D&source=editors&ust=1684360665408036&usg=AOvVaw2NTdTDZWGy3xiAPxHey6ym",
+    "video": "https://www.youtube.com/watch?v=hJUltR6UYSo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8845,7 +8845,7 @@ export const dougScores =
     "value": 10,
     "daily": 27,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq2zRmgjry5w&sa=D&source=editors&ust=1684360665408335&usg=AOvVaw2VfciuR2MjfPpC-kTyl7w_",
+    "video": "https://www.youtube.com/watch?v=q2zRmgjry5w",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -8870,7 +8870,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxD0b-GwFRro&sa=D&source=editors&ust=1684360665408689&usg=AOvVaw2XGF7mqv6GaK3KKFQcfhak",
+    "video": "https://www.youtube.com/watch?v=xD0b-GwFRro",
     "filming_city": "Dubai",
     "filming_state": "UAE",
     "vehicle_country": "Italy"
@@ -8895,7 +8895,7 @@ export const dougScores =
     "value": 3,
     "daily": 33,
     "doug": 55,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DP6G69CsBI4Y&sa=D&source=editors&ust=1684360665409041&usg=AOvVaw0DpF4JIYglzuvdPCLZm6Fw",
+    "video": "https://www.youtube.com/watch?v=P6G69CsBI4Y",
     "filming_city": "Bethesda",
     "filming_state": "Maryland",
     "vehicle_country": "Sweden"
@@ -8920,7 +8920,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrkXorce1YT4%26t%3D484s&sa=D&source=editors&ust=1684360665409428&usg=AOvVaw1PO4XkgtrM0KpNZL0at7uk",
+    "video": "https://www.youtube.com/watch?v=rkXorce1YT4",
     "filming_city": "New Canaan",
     "filming_state": "Connecticut",
     "vehicle_country": "Germany"
@@ -8945,7 +8945,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvCOYkYwEXPE%26t%3D413s&sa=D&source=editors&ust=1684360665409762&usg=AOvVaw0UknCpBSxjYZZn5HIVK0Tl",
+    "video": "https://www.youtube.com/watch?v=vCOYkYwEXPE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -8970,7 +8970,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9KEGa40dt1o&sa=D&source=editors&ust=1684360665410067&usg=AOvVaw1adiJk9P3uVW_kZ8vPhQYz",
+    "video": "https://www.youtube.com/watch?v=9KEGa40dt1o",
     "filming_city": "Phoenix",
     "filming_state": "Arizona",
     "vehicle_country": "USA"
@@ -8995,7 +8995,7 @@ export const dougScores =
     "value": 5,
     "daily": 38,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-lzYBFqsWQk%26t%3D4s&sa=D&source=editors&ust=1684360665410368&usg=AOvVaw3fKXB18qmvBC10s3aP_EQI",
+    "video": "https://www.youtube.com/watch?v=-lzYBFqsWQk",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9020,7 +9020,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRj814rcfsmk%26t%3D158s&sa=D&source=editors&ust=1684360665410774&usg=AOvVaw0pUoh3QYxMrj9EPf0CdRqJ",
+    "video": "https://www.youtube.com/watch?v=Rj814rcfsmk",
     "filming_city": "Long Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9045,7 +9045,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnkxA6yLpvFw%26t%3D1s&sa=D&source=editors&ust=1684360665411177&usg=AOvVaw3DOTtrdTwybbXFvMk7CnoR",
+    "video": "https://www.youtube.com/watch?v=nkxA6yLpvFw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9070,7 +9070,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DcW99h_1tTBY&sa=D&source=editors&ust=1684360665411482&usg=AOvVaw0eeIXSRJCzTUpRVA9Hxaxk",
+    "video": "https://www.youtube.com/watch?v=cW99h_1tTBY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9095,7 +9095,7 @@ export const dougScores =
     "value": 5,
     "daily": 28,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDtG2YP3aYMA&sa=D&source=editors&ust=1684360665411828&usg=AOvVaw3uU3vBioyVHEoVL3tvhqs4",
+    "video": "https://www.youtube.com/watch?v=DtG2YP3aYMA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -9120,7 +9120,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_qCUz0lo4wQ&sa=D&source=editors&ust=1684360665412183&usg=AOvVaw1cNxgT9RjjUxrGciUaazA1",
+    "video": "https://www.youtube.com/watch?v=_qCUz0lo4wQ",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -9145,7 +9145,7 @@ export const dougScores =
     "value": 5,
     "daily": 31,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DknC9nM2uegE&sa=D&source=editors&ust=1684360665412551&usg=AOvVaw2Q1aoO5HRkmXSs2F5dZXtr",
+    "video": "https://www.youtube.com/watch?v=knC9nM2uegE",
     "filming_city": "Nashville",
     "filming_state": "Tennessee",
     "vehicle_country": "UK"
@@ -9170,7 +9170,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIjFAFjzfeok%26t%3D2s&sa=D&source=editors&ust=1684360665412874&usg=AOvVaw1eYSIVntOJdPRCkFHOlwHJ",
+    "video": "https://www.youtube.com/watch?v=IjFAFjzfeok",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9195,7 +9195,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DK8h-hZouHZk&sa=D&source=editors&ust=1684360665413218&usg=AOvVaw3L12-TgBNHAncAlMHBP9F2",
+    "video": "https://www.youtube.com/watch?v=K8h-hZouHZk",
     "filming_city": "Huntingdon Valley",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -9220,7 +9220,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBBPcADt6IUI%26t%3D11s&sa=D&source=editors&ust=1684360665413541&usg=AOvVaw2gNINBftyLr6f5czYT2MPG",
+    "video": "https://www.youtube.com/watch?v=BBPcADt6IUI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9245,7 +9245,7 @@ export const dougScores =
     "value": 10,
     "daily": 36,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUPpLCthGP-Q%26t%3D1s&sa=D&source=editors&ust=1684360665413946&usg=AOvVaw0HNB5xiofmQedJNjotlebl",
+    "video": "https://www.youtube.com/watch?v=UPpLCthGP-Q",
     "filming_city": "Middleburg",
     "filming_state": "Virginia",
     "vehicle_country": "South Korea"
@@ -9270,7 +9270,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Do7V5COxB48Q%26t%3D111s&sa=D&source=editors&ust=1684360665414248&usg=AOvVaw2ItoMgQ8UF0F2mkQOFgde-",
+    "video": "https://www.youtube.com/watch?v=o7V5COxB48Q",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -9295,7 +9295,7 @@ export const dougScores =
     "value": 6,
     "daily": 20,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLrP8Z7xfVaw&sa=D&source=editors&ust=1684360665414545&usg=AOvVaw01sSpnJsGA1sy3ccnMAFaQ",
+    "video": "https://www.youtube.com/watch?v=LrP8Z7xfVaw",
     "filming_city": "Irvine",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9320,7 +9320,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGaoLQ_1zsrM&sa=D&source=editors&ust=1684360665414836&usg=AOvVaw1wYigSAYpOOxPVlTt9WLK0",
+    "video": "https://www.youtube.com/watch?v=GaoLQ_1zsrM",
     "filming_city": "Birmingham",
     "filming_state": "Michigan",
     "vehicle_country": "Germany"
@@ -9345,7 +9345,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DsogakkimTgc&sa=D&source=editors&ust=1684360665415147&usg=AOvVaw3EDEZlOGekiocrlEcU3-SZ",
+    "video": "https://www.youtube.com/watch?v=sogakkimTgc",
     "filming_city": "Allentown",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Japan"
@@ -9370,7 +9370,7 @@ export const dougScores =
     "value": 2,
     "daily": 28,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Df3KjIQCKmM4&sa=D&source=editors&ust=1684360665415553&usg=AOvVaw3jiEKABEB_9X_mMb6BG78g",
+    "video": "https://www.youtube.com/watch?v=f3KjIQCKmM4",
     "filming_city": "Burbank",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9395,7 +9395,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1kIbRwNopWw%26t%3D1s&sa=D&source=editors&ust=1684360665415914&usg=AOvVaw3Z0hl6ozS_1s3A6kPVGtKb",
+    "video": "https://www.youtube.com/watch?v=1kIbRwNopWw",
     "filming_city": "Allentown",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -9420,7 +9420,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 54,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbCp_4uVtT-Y&sa=D&source=editors&ust=1684360665416286&usg=AOvVaw2iUaj2yC-Ks9UGu947ngp-",
+    "video": "https://www.youtube.com/watch?v=bCp_4uVtT-Y",
     "filming_city": "Encinitas",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9445,7 +9445,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7FNug8F481w&sa=D&source=editors&ust=1684360665416596&usg=AOvVaw1_9BlDvdMFml4TIlkCXueg",
+    "video": "https://www.youtube.com/watch?v=7FNug8F481w",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9470,7 +9470,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DraV5eUYNlK8&sa=D&source=editors&ust=1684360665416892&usg=AOvVaw1QWdagg1FAOGWVfCpJCMQM",
+    "video": "https://www.youtube.com/watch?v=raV5eUYNlK8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9495,7 +9495,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpTTZswKtJ04&sa=D&source=editors&ust=1684360665417183&usg=AOvVaw3Y8S9Ij_0Tb84pa0NJ2uoY",
+    "video": "https://www.youtube.com/watch?v=pTTZswKtJ04",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9520,7 +9520,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DcVTPgFaXHQE&sa=D&source=editors&ust=1684360665417488&usg=AOvVaw0l8g2vRketpAFUYzos92Od",
+    "video": "https://www.youtube.com/watch?v=cVTPgFaXHQE",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9545,7 +9545,7 @@ export const dougScores =
     "value": 5,
     "daily": 38,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrcO7bMvP8so%26t%3D238s&sa=D&source=editors&ust=1684360665417824&usg=AOvVaw0JQ55sLL1y7242Q3DWlQMn",
+    "video": "https://www.youtube.com/watch?v=rcO7bMvP8so",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9570,7 +9570,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlitO7FrTwDI&sa=D&source=editors&ust=1684360665418193&usg=AOvVaw3oMHG3c29k7o_Mmz-fGAQM",
+    "video": "https://www.youtube.com/watch?v=litO7FrTwDI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9595,7 +9595,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJq5A5ctua8s&sa=D&source=editors&ust=1684360665418678&usg=AOvVaw3RdcG1ZCsYG6-3rdmi0bw0",
+    "video": "https://www.youtube.com/watch?v=Jq5A5ctua8s",
     "filming_city": "West Chester",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Japan"
@@ -9620,7 +9620,7 @@ export const dougScores =
     "value": 7,
     "daily": 17,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DK1jB4vYji6A&sa=D&source=editors&ust=1684360665418988&usg=AOvVaw3M-GlrKDKyrl-kizLY9_Lh",
+    "video": "https://www.youtube.com/watch?v=K1jB4vYji6A",
     "filming_city": "Palos Verdes",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -9645,7 +9645,7 @@ export const dougScores =
     "value": 7,
     "daily": 16,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWVp5a38WT_0&sa=D&source=editors&ust=1684360665419313&usg=AOvVaw2hqKEwVFEwl6QZ4nZh9BK4",
+    "video": "https://www.youtube.com/watch?v=WVp5a38WT_0",
     "filming_city": "Doral",
     "filming_state": "Florida",
     "vehicle_country": "Italy"
@@ -9670,7 +9670,7 @@ export const dougScores =
     "value": 5,
     "daily": 28,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIVr146r2JoE&sa=D&source=editors&ust=1684360665419632&usg=AOvVaw0avH3AmnPqEIoYHtb9jV4K",
+    "video": "https://www.youtube.com/watch?v=IVr146r2JoE",
     "filming_city": "Tysons Corner",
     "filming_state": "Virginia",
     "vehicle_country": "UK"
@@ -9695,7 +9695,7 @@ export const dougScores =
     "value": 8,
     "daily": 28,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyU9obX0J5VM&sa=D&source=editors&ust=1684360665419931&usg=AOvVaw3xpB0xqzjNWa8W8VldAsEX",
+    "video": "https://www.youtube.com/watch?v=yU9obX0J5VM",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -9720,7 +9720,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMs8gUQQJSBE%26t%3D116s&sa=D&source=editors&ust=1684360665420243&usg=AOvVaw3FzoHhrfa2UrfQPOdsU6WU",
+    "video": "https://www.youtube.com/watch?v=Ms8gUQQJSBE",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9745,7 +9745,7 @@ export const dougScores =
     "value": 4,
     "daily": 27,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DkgcAA4HUxuE&sa=D&source=editors&ust=1684360665420547&usg=AOvVaw1j6Zsf6O4XeB3rJ8nE3Qtv",
+    "video": "https://www.youtube.com/watch?v=kgcAA4HUxuE",
     "filming_city": "Fairfax",
     "filming_state": "Virginia",
     "vehicle_country": "Germany"
@@ -9770,7 +9770,7 @@ export const dougScores =
     "value": 4,
     "daily": 29,
     "doug": 53,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLB4iVEht7ow&sa=D&source=editors&ust=1684360665420900&usg=AOvVaw3vhvOXZCpVpeH9U7TE9nps",
+    "video": "https://www.youtube.com/watch?v=LB4iVEht7ow",
     "filming_city": "Doral",
     "filming_state": "Florida",
     "vehicle_country": "Germany"
@@ -9795,7 +9795,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8pt04AMy5w4&sa=D&source=editors&ust=1684360665423813&usg=AOvVaw1QM2S8EhhLrDXjJNCOacrW",
+    "video": "https://www.youtube.com/watch?v=8pt04AMy5w4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9820,7 +9820,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D89iZasDvOao%26t%3D15s&sa=D&source=editors&ust=1684360665424243&usg=AOvVaw3v4AaI8oKYdN-TgN-i5zA9",
+    "video": "https://www.youtube.com/watch?v=89iZasDvOao",
     "filming_city": "Madera",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9845,7 +9845,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKGBXNXdjcLo&sa=D&source=editors&ust=1684360665424659&usg=AOvVaw058dwQoGAOE4boubFqp_nR",
+    "video": "https://www.youtube.com/watch?v=KGBXNXdjcLo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9870,7 +9870,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3BSL8GA5dRg%26t%3D1s&sa=D&source=editors&ust=1684360665425054&usg=AOvVaw1exLloRnry2Fn0xpxB4vMd",
+    "video": "https://www.youtube.com/watch?v=3BSL8GA5dRg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -9895,7 +9895,7 @@ export const dougScores =
     "value": 9,
     "daily": 19,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmZ8rhpxVpqs&sa=D&source=editors&ust=1684360665425371&usg=AOvVaw0rk87WoFP7gvw5sQYpM-Vu",
+    "video": "https://www.youtube.com/watch?v=mZ8rhpxVpqs",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -9920,7 +9920,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgLwtMDx9MKU&sa=D&source=editors&ust=1684360665425675&usg=AOvVaw02yRsN2zJpZ1Fc-94CCHht",
+    "video": "https://www.youtube.com/watch?v=gLwtMDx9MKU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -9945,7 +9945,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZB4mJb7d5nc&sa=D&source=editors&ust=1684360665425972&usg=AOvVaw2kZ5mf7Qi4PqlkRl26TwGV",
+    "video": "https://www.youtube.com/watch?v=ZB4mJb7d5nc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9970,7 +9970,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFZ6GZp7LEWo&sa=D&source=editors&ust=1684360665426266&usg=AOvVaw1RtJrrfYw1MFeHneo5yUJv",
+    "video": "https://www.youtube.com/watch?v=FZ6GZp7LEWo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -9995,7 +9995,7 @@ export const dougScores =
     "value": 5,
     "daily": 31,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJf8DYK9VJbU%26t%3D14s&sa=D&source=editors&ust=1684360665426585&usg=AOvVaw3vxEEMlGXtM3k1ZHIKg-oR",
+    "video": "https://www.youtube.com/watch?v=Jf8DYK9VJbU",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -10020,7 +10020,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPCP5XZs3Wxc&sa=D&source=editors&ust=1684360665426878&usg=AOvVaw2cday57mX7tBXW2wctd9Qh",
+    "video": "https://www.youtube.com/watch?v=PCP5XZs3Wxc",
     "filming_city": "Southampton",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -10045,7 +10045,7 @@ export const dougScores =
     "value": 6,
     "daily": 18,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlZgOhP_RMSM&sa=D&source=editors&ust=1684360665427173&usg=AOvVaw0XkP4Y5M2nZs1Ipfl7uSem",
+    "video": "https://www.youtube.com/watch?v=lZgOhP_RMSM",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Japan"
@@ -10070,7 +10070,7 @@ export const dougScores =
     "value": 7,
     "daily": 19,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYJFrHWH0_C8&sa=D&source=editors&ust=1684360665427470&usg=AOvVaw0xEez1YDi4_8iJT9sv2fx-",
+    "video": "https://www.youtube.com/watch?v=YJFrHWH0_C8",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -10095,7 +10095,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 52,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DW-YcpWYAido&sa=D&source=editors&ust=1684360665427913&usg=AOvVaw3nuu9rgdyf6hZeZHoZP_Gg",
+    "video": "https://www.youtube.com/watch?v=W-YcpWYAido",
     "filming_city": "Fairfax",
     "filming_state": "Virginia",
     "vehicle_country": "Italy"
@@ -10120,7 +10120,7 @@ export const dougScores =
     "value": 8,
     "daily": 40,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFn_htHFC4cw&sa=D&source=editors&ust=1684360665428242&usg=AOvVaw1afPqoH0vKaILWP1zYXm4A",
+    "video": "https://www.youtube.com/watch?v=Fn_htHFC4cw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -10145,7 +10145,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSfenlK5PYNc%26t%3D34s&sa=D&source=editors&ust=1684360665428660&usg=AOvVaw2AaB_8Km6DJQwmyolovn_W",
+    "video": "https://www.youtube.com/watch?v=SfenlK5PYNc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10170,7 +10170,7 @@ export const dougScores =
     "value": 7,
     "daily": 33,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2sXPNVpQe98&sa=D&source=editors&ust=1684360665429057&usg=AOvVaw2bwgFAz0NDhqvraF1ybzC5",
+    "video": "https://www.youtube.com/watch?v=2sXPNVpQe98",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -10195,7 +10195,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXEIrB3lvh90&sa=D&source=editors&ust=1684360665429401&usg=AOvVaw1U7GoWGi8mox1LPVKN45gM",
+    "video": "https://www.youtube.com/watch?v=XEIrB3lvh90",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10220,7 +10220,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DkrjzeWCmB4o&sa=D&source=editors&ust=1684360665429705&usg=AOvVaw0mcOsLrk8fh6T09Hcjvgtr",
+    "video": "https://www.youtube.com/watch?v=krjzeWCmB4o",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -10245,7 +10245,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3De12MlkCxsW0&sa=D&source=editors&ust=1684360665430013&usg=AOvVaw1LJtfFAJY-zV9f4Uz96JsS",
+    "video": "https://www.youtube.com/watch?v=e12MlkCxsW0",
     "filming_city": "Riverside",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10270,7 +10270,7 @@ export const dougScores =
     "value": 7,
     "daily": 18,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVf_O9mZcSs4&sa=D&source=editors&ust=1684360665430299&usg=AOvVaw1iLVEj1WCDVrGhh8-3Lp-5",
+    "video": "https://www.youtube.com/watch?v=Vf_O9mZcSs4",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10295,7 +10295,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq6D4bRXj0jg&sa=D&source=editors&ust=1684360665430620&usg=AOvVaw1EbKv0cVAsil6yGa62YKMR",
+    "video": "https://www.youtube.com/watch?v=q6D4bRXj0jg",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -10320,7 +10320,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-YxFvV-RhH0%26t%3D3s&sa=D&source=editors&ust=1684360665430931&usg=AOvVaw0-UYVIO9-S2RegAYH9ZP2S",
+    "video": "https://www.youtube.com/watch?v=-YxFvV-RhH0",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -10345,7 +10345,7 @@ export const dougScores =
     "value": 7,
     "daily": 33,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnL5l-_9bIVk&sa=D&source=editors&ust=1684360665431316&usg=AOvVaw3Gwf98Igah5gBIBDSWjGkm",
+    "video": "https://www.youtube.com/watch?v=nL5l-_9bIVk",
     "filming_city": "Newport Beach",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -10370,7 +10370,7 @@ export const dougScores =
     "value": 8,
     "daily": 34,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHl_Euj_qNoM&sa=D&source=editors&ust=1684360665431701&usg=AOvVaw0jBnb_NYytlmRzv4ZLSutr",
+    "video": "https://www.youtube.com/watch?v=Hl_Euj_qNoM",
     "filming_city": "Tustin",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10395,7 +10395,7 @@ export const dougScores =
     "value": 4,
     "daily": 25,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnOZnqnB6xDo&sa=D&source=editors&ust=1684360665432001&usg=AOvVaw3SDUlhvCIhAticwkhGliH4",
+    "video": "https://www.youtube.com/watch?v=nOZnqnB6xDo",
     "filming_city": "Franklin",
     "filming_state": "Tennessee",
     "vehicle_country": "Italy"
@@ -10420,7 +10420,7 @@ export const dougScores =
     "value": 10,
     "daily": 23,
     "doug": 51,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEuFcpaV_AJ4&sa=D&source=editors&ust=1684360665432382&usg=AOvVaw0tigRqMvhVqfbKwvhkI1S9",
+    "video": "https://www.youtube.com/watch?v=EuFcpaV_AJ4",
     "filming_city": "Devon",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Japan"
@@ -10445,7 +10445,7 @@ export const dougScores =
     "value": 7,
     "daily": 18,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-bDeFEu7pB0%26t%3D401s&sa=D&source=editors&ust=1684360665432705&usg=AOvVaw2vuaTxPhhq35_da33ETAI7",
+    "video": "https://www.youtube.com/watch?v=-bDeFEu7pB0",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -10470,7 +10470,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqXgrVbdetOk&sa=D&source=editors&ust=1684360665433111&usg=AOvVaw3b67JMKIIAymzPFSgwkhch",
+    "video": "https://www.youtube.com/watch?v=qXgrVbdetOk",
     "filming_city": "Chantilly",
     "filming_state": "Virginia",
     "vehicle_country": "Sweden"
@@ -10495,7 +10495,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYvfUdxq1LQ4&sa=D&source=editors&ust=1684360665433469&usg=AOvVaw2k8dVOCmgthcHlaU4pnXhn",
+    "video": "https://www.youtube.com/watch?v=YvfUdxq1LQ4",
     "filming_city": "Covina",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -10520,7 +10520,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3rXTHobmQQo&sa=D&source=editors&ust=1684360665433895&usg=AOvVaw2iA_CWwZTpoRjdyZmvNe2D",
+    "video": "https://www.youtube.com/watch?v=3rXTHobmQQo",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10545,7 +10545,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0Zzpsn_D9HA%26t%3D757s&sa=D&source=editors&ust=1684360665434283&usg=AOvVaw1d9JN7ZZxdILpBlvE4mN_H",
+    "video": "https://www.youtube.com/watch?v=0Zzpsn_D9HA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -10570,7 +10570,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrQfBNEFeFi8%26t%3D15s&sa=D&source=editors&ust=1684360665434595&usg=AOvVaw1PnXOXVfdhZtxjv9XhII7I",
+    "video": "https://www.youtube.com/watch?v=rQfBNEFeFi8",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -10595,7 +10595,7 @@ export const dougScores =
     "value": 8,
     "daily": 39,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbYPktM-SnOM%26t%3D1196s&sa=D&source=editors&ust=1684360665434902&usg=AOvVaw140Dz9Uzrari2Jv8XJPqBK",
+    "video": "https://www.youtube.com/watch?v=bYPktM-SnOM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10620,7 +10620,7 @@ export const dougScores =
     "value": 8,
     "daily": 39,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_gPr7a6iZQ0&sa=D&source=editors&ust=1684360665435211&usg=AOvVaw2qGlvUSifD8i0h07s68RnH",
+    "video": "https://www.youtube.com/watch?v=_gPr7a6iZQ0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10645,7 +10645,7 @@ export const dougScores =
     "value": 5,
     "daily": 33,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0XNCNS3XIGM&sa=D&source=editors&ust=1684360665435520&usg=AOvVaw1LtnErqvPIeGteItHOjMq2",
+    "video": "https://www.youtube.com/watch?v=0XNCNS3XIGM",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10670,7 +10670,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMM1788iVsF8&sa=D&source=editors&ust=1684360665435825&usg=AOvVaw3_8_9IkwymMPETUaEz2hGo",
+    "video": "https://www.youtube.com/watch?v=MM1788iVsF8",
     "filming_city": "Tustin",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10695,7 +10695,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2YKGMtv20cs&sa=D&source=editors&ust=1684360665436190&usg=AOvVaw0_aLgEkJtrQPyHsNkphiOd",
+    "video": "https://www.youtube.com/watch?v=2YKGMtv20cs",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10720,7 +10720,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPqqcYsv6LB8&sa=D&source=editors&ust=1684360665436530&usg=AOvVaw0DtLIoKe-r_Vm5jdc4Ptt5",
+    "video": "https://www.youtube.com/watch?v=PqqcYsv6LB8",
     "filming_city": "Buena Park",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10745,7 +10745,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMz87tLToSVY&sa=D&source=editors&ust=1684360665436840&usg=AOvVaw0EK0JZ8uncy7FjR87c-laQ",
+    "video": "https://www.youtube.com/watch?v=Mz87tLToSVY",
     "filming_city": "Fort Worth",
     "filming_state": "Texas",
     "vehicle_country": "South Korea"
@@ -10770,7 +10770,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 50,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMtk9eOjD-gc%26t%3D8s&sa=D&source=editors&ust=1684360665437129&usg=AOvVaw3OzJzcv6Px4bd8GYpkI9C4",
+    "video": "https://www.youtube.com/watch?v=Mtk9eOjD-gc",
     "filming_city": "El Cajon",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10795,7 +10795,7 @@ export const dougScores =
     "value": 4,
     "daily": 28,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D57UmBsE5lGY%26t%3D2s&sa=D&source=editors&ust=1684360665437431&usg=AOvVaw2CFxwFz-2s_hcGVGGqrXkb",
+    "video": "https://www.youtube.com/watch?v=57UmBsE5lGY",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10820,7 +10820,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8RJ3JONrSK4%26t%3D11s&sa=D&source=editors&ust=1684360665437929&usg=AOvVaw3o7q_Su3GGqTQus6xaHQiS",
+    "video": "https://www.youtube.com/watch?v=8RJ3JONrSK4",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10845,7 +10845,7 @@ export const dougScores =
     "value": 6,
     "daily": 33,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Drwu78OwR4fE%26t%3D12s&sa=D&source=editors&ust=1684360665438249&usg=AOvVaw0RnIjbyMI4UjwuwiGnpdyG",
+    "video": "https://www.youtube.com/watch?v=rwu78OwR4fE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10870,7 +10870,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO9T8XS5Fy7o%26t%3D1327s&sa=D&source=editors&ust=1684360665438748&usg=AOvVaw0lFgHeIWEs3Fk9U3F__pjn",
+    "video": "https://www.youtube.com/watch?v=O9T8XS5Fy7o",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10895,7 +10895,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DsHH0u5v3ZE8%26t%3D13s&sa=D&source=editors&ust=1684360665439080&usg=AOvVaw19LzmGCJYmsCz25pQ4MYjf",
+    "video": "https://www.youtube.com/watch?v=sHH0u5v3ZE8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10920,7 +10920,7 @@ export const dougScores =
     "value": 6,
     "daily": 38,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqO48IIPi1jk&sa=D&source=editors&ust=1684360665439394&usg=AOvVaw2ojUZXY8AErN5RLYEWrS8C",
+    "video": "https://www.youtube.com/watch?v=qO48IIPi1jk",
     "filming_city": "El Cajon",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -10945,7 +10945,7 @@ export const dougScores =
     "value": 8,
     "daily": 38,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DkpfAY3LqmXk%26t%3D131s&sa=D&source=editors&ust=1684360665439689&usg=AOvVaw3DiE9cn7sHUhmHCgE-9Uds",
+    "video": "https://www.youtube.com/watch?v=kpfAY3LqmXk",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -10970,7 +10970,7 @@ export const dougScores =
     "value": 8,
     "daily": 38,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DoOZ_Q6qzXuw&sa=D&source=editors&ust=1684360665439983&usg=AOvVaw1WFkt_CAw7xRkQpCkPrhNW",
+    "video": "https://www.youtube.com/watch?v=oOZ_Q6qzXuw",
     "filming_city": "Mission Viejo",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -10995,7 +10995,7 @@ export const dougScores =
     "value": 8,
     "daily": 30,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMIeYJrX1a-k&sa=D&source=editors&ust=1684360665440306&usg=AOvVaw0Huyd_I0y-yhsNiurw8eUw",
+    "video": "https://www.youtube.com/watch?v=MIeYJrX1a-k",
     "filming_city": "Costa Mesa",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11020,7 +11020,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiTOo1P7-QoI&sa=D&source=editors&ust=1684360665440678&usg=AOvVaw0RHbTXruYmiqZsH01tgAEO",
+    "video": "https://www.youtube.com/watch?v=iTOo1P7-QoI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11045,7 +11045,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtslPUN6swvY%26t%3D24s&sa=D&source=editors&ust=1684360665441039&usg=AOvVaw2e_6kNQdeDRURUnv9No_tA",
+    "video": "https://www.youtube.com/watch?v=tslPUN6swvY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -11070,7 +11070,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DxnW8x4e3gIc%26t%3D104s&sa=D&source=editors&ust=1684360665441629&usg=AOvVaw1w0z3N2bSkEJfYZktwEK0p",
+    "video": "https://www.youtube.com/watch?v=xnW8x4e3gIc",
     "filming_city": "Huntington Beach",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11095,7 +11095,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUqKUExgryXo%26t%3D3s&sa=D&source=editors&ust=1684360665442060&usg=AOvVaw2Kf2-fZiAegcP265WFlCw0",
+    "video": "https://www.youtube.com/watch?v=UqKUExgryXo",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11120,7 +11120,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DAOUQN6eIxkA&sa=D&source=editors&ust=1684360665442448&usg=AOvVaw0ASa6cqIcfQ7SHTaoshx0d",
+    "video": "https://www.youtube.com/watch?v=AOUQN6eIxkA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "France"
@@ -11145,7 +11145,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKjiSK6ztIzk&sa=D&source=editors&ust=1684360665442746&usg=AOvVaw3NQKHfZtUeLB4yjlBgRcgx",
+    "video": "https://www.youtube.com/watch?v=KjiSK6ztIzk",
     "filming_city": "Ontario",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11170,7 +11170,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQP07Jq5b88M&sa=D&source=editors&ust=1684360665443081&usg=AOvVaw3kfMIdg1xbnyKNC2liz85f",
+    "video": "https://www.youtube.com/watch?v=QP07Jq5b88M",
     "filming_city": "Long Island",
     "filming_state": "New York",
     "vehicle_country": "UK"
@@ -11195,7 +11195,7 @@ export const dougScores =
     "value": 7,
     "daily": 19,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1-r5zArIp-U&sa=D&source=editors&ust=1684360665443389&usg=AOvVaw0TSrnF1eW3j_bQ8u1GywKc",
+    "video": "https://www.youtube.com/watch?v=1-r5zArIp-U",
     "filming_city": "Doral",
     "filming_state": "Florida",
     "vehicle_country": "Italy"
@@ -11220,7 +11220,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 49,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4T8gYlV8Am0&sa=D&source=editors&ust=1684360665443758&usg=AOvVaw1j6RS-30JBh7zO6WG3PnPP",
+    "video": "https://www.youtube.com/watch?v=4T8gYlV8Am0",
     "filming_city": "Dubai",
     "filming_state": "UAE",
     "vehicle_country": "Italy"
@@ -11245,7 +11245,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D24dQ79iIzVw&sa=D&source=editors&ust=1684360665444170&usg=AOvVaw2eYaa2xu-kjbLQ9kjY69W5",
+    "video": "https://www.youtube.com/watch?v=24dQ79iIzVw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11270,7 +11270,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7CdD6R4nVhA&sa=D&source=editors&ust=1684360665444515&usg=AOvVaw3g7erLihl8fWYayN4ksd0E",
+    "video": "https://www.youtube.com/watch?v=7CdD6R4nVhA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -11295,7 +11295,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg9dbbBoUXIY&sa=D&source=editors&ust=1684360665444830&usg=AOvVaw2Fzb2J4ucuCuKFXJhamQKx",
+    "video": "https://www.youtube.com/watch?v=g9dbbBoUXIY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11320,7 +11320,7 @@ export const dougScores =
     "value": 7,
     "daily": 37,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D26_Btfr-RgA%26t%3D3s&sa=D&source=editors&ust=1684360665445180&usg=AOvVaw1ulgBHlUyy6zRk0da8HLYN",
+    "video": "https://www.youtube.com/watch?v=26_Btfr-RgA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11345,7 +11345,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3OWzfhhEGbo%26t%3D1s&sa=D&source=editors&ust=1684360665445509&usg=AOvVaw0SYxzr5ynLozsaExuBpPUr",
+    "video": "https://www.youtube.com/watch?v=3OWzfhhEGbo",
     "filming_city": "Nashville",
     "filming_state": "Tennessee",
     "vehicle_country": "Italy"
@@ -11370,7 +11370,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCqsdTOMF4uE%26t%3D459s&sa=D&source=editors&ust=1684360665445867&usg=AOvVaw0XPwFAfkJrXAS713Sp9Zzw",
+    "video": "https://www.youtube.com/watch?v=CqsdTOMF4uE",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -11395,7 +11395,7 @@ export const dougScores =
     "value": 5,
     "daily": 20,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5WuQBP7AY9U&sa=D&source=editors&ust=1684360665446454&usg=AOvVaw0uu9yuuhc4ubmxwYe5iVNn",
+    "video": "https://www.youtube.com/watch?v=5WuQBP7AY9U",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -11420,7 +11420,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dqfg4ZG1dZW4&sa=D&source=editors&ust=1684360665447001&usg=AOvVaw3TPh3XmqSo_2l8DLZUgBBJ",
+    "video": "https://www.youtube.com/watch?v=qfg4ZG1dZW4",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11445,7 +11445,7 @@ export const dougScores =
     "value": 5,
     "daily": 22,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Df-AFtvDPOoQ&sa=D&source=editors&ust=1684360665447333&usg=AOvVaw2yd_-EitEuX0wWP4CbSnmF",
+    "video": "https://www.youtube.com/watch?v=f-AFtvDPOoQ",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11470,7 +11470,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dn6G8BMkNw_w&sa=D&source=editors&ust=1684360665447641&usg=AOvVaw1m7otRxfGd-SmA9zkMlZeX",
+    "video": "https://www.youtube.com/watch?v=n6G8BMkNw_w",
     "filming_city": "El Cajon",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -11495,7 +11495,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dncj8XZSPgcI%26t%3D2s&sa=D&source=editors&ust=1684360665447985&usg=AOvVaw2zHUDB2XP2mCvmW1smlkRg",
+    "video": "https://www.youtube.com/watch?v=ncj8XZSPgcI",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11520,7 +11520,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2ejnulsLLyI%26t%3D159s&sa=D&source=editors&ust=1684360665448283&usg=AOvVaw2rGzSfrU1KqImRS5EFkzYP",
+    "video": "https://www.youtube.com/watch?v=2ejnulsLLyI",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11545,7 +11545,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dzu4N-1s1rEs&sa=D&source=editors&ust=1684360665448588&usg=AOvVaw1ccqhVJVS9wrsa8Ko_OaxS",
+    "video": "https://www.youtube.com/watch?v=zu4N-1s1rEs",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11570,7 +11570,7 @@ export const dougScores =
     "value": 6,
     "daily": 16,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHvErr0LdX7A&sa=D&source=editors&ust=1684360665448887&usg=AOvVaw3cPp5F68OgmLZdsOh4X2o3",
+    "video": "https://www.youtube.com/watch?v=HvErr0LdX7A",
     "filming_city": "Dubai",
     "filming_state": "UAE",
     "vehicle_country": "Italy"
@@ -11595,7 +11595,7 @@ export const dougScores =
     "value": 5,
     "daily": 18,
     "doug": 48,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrqTpMCq8uhk&sa=D&source=editors&ust=1684360665449216&usg=AOvVaw339HU2yZdHxQiRYsiC6n1_",
+    "video": "https://www.youtube.com/watch?v=rqTpMCq8uhk",
     "filming_city": "Dubai",
     "filming_state": "UAE",
     "vehicle_country": "Italy"
@@ -11620,7 +11620,7 @@ export const dougScores =
     "value": 8,
     "daily": 36,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJvrxxApP8dw&sa=D&source=editors&ust=1684360665449585&usg=AOvVaw2f-yzuD6OIjQpjOM2pMF6l",
+    "video": "https://www.youtube.com/watch?v=JvrxxApP8dw",
     "filming_city": "Vista",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11645,7 +11645,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7numh_g8DyI%26t%3D3s&sa=D&source=editors&ust=1684360665449924&usg=AOvVaw1KQEmV-bCFzBwHmwwt66-j",
+    "video": "https://www.youtube.com/watch?v=7numh_g8DyI",
     "filming_city": "Nashville",
     "filming_state": "Tennessee",
     "vehicle_country": "France"
@@ -11670,7 +11670,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DG9YcUf-a8ho&sa=D&source=editors&ust=1684360665450243&usg=AOvVaw318ny1PhsIXKdC9BHM7pMx",
+    "video": "https://www.youtube.com/watch?v=G9YcUf-a8ho",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11695,7 +11695,7 @@ export const dougScores =
     "value": 5,
     "daily": 28,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKlSTvTuigbA&sa=D&source=editors&ust=1684360665450561&usg=AOvVaw1uBfDO3EfkR_Zq0eofuX3b",
+    "video": "https://www.youtube.com/watch?v=KlSTvTuigbA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11720,7 +11720,7 @@ export const dougScores =
     "value": 6,
     "daily": 36,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DSYNeWjj1S6g&sa=D&source=editors&ust=1684360665450947&usg=AOvVaw3wQpkTYkMsfwHoJHENyi4b",
+    "video": "https://www.youtube.com/watch?v=SYNeWjj1S6g",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11745,7 +11745,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLjetooD0z4A%26t%3D1124s&sa=D&source=editors&ust=1684360665451298&usg=AOvVaw0pnf_iUHJzaI5PNeAUHBVl",
+    "video": "https://www.youtube.com/watch?v=LjetooD0z4A",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11770,7 +11770,7 @@ export const dougScores =
     "value": 8,
     "daily": 30,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBpCUw-W41uk%26t%3D31s&sa=D&source=editors&ust=1684360665451736&usg=AOvVaw0OHVFkAklz9QGiYv6VcoZm",
+    "video": "https://www.youtube.com/watch?v=BpCUw-W41uk",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11795,7 +11795,7 @@ export const dougScores =
     "value": 7,
     "daily": 36,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DX3gsLqgxBfs&sa=D&source=editors&ust=1684360665452072&usg=AOvVaw3HSNpycj1blQNsbxnP50Ih",
+    "video": "https://www.youtube.com/watch?v=X3gsLqgxBfs",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -11820,7 +11820,7 @@ export const dougScores =
     "value": 7,
     "daily": 34,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCAtle652xK0&sa=D&source=editors&ust=1684360665452469&usg=AOvVaw0Y9telhAxdB8WFNALf0ppe",
+    "video": "https://www.youtube.com/watch?v=CAtle652xK0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -11845,7 +11845,7 @@ export const dougScores =
     "value": 7,
     "daily": 33,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dw84thvjOd9Y&sa=D&source=editors&ust=1684360665452991&usg=AOvVaw0ixH1GJU96pw8cya_ISRhL",
+    "video": "https://www.youtube.com/watch?v=w84thvjOd9Y",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11870,7 +11870,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHQjPk1tpxoE&sa=D&source=editors&ust=1684360665453298&usg=AOvVaw03BdjF_6QJHmcV_qq6S_t0",
+    "video": "https://www.youtube.com/watch?v=HQjPk1tpxoE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11895,7 +11895,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DeyGmuGQNSqE&sa=D&source=editors&ust=1684360665453736&usg=AOvVaw0q6nrE0f2xjnHCTuhPvHPU",
+    "video": "https://www.youtube.com/watch?v=eyGmuGQNSqE",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -11920,7 +11920,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjaeI8lX6yRA&sa=D&source=editors&ust=1684360665454103&usg=AOvVaw0b4GIcJlXshjuOS3lIVtw3",
+    "video": "https://www.youtube.com/watch?v=jaeI8lX6yRA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -11945,7 +11945,7 @@ export const dougScores =
     "value": 4,
     "daily": 24,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Drs0khSZ72Xs%26t%3D1097s&sa=D&source=editors&ust=1684360665454514&usg=AOvVaw0lPIbeF7PSCHhIj7we2ePh",
+    "video": "https://www.youtube.com/watch?v=rs0khSZ72Xs",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -11970,7 +11970,7 @@ export const dougScores =
     "value": 9,
     "daily": 36,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DeJKwS1NpHH0&sa=D&source=editors&ust=1684360665454836&usg=AOvVaw0_fTcYhPqAWfIG_1jADp_r",
+    "video": "https://www.youtube.com/watch?v=eJKwS1NpHH0",
     "filming_city": "El Cajon",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -11995,7 +11995,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2-BfMHT633o&sa=D&source=editors&ust=1684360665455247&usg=AOvVaw0tDvAo9VpKPOwP_zl-CBxs",
+    "video": "https://www.youtube.com/watch?v=2-BfMHT633o",
     "filming_city": "Paramus",
     "filming_state": "New Jersey",
     "vehicle_country": "Japan"
@@ -12020,7 +12020,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPgqHq6WjD8s&sa=D&source=editors&ust=1684360665455594&usg=AOvVaw0lFjYnSuVot7UfAgmNhfIl",
+    "video": "https://www.youtube.com/watch?v=PgqHq6WjD8s",
     "filming_city": "Cleburne",
     "filming_state": "Texas",
     "vehicle_country": "Japan"
@@ -12045,7 +12045,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DPW81WU4v2R8&sa=D&source=editors&ust=1684360665456012&usg=AOvVaw2yP8_auWPO4eEPCe37dQd0",
+    "video": "https://www.youtube.com/watch?v=PW81WU4v2R8",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "UK"
@@ -12070,7 +12070,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 47,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DcnAUnGjMd5U&sa=D&source=editors&ust=1684360665456382&usg=AOvVaw0BqBNwKCXzleVvBj4h3raX",
+    "video": "https://www.youtube.com/watch?v=cnAUnGjMd5U",
     "filming_city": "Huntingdon Valley",
     "filming_state": "Pennsylvania",
     "vehicle_country": "UK"
@@ -12095,7 +12095,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DukMVIY7SAkQ%26t%3D5s&sa=D&source=editors&ust=1684360665456812&usg=AOvVaw16Y0PlR6dckio62dpxtQ91",
+    "video": "https://www.youtube.com/watch?v=ukMVIY7SAkQ",
     "filming_city": "Van Nuys",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -12120,7 +12120,7 @@ export const dougScores =
     "value": 7,
     "daily": 20,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dt2nN9VUy-Tk&sa=D&source=editors&ust=1684360665457156&usg=AOvVaw0XsuSxYXuXzh4KgvdzCSCP",
+    "video": "https://www.youtube.com/watch?v=t2nN9VUy-Tk",
     "filming_city": "Modesto",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12145,7 +12145,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DocHFC03Wmbw%26t%3D254s&sa=D&source=editors&ust=1684360665457562&usg=AOvVaw358kcWsCpTD-zee0824F0L",
+    "video": "https://www.youtube.com/watch?v=ocHFC03Wmbw",
     "filming_city": "El Cajon",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -12170,7 +12170,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlzejSBdQ7LY&sa=D&source=editors&ust=1684360665458113&usg=AOvVaw3NRiv3Bb1ulcd4xnAw4Jq8",
+    "video": "https://www.youtube.com/watch?v=lzejSBdQ7LY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -12195,7 +12195,7 @@ export const dougScores =
     "value": 6,
     "daily": 17,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1sCnvBuDRJ0%26t%3D285s&sa=D&source=editors&ust=1684360665458692&usg=AOvVaw0pWBRetOe88hj-rgj9m-NJ",
+    "video": "https://www.youtube.com/watch?v=1sCnvBuDRJ0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -12220,7 +12220,7 @@ export const dougScores =
     "value": 5,
     "daily": 22,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DozqSdnkYxJM&sa=D&source=editors&ust=1684360665459128&usg=AOvVaw2N078qDSEn4tJ0Q5LFA-Cv",
+    "video": "https://www.youtube.com/watch?v=ozqSdnkYxJM",
     "filming_city": "Nashville",
     "filming_state": "Tennessee",
     "vehicle_country": "Germany"
@@ -12245,7 +12245,7 @@ export const dougScores =
     "value": 6,
     "daily": 31,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DN6JJH-smDnI&sa=D&source=editors&ust=1684360665459444&usg=AOvVaw1fpvgSJukJ0gUCr_H-mXfS",
+    "video": "https://www.youtube.com/watch?v=N6JJH-smDnI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12270,7 +12270,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbPaz4vRPKuo%26t%3D2s&sa=D&source=editors&ust=1684360665459762&usg=AOvVaw3JCI9an5ZuSLPflPrKxsZx",
+    "video": "https://www.youtube.com/watch?v=bPaz4vRPKuo",
     "filming_city": "Gaithersburg",
     "filming_state": "Maryland",
     "vehicle_country": "France"
@@ -12295,7 +12295,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dd2ogGZXmepY&sa=D&source=editors&ust=1684360665460070&usg=AOvVaw1dk2B-91GsTgSgJBGwxn1m",
+    "video": "https://www.youtube.com/watch?v=d2ogGZXmepY",
     "filming_city": "Wharton",
     "filming_state": "New Jersey",
     "vehicle_country": "USA"
@@ -12320,7 +12320,7 @@ export const dougScores =
     "value": 7,
     "daily": 23,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ds1AJO5NfAEk%26t%3D838s&sa=D&source=editors&ust=1684360665460380&usg=AOvVaw3uKYJk1lDs2G1dy4GqKlEX",
+    "video": "https://www.youtube.com/watch?v=s1AJO5NfAEk",
     "filming_city": "Hyannis",
     "filming_state": "Massachusetts",
     "vehicle_country": "Germany"
@@ -12345,7 +12345,7 @@ export const dougScores =
     "value": 6,
     "daily": 18,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4LAGNeE5pjA&sa=D&source=editors&ust=1684360665460718&usg=AOvVaw2QisogAIseDHPV0AdsxV2q",
+    "video": "https://www.youtube.com/watch?v=4LAGNeE5pjA",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12370,7 +12370,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DoobtlyWxBvM&sa=D&source=editors&ust=1684360665461024&usg=AOvVaw2lydq-zP8Y1olHjji_bxpt",
+    "video": "https://www.youtube.com/watch?v=oobtlyWxBvM",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -12395,7 +12395,7 @@ export const dougScores =
     "value": 7,
     "daily": 25,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIum6RjDftBA%26t%3D133s&sa=D&source=editors&ust=1684360665461330&usg=AOvVaw1dxdkoNm1FwSLjaDw75QMU",
+    "video": "https://www.youtube.com/watch?v=Ium6RjDftBA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -12420,7 +12420,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DTyQXBeYwFUc&sa=D&source=editors&ust=1684360665461659&usg=AOvVaw3k96cVFyKLgaK8S3ARmUkV",
+    "video": "https://www.youtube.com/watch?v=TyQXBeYwFUc",
     "filming_city": "Huntingdon Valley",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
@@ -12445,7 +12445,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFO53M8x3Y28%26t%3D3s&sa=D&source=editors&ust=1684360665462022&usg=AOvVaw2rz1LlrHVvZzcsPAC5g0r4",
+    "video": "https://www.youtube.com/watch?v=FO53M8x3Y28",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12470,7 +12470,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4I-T58QO43o%26t%3D2s&sa=D&source=editors&ust=1684360665462318&usg=AOvVaw3fsUYMzOQOh8s3TEDrYKHH",
+    "video": "https://www.youtube.com/watch?v=4I-T58QO43o",
     "filming_city": "Ontario",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -12495,7 +12495,7 @@ export const dougScores =
     "value": 5,
     "daily": 34,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBUjMjJvKh1c&sa=D&source=editors&ust=1684360665462616&usg=AOvVaw2bzgHjfFFGmPu6tCgCekgg",
+    "video": "https://www.youtube.com/watch?v=BUjMjJvKh1c",
     "filming_city": "El Cajon",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12520,7 +12520,7 @@ export const dougScores =
     "value": 2,
     "daily": 25,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyLfRPT5sEEI&sa=D&source=editors&ust=1684360665463071&usg=AOvVaw1CGwADaMhjUShsmJt4fti4",
+    "video": "https://www.youtube.com/watch?v=yLfRPT5sEEI",
     "filming_city": "Atlanta",
     "filming_state": "Georgia",
     "vehicle_country": "Germany"
@@ -12545,7 +12545,7 @@ export const dougScores =
     "value": 6,
     "daily": 19,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DssbSc0gaI04&sa=D&source=editors&ust=1684360665463422&usg=AOvVaw1DBkZ7xIxwk2txzp2bjaD6",
+    "video": "https://www.youtube.com/watch?v=ssbSc0gaI04",
     "filming_city": "La Jolla",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -12570,7 +12570,7 @@ export const dougScores =
     "value": 8,
     "daily": 23,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiVy17jx770U&sa=D&source=editors&ust=1684360665463724&usg=AOvVaw2sBe5sCUAvtJm63LuUyGNu",
+    "video": "https://www.youtube.com/watch?v=iVy17jx770U",
     "filming_city": "Huntingdon Valley",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -12595,7 +12595,7 @@ export const dougScores =
     "value": 6,
     "daily": 34,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKF-N1naN1yE&sa=D&source=editors&ust=1684360665464119&usg=AOvVaw1oftybgxVmNfhm-KiBcWJL",
+    "video": "https://www.youtube.com/watch?v=KF-N1naN1yE",
     "filming_city": "Harrisburg",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -12620,7 +12620,7 @@ export const dougScores =
     "value": 7,
     "daily": 35,
     "doug": 46,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRLf1CQg0Zpw&sa=D&source=editors&ust=1684360665464539&usg=AOvVaw3ajsbiBiMd20yZyAGYkC2W",
+    "video": "https://www.youtube.com/watch?v=RLf1CQg0Zpw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -12645,7 +12645,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhlyDC5JZ02E&sa=D&source=editors&ust=1684360665464941&usg=AOvVaw1jzObnWE6NrP5nbs9rH2jY",
+    "video": "https://www.youtube.com/watch?v=hlyDC5JZ02E",
     "filming_city": "Thousand Oaks",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -12670,7 +12670,7 @@ export const dougScores =
     "value": 8,
     "daily": 33,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHnI4BDLOb_8&sa=D&source=editors&ust=1684360665465255&usg=AOvVaw1Eem7_HbCWaSrFQzpH8ltJ",
+    "video": "https://www.youtube.com/watch?v=HnI4BDLOb_8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -12695,7 +12695,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dh8PxavrpaWc&sa=D&source=editors&ust=1684360665465683&usg=AOvVaw28pkTLUzw5N1hBw-Xhp-Jn",
+    "video": "https://www.youtube.com/watch?v=h8PxavrpaWc",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12720,7 +12720,7 @@ export const dougScores =
     "value": 6,
     "daily": 32,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dhs7HpGL4E3E&sa=D&source=editors&ust=1684360665466015&usg=AOvVaw1IYQ-W0sy4zLb50PK3Jsfo",
+    "video": "https://www.youtube.com/watch?v=hs7HpGL4E3E",
     "filming_city": "Detroit",
     "filming_state": "Michigan",
     "vehicle_country": "USA"
@@ -12745,7 +12745,7 @@ export const dougScores =
     "value": 7,
     "daily": 17,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXS1tBPzIzAU%26t%3D2s&sa=D&source=editors&ust=1684360665466424&usg=AOvVaw2RdBOq0n7aIx38UgdtezJ5",
+    "video": "https://www.youtube.com/watch?v=XS1tBPzIzAU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -12770,7 +12770,7 @@ export const dougScores =
     "value": 7,
     "daily": 19,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dtn-Z5FHXcBA&sa=D&source=editors&ust=1684360665466851&usg=AOvVaw1sXWCyxcsmBS3E574APV2D",
+    "video": "https://www.youtube.com/watch?v=tn-Z5FHXcBA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12795,7 +12795,7 @@ export const dougScores =
     "value": 6,
     "daily": 19,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZ0STPzChLTU%26t%3D1s&sa=D&source=editors&ust=1684360665467387&usg=AOvVaw06xo8vVN0lCTZZErKnGzBa",
+    "video": "https://www.youtube.com/watch?v=Z0STPzChLTU",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Italy"
@@ -12820,7 +12820,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZmghN0DbYys%26t%3D1s&sa=D&source=editors&ust=1684360665467785&usg=AOvVaw02OeQNjICPjZ3hxiycpHM1",
+    "video": "https://www.youtube.com/watch?v=ZmghN0DbYys",
     "filming_city": "Calexico",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12845,7 +12845,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlW0v505p60U&sa=D&source=editors&ust=1684360665468115&usg=AOvVaw04R6n_gv_Zwa1L1RG6sAxB",
+    "video": "https://www.youtube.com/watch?v=lW0v505p60U",
     "filming_city": "Dallas",
     "filming_state": "Texas",
     "vehicle_country": "Japan"
@@ -12870,7 +12870,7 @@ export const dougScores =
     "value": 5,
     "daily": 26,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQzLZX9r8N4E&sa=D&source=editors&ust=1684360665468425&usg=AOvVaw1vL74qtzsCKwDXiJ76rC1v",
+    "video": "https://www.youtube.com/watch?v=QzLZX9r8N4E",
     "filming_city": "Seattle",
     "filming_state": "Washington",
     "vehicle_country": "USA"
@@ -12895,7 +12895,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 45,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgXKZAVEee74&sa=D&source=editors&ust=1684360665468729&usg=AOvVaw1Rm2X8fU554L9sv4KvGreH",
+    "video": "https://www.youtube.com/watch?v=gXKZAVEee74",
     "filming_city": "Pennington",
     "filming_state": "New Jersey",
     "vehicle_country": "Italy"
@@ -12920,7 +12920,7 @@ export const dougScores =
     "value": 7,
     "daily": 21,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXbbxlCzVxdQ&sa=D&source=editors&ust=1684360665469038&usg=AOvVaw3SDRwMP1QAGMfKJylL7Osg",
+    "video": "https://www.youtube.com/watch?v=XbbxlCzVxdQ",
     "filming_city": "Modesto",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12945,7 +12945,7 @@ export const dougScores =
     "value": 5,
     "daily": 25,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DH7Aimjq7lpE%26t%3D9s&sa=D&source=editors&ust=1684360665469386&usg=AOvVaw0j9Z__bkhRD0cfo0M3WySv",
+    "video": "https://www.youtube.com/watch?v=H7Aimjq7lpE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -12970,7 +12970,7 @@ export const dougScores =
     "value": 5,
     "daily": 30,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5R88tfI2kVI&sa=D&source=editors&ust=1684360665469699&usg=AOvVaw3enDMQPi6Vh1wbtY-M7VjZ",
+    "video": "https://www.youtube.com/watch?v=5R88tfI2kVI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -12995,7 +12995,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJRocY48P0qA&sa=D&source=editors&ust=1684360665470069&usg=AOvVaw25tS2Hi9SsEXfeLxZV-IiQ",
+    "video": "https://www.youtube.com/watch?v=JRocY48P0qA",
     "filming_city": "New York City",
     "filming_state": "New York",
     "vehicle_country": "Japan"
@@ -13020,7 +13020,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVPDoBbfL7-E&sa=D&source=editors&ust=1684360665470530&usg=AOvVaw0-0p1jUGFOebjcsNM3TYZ9",
+    "video": "https://www.youtube.com/watch?v=VPDoBbfL7-E",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -13045,7 +13045,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBxFhNIgouMA&sa=D&source=editors&ust=1684360665470970&usg=AOvVaw2N5Cwjk6wHxxvVLJj3Dv11",
+    "video": "https://www.youtube.com/watch?v=BxFhNIgouMA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13070,7 +13070,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dc7QGXP4nxAs&sa=D&source=editors&ust=1684360665471283&usg=AOvVaw01j4lYycN2LpARiACpozSb",
+    "video": "https://www.youtube.com/watch?v=c7QGXP4nxAs",
     "filming_city": "Santa Ana",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -13095,7 +13095,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfqU9IeF58aQ&sa=D&source=editors&ust=1684360665471581&usg=AOvVaw35lU7-lAfgUX8PclxEvc8u",
+    "video": "https://www.youtube.com/watch?v=fqU9IeF58aQ",
     "filming_city": "Cypress",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13120,7 +13120,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DtztX_p3uMw8&sa=D&source=editors&ust=1684360665471891&usg=AOvVaw1hF6TrsEA8BgjXbpCRajsH",
+    "video": "https://www.youtube.com/watch?v=tztX_p3uMw8",
     "filming_city": "Garden Grove",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13145,7 +13145,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0-eWzZuXUQg&sa=D&source=editors&ust=1684360665472177&usg=AOvVaw1kfBMZRC_lIkedzsPilM_s",
+    "video": "https://www.youtube.com/watch?v=0-eWzZuXUQg",
     "filming_city": "Springfield",
     "filming_state": "Virginia",
     "vehicle_country": "USA"
@@ -13170,7 +13170,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 44,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHxHfrc60k8M&sa=D&source=editors&ust=1684360665472474&usg=AOvVaw28LvUAGkgyx2GsM_wG7BzP",
+    "video": "https://www.youtube.com/watch?v=HxHfrc60k8M",
     "filming_city": "Golden Valley",
     "filming_state": "Minnesota",
     "vehicle_country": "USA"
@@ -13195,7 +13195,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3STMfI_PS4Q&sa=D&source=editors&ust=1684360665472826&usg=AOvVaw3O8XK9lY6yOf9Txyj1dcs3",
+    "video": "https://www.youtube.com/watch?v=3STMfI_PS4Q",
     "filming_city": "Denver",
     "filming_state": "Colorado",
     "vehicle_country": "USA"
@@ -13220,7 +13220,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-mWgU2CxiE4&sa=D&source=editors&ust=1684360665473129&usg=AOvVaw2GxD4YR9zz2ZBORlN_H3ZJ",
+    "video": "https://www.youtube.com/watch?v=-mWgU2CxiE4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13245,7 +13245,7 @@ export const dougScores =
     "value": 6,
     "daily": 27,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dw4CkJQuF-JY&sa=D&source=editors&ust=1684360665473462&usg=AOvVaw3inGkuN2kfeoONvVhtdvA7",
+    "video": "https://www.youtube.com/watch?v=w4CkJQuF-JY",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -13270,7 +13270,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3B7QqQR7arA&sa=D&source=editors&ust=1684360665473758&usg=AOvVaw3tuJgfb0dz0_eSei-R2FDT",
+    "video": "https://www.youtube.com/watch?v=3B7QqQR7arA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13295,7 +13295,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMUVnTqLA_b0&sa=D&source=editors&ust=1684360665474101&usg=AOvVaw2zv72lBUlsRU0CzR8Yj_YJ",
+    "video": "https://www.youtube.com/watch?v=MUVnTqLA_b0",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13320,7 +13320,7 @@ export const dougScores =
     "value": 7,
     "daily": 32,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9Y1Y-1qOc_I&sa=D&source=editors&ust=1684360665474493&usg=AOvVaw0Entl0gkI-w9nv7gibQlbo",
+    "video": "https://www.youtube.com/watch?v=9Y1Y-1qOc_I",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "South Korea"
@@ -13345,7 +13345,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbO4skrCfEPU&sa=D&source=editors&ust=1684360665474824&usg=AOvVaw2sGdyr3nTKoURN4HWg_5EE",
+    "video": "https://www.youtube.com/watch?v=bO4skrCfEPU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13370,7 +13370,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOoihSOhWO3Q%26t%3D154s&sa=D&source=editors&ust=1684360665475128&usg=AOvVaw2XV_tF9NzzH0-91M55Xn0-",
+    "video": "https://www.youtube.com/watch?v=OoihSOhWO3Q",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13395,7 +13395,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2TOAPqcBezc&sa=D&source=editors&ust=1684360665475427&usg=AOvVaw2nuUPhwjyJ_3xNko6-Xnww",
+    "video": "https://www.youtube.com/watch?v=2TOAPqcBezc",
     "filming_city": "Mission Viejo",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13420,7 +13420,7 @@ export const dougScores =
     "value": 5,
     "daily": 17,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7gYC0w28uxA&sa=D&source=editors&ust=1684360665475719&usg=AOvVaw2McPb2WqOpt9YcTSb7405j",
+    "video": "https://www.youtube.com/watch?v=7gYC0w28uxA",
     "filming_city": "Wilkes-Barre",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -13445,7 +13445,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBqDiWhlwrZ4&sa=D&source=editors&ust=1684360665476029&usg=AOvVaw1uwVgxk62eyKL2VPteQcOB",
+    "video": "https://www.youtube.com/watch?v=BqDiWhlwrZ4",
     "filming_city": "Lynwood",
     "filming_state": "Washington",
     "vehicle_country": "Japan"
@@ -13470,7 +13470,7 @@ export const dougScores =
     "value": 4,
     "daily": 21,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3QAHK1Uy9ao&sa=D&source=editors&ust=1684360665476320&usg=AOvVaw2nlWL6MlkzDrrB4NDbX4WL",
+    "video": "https://www.youtube.com/watch?v=3QAHK1Uy9ao",
     "filming_city": "Golden Valley",
     "filming_state": "Minnesota",
     "vehicle_country": "Italy"
@@ -13495,7 +13495,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 43,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrcKjCzd4Pyw%26t%3D2s&sa=D&source=editors&ust=1684360665476632&usg=AOvVaw1sEmNvGLIhHYqAbkpl-9kf",
+    "video": "https://www.youtube.com/watch?v=rcKjCzd4Pyw",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13520,7 +13520,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 42,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dqz0PHsHrPn0&sa=D&source=editors&ust=1684360665477068&usg=AOvVaw297f7NsYHjuFigGT9cbTx2",
+    "video": "https://www.youtube.com/watch?v=qz0PHsHrPn0",
     "filming_city": "Orange",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13545,7 +13545,7 @@ export const dougScores =
     "value": 5,
     "daily": 22,
     "doug": 42,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DluD_Lp4vjAg%26t%3D1s&sa=D&source=editors&ust=1684360665477366&usg=AOvVaw3kyuiYMgzWUVTHSN1DD_j1",
+    "video": "https://www.youtube.com/watch?v=luD_Lp4vjAg",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -13570,7 +13570,7 @@ export const dougScores =
     "value": 7,
     "daily": 31,
     "doug": 42,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVdv3RFSDA68%26t%3D3s&sa=D&source=editors&ust=1684360665477760&usg=AOvVaw1XS6fPN4oPG9DaWCXbYDdK",
+    "video": "https://www.youtube.com/watch?v=Vdv3RFSDA68",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13595,7 +13595,7 @@ export const dougScores =
     "value": 7,
     "daily": 30,
     "doug": 42,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-vNUXUA526s%26t%3D4s&sa=D&source=editors&ust=1684360665478067&usg=AOvVaw1MEZfq30jog6m3Y3rJl0Yb",
+    "video": "https://www.youtube.com/watch?v=-vNUXUA526s",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13620,7 +13620,7 @@ export const dougScores =
     "value": 6,
     "daily": 20,
     "doug": 42,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJ0crFUxksXg%26t%3D20s&sa=D&source=editors&ust=1684360665478382&usg=AOvVaw1v4O9V_sOtIdeJR89cmHX2",
+    "video": "https://www.youtube.com/watch?v=J0crFUxksXg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13645,7 +13645,7 @@ export const dougScores =
     "value": 7,
     "daily": 28,
     "doug": 42,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFtmNXC8iqR4&sa=D&source=editors&ust=1684360665478690&usg=AOvVaw2viGr4vmnq4dsIDlWzyGCE",
+    "video": "https://www.youtube.com/watch?v=FtmNXC8iqR4",
     "filming_city": "Dubai",
     "filming_state": "UAE",
     "vehicle_country": "South Korea"
@@ -13670,7 +13670,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHkBJr3y8KvU%26t%3D14s&sa=D&source=editors&ust=1684360665479006&usg=AOvVaw3lta4kY9w5pWZDDTxYysg3",
+    "video": "https://www.youtube.com/watch?v=HkBJr3y8KvU",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13695,7 +13695,7 @@ export const dougScores =
     "value": 7,
     "daily": 27,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4fTA8SYA5rI&sa=D&source=editors&ust=1684360665479308&usg=AOvVaw1vRIirr87P4uFzf5sweQC8",
+    "video": "https://www.youtube.com/watch?v=4fTA8SYA5rI",
     "filming_city": "Yorba Linda",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13720,7 +13720,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dpq2PSLdc8rA&sa=D&source=editors&ust=1684360665479686&usg=AOvVaw3MFbsUhNhjc6ZaaFCe0NhB",
+    "video": "https://www.youtube.com/watch?v=pq2PSLdc8rA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13745,7 +13745,7 @@ export const dougScores =
     "value": 6,
     "daily": 30,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DElt-BDrPSMM%26t%3D3s&sa=D&source=editors&ust=1684360665480001&usg=AOvVaw3x7cq8AXD5aV94q6hxQUtO",
+    "video": "https://www.youtube.com/watch?v=Elt-BDrPSMM",
     "filming_city": "Scottsdale",
     "filming_state": "Arizona",
     "vehicle_country": "USA"
@@ -13770,7 +13770,7 @@ export const dougScores =
     "value": 5,
     "daily": 24,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dsj2DtHCCa0c&sa=D&source=editors&ust=1684360665480294&usg=AOvVaw0bqb1oVCm1C93Y6mL5s1h5",
+    "video": "https://www.youtube.com/watch?v=sj2DtHCCa0c",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Sweden"
@@ -13795,7 +13795,7 @@ export const dougScores =
     "value": 6,
     "daily": 21,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYqVvFOPjWxg&sa=D&source=editors&ust=1684360665480590&usg=AOvVaw1ehNASx5Morcd1OXH_7zDE",
+    "video": "https://www.youtube.com/watch?v=YqVvFOPjWxg",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "UK"
@@ -13820,7 +13820,7 @@ export const dougScores =
     "value": 4,
     "daily": 30,
     "doug": 41,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8uIKBDIygWg&sa=D&source=editors&ust=1684360665480897&usg=AOvVaw3HNDFP8y6Mx3lF5mOujTx9",
+    "video": "https://www.youtube.com/watch?v=8uIKBDIygWg",
     "filming_city": "Fort Worth",
     "filming_state": "Texas",
     "vehicle_country": "Japan"
@@ -13845,7 +13845,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLZfxJbd0_E4&sa=D&source=editors&ust=1684360665481201&usg=AOvVaw1anHhwhmDpd2ZkiVw9OTgn",
+    "video": "https://www.youtube.com/watch?v=LZfxJbd0_E4",
     "filming_city": "Carlsbad",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -13870,7 +13870,7 @@ export const dougScores =
     "value": 6,
     "daily": 29,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHc5Jd7OsXX8&sa=D&source=editors&ust=1684360665481497&usg=AOvVaw3FGcN5tQ8vUX_AkqYiQ-r5",
+    "video": "https://www.youtube.com/watch?v=Hc5Jd7OsXX8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13895,7 +13895,7 @@ export const dougScores =
     "value": 6,
     "daily": 26,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D07B1PgXvG9A%26t%3D2s&sa=D&source=editors&ust=1684360665481925&usg=AOvVaw0WLa0T_0ABPERxGmljGDr2",
+    "video": "https://www.youtube.com/watch?v=07B1PgXvG9A",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13920,7 +13920,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_RCiHO-GA2E%26t%3D139s&sa=D&source=editors&ust=1684360665482267&usg=AOvVaw2tHUWvuWDrK_V8LWpEnozL",
+    "video": "https://www.youtube.com/watch?v=_RCiHO-GA2E",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13945,7 +13945,7 @@ export const dougScores =
     "value": 7,
     "daily": 26,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMi21sR8hfr8%26t%3D2s&sa=D&source=editors&ust=1684360665482568&usg=AOvVaw0FAHb8_DjhnmiCLYeiG3b5",
+    "video": "https://www.youtube.com/watch?v=Mi21sR8hfr8",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -13970,7 +13970,7 @@ export const dougScores =
     "value": 3,
     "daily": 25,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZ9WZZaM_MKg&sa=D&source=editors&ust=1684360665482956&usg=AOvVaw1VdezaJSjRbl9qntJUClsv",
+    "video": "https://www.youtube.com/watch?v=Z9WZZaM_MKg",
     "filming_city": "Doral",
     "filming_state": "Florida",
     "vehicle_country": "UK"
@@ -13995,7 +13995,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 40,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D33AP0JnXSOA&sa=D&source=editors&ust=1684360665483258&usg=AOvVaw1sbcxo4zZbJOmqzuTGFQbv",
+    "video": "https://www.youtube.com/watch?v=33AP0JnXSOA",
     "filming_city": "Harrisburg",
     "filming_state": "Pennsylvania",
     "vehicle_country": "USA"
@@ -14020,7 +14020,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyyTJTUNgsVU%26t%3D548s&sa=D&source=editors&ust=1684360665483580&usg=AOvVaw2kui6OcMkyBgfDRzAN7h1I",
+    "video": "https://www.youtube.com/watch?v=yyTJTUNgsVU",
     "filming_city": "Martinez",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -14045,7 +14045,7 @@ export const dougScores =
     "value": 6,
     "daily": 17,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJnL19B4OobE&sa=D&source=editors&ust=1684360665484119&usg=AOvVaw2Vf1JFOOe75MksZ3wJx01y",
+    "video": "https://www.youtube.com/watch?v=JnL19B4OobE",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Germany"
@@ -14070,7 +14070,7 @@ export const dougScores =
     "value": 4,
     "daily": 21,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJrHDeSMvnt4&sa=D&source=editors&ust=1684360665484508&usg=AOvVaw3kFZIb2M37TrRSmfCi0KYz",
+    "video": "https://www.youtube.com/watch?v=JrHDeSMvnt4",
     "filming_city": "Upland",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -14095,7 +14095,7 @@ export const dougScores =
     "value": 6,
     "daily": 28,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_UQ3ym2HXZA&sa=D&source=editors&ust=1684360665484823&usg=AOvVaw1dH9DPwG0hEcG4wRUjbmSK",
+    "video": "https://www.youtube.com/watch?v=_UQ3ym2HXZA",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -14120,7 +14120,7 @@ export const dougScores =
     "value": 7,
     "daily": 29,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEZCH1JsTNMI%26t%3D1s&sa=D&source=editors&ust=1684360665485252&usg=AOvVaw1Njn1wA4wF3ea_Hm_MYvV8",
+    "video": "https://www.youtube.com/watch?v=EZCH1JsTNMI",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -14145,7 +14145,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4vsMe5jDpNc&sa=D&source=editors&ust=1684360665485590&usg=AOvVaw0oru1tec8DXNbs5EvnY78f",
+    "video": "https://www.youtube.com/watch?v=4vsMe5jDpNc",
     "filming_city": "King of Prussia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "UK"
@@ -14170,7 +14170,7 @@ export const dougScores =
     "value": 6,
     "daily": 17,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgH65wZfN62k&sa=D&source=editors&ust=1684360665485912&usg=AOvVaw3sYpgQs0WxYyMSQFrXnrLx",
+    "video": "https://www.youtube.com/watch?v=gH65wZfN62k",
     "filming_city": "Dubai",
     "filming_state": "UAE",
     "vehicle_country": "Italy"
@@ -14195,7 +14195,7 @@ export const dougScores =
     "value": 2,
     "daily": 23,
     "doug": 39,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZZidmj1VaFw&sa=D&source=editors&ust=1684360665486217&usg=AOvVaw1GvPpuH8EFNV8AdiurD8Zo",
+    "video": "https://www.youtube.com/watch?v=ZZidmj1VaFw",
     "filming_city": "Birmingham",
     "filming_state": "Michigan",
     "vehicle_country": "USA"
@@ -14220,7 +14220,7 @@ export const dougScores =
     "value": 6,
     "daily": 25,
     "doug": 38,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJWkFXH2jum4&sa=D&source=editors&ust=1684360665486611&usg=AOvVaw38sjybv73-zYbTtIIv4S_J",
+    "video": "https://www.youtube.com/watch?v=JWkFXH2jum4",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -14245,7 +14245,7 @@ export const dougScores =
     "value": 6,
     "daily": 22,
     "doug": 38,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9YRwb0d8Es4&sa=D&source=editors&ust=1684360665487141&usg=AOvVaw12PsILjMnxMHbpqLwwdFCr",
+    "video": "https://www.youtube.com/watch?v=9YRwb0d8Es4",
     "filming_city": "Cookeville",
     "filming_state": "Tennessee",
     "vehicle_country": "Japan"
@@ -14270,7 +14270,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 38,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNNkj1VgEc_M%26t%3D2s&sa=D&source=editors&ust=1684360665487737&usg=AOvVaw1KyYGr8AF4l8yq7MQa2Tre",
+    "video": "https://www.youtube.com/watch?v=NNkj1VgEc_M",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -14295,7 +14295,7 @@ export const dougScores =
     "value": 7,
     "daily": 24,
     "doug": 38,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZOszin9227Q&sa=D&source=editors&ust=1684360665488295&usg=AOvVaw0pSoKBD4sqyrOdt8ReYCCW",
+    "video": "https://www.youtube.com/watch?v=ZOszin9227Q",
     "filming_city": "Castaic",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -14320,7 +14320,7 @@ export const dougScores =
     "value": 6,
     "daily": 24,
     "doug": 37,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRmIThRFrzLY&sa=D&source=editors&ust=1684360665488633&usg=AOvVaw2GQfs-7sbkpya74eM8lSlv",
+    "video": "https://www.youtube.com/watch?v=RmIThRFrzLY",
     "filming_city": "San Jose",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -14345,7 +14345,7 @@ export const dougScores =
     "value": 7,
     "daily": 22,
     "doug": 37,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0sasiOhhjd0&sa=D&source=editors&ust=1684360665488943&usg=AOvVaw3xDKiHgLE3sLY8YRVVsLs5",
+    "video": "https://www.youtube.com/watch?v=0sasiOhhjd0",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "USA"
@@ -14370,7 +14370,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 37,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKuidQ9ang1Q%26t%3D1121s&sa=D&source=editors&ust=1684360665489241&usg=AOvVaw1O_2jD9_BaCw4LQvRacdzk",
+    "video": "https://www.youtube.com/watch?v=KuidQ9ang1Q",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Russia"
@@ -14395,7 +14395,7 @@ export const dougScores =
     "value": 5,
     "daily": 11,
     "doug": 35,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_XDSGzrCG2o%26t%3D1s&sa=D&source=editors&ust=1684360665489542&usg=AOvVaw3_8QYla3WIsZTjmr-MHHgj",
+    "video": "https://www.youtube.com/watch?v=_XDSGzrCG2o",
     "filming_city": "Los Angeles",
     "filming_state": "California",
     "vehicle_country": "Denmark"
@@ -14420,7 +14420,7 @@ export const dougScores =
     "value": 6,
     "daily": 18,
     "doug": 33,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D2IvlXHwVamE%26t%3D1s&sa=D&source=editors&ust=1684360665489903&usg=AOvVaw2mO528O3l5kBrCXHd4QAXS",
+    "video": "https://www.youtube.com/watch?v=2IvlXHwVamE",
     "filming_city": "San Diego",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -14445,7 +14445,7 @@ export const dougScores =
     "value": 2,
     "daily": 23,
     "doug": 32,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUj2e_kqiN-Y&sa=D&source=editors&ust=1684360665490450&usg=AOvVaw2GDSZSn5O_qdn55eGbhjtK",
+    "video": "https://www.youtube.com/watch?v=Uj2e_kqiN-Y",
     "filming_city": "Orlando",
     "filming_state": "Florida",
     "vehicle_country": "USA"
@@ -14470,7 +14470,7 @@ export const dougScores =
     "value": 7,
     "daily": 12,
     "doug": 32,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dv5tTSfWMeNo&sa=D&source=editors&ust=1684360665490828&usg=AOvVaw2toMqmuaO41sLlFXuIldnH",
+    "video": "https://www.youtube.com/watch?v=v5tTSfWMeNo",
     "filming_city": "Franklin",
     "filming_state": "Tennessee",
     "vehicle_country": "UK"
@@ -14495,7 +14495,7 @@ export const dougScores =
     "value": 6,
     "daily": 23,
     "doug": 31,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5aCsNs3eYTE&sa=D&source=editors&ust=1684360665491205&usg=AOvVaw1f3neoVsfT3GTCERbp7gZ7",
+    "video": "https://www.youtube.com/watch?v=5aCsNs3eYTE",
     "filming_city": "San Mateo",
     "filming_state": "California",
     "vehicle_country": "Japan"
@@ -14520,7 +14520,7 @@ export const dougScores =
     "value": 3,
     "daily": 21,
     "doug": 30,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ddr4Y838Lg1w&sa=D&source=editors&ust=1684360665491522&usg=AOvVaw2ZnVLuHlP7X_zwE0F5YS7L",
+    "video": "https://www.youtube.com/watch?v=dr4Y838Lg1w",
     "filming_city": "Philadelphia",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Japan"
@@ -14545,7 +14545,7 @@ export const dougScores =
     "value": 1,
     "daily": 21,
     "doug": 30,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dsa8kHgmZIiQ&sa=D&source=editors&ust=1684360665491833&usg=AOvVaw25FZAyKFD0aYUYA3yo5yB3",
+    "video": "https://www.youtube.com/watch?v=sa8kHgmZIiQ",
     "filming_city": "Denver",
     "filming_state": "Colorado",
     "vehicle_country": "Germany"
@@ -14570,7 +14570,7 @@ export const dougScores =
     "value": 5,
     "daily": 14,
     "doug": 29,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQN4UhS8cFTk&sa=D&source=editors&ust=1684360665492185&usg=AOvVaw1Xjt8yVFZ9LrgzuKDIDY8D",
+    "video": "https://www.youtube.com/watch?v=QN4UhS8cFTk",
     "filming_city": "Douglasville",
     "filming_state": "Georgia",
     "vehicle_country": "Yugoslavia"
@@ -14595,7 +14595,7 @@ export const dougScores =
     "value": 6,
     "daily": 13,
     "doug": 27,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNo1-4GsQa-g&sa=D&source=editors&ust=1684360665492607&usg=AOvVaw3blsYv1LNdQz5xNEEYsEhI",
+    "video": "https://www.youtube.com/watch?v=No1-4GsQa-g",
     "filming_city": "Fairfax",
     "filming_state": "Virginia",
     "vehicle_country": "East Germany"
@@ -14620,7 +14620,7 @@ export const dougScores =
     "value": 4,
     "daily": 8,
     "doug": 25,
-    "video": "https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dk0dEzY-xld8&sa=D&source=editors&ust=1684360665492941&usg=AOvVaw0mNihtlg63fDaAmgeI5E4y",
+    "video": "https://www.youtube.com/watch?v=k0dEzY-xld8",
     "filming_city": "Huntingdon Valley",
     "filming_state": "Pennsylvania",
     "vehicle_country": "Germany"
